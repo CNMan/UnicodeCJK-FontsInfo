@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [5,491 characters] :
+BabelStone Han PUA (Regular) [5,495 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -3050,6 +3050,7 @@ U+EDD9		<private-use-EDD9>
 U+EDDA		<private-use-EDDA>
 U+EDDB		<private-use-EDDB>
 U+EDDC		<private-use-EDDC>
+U+EDDD		<private-use-EDDD>
 U+EDDE		<private-use-EDDE>
 U+EDDF		<private-use-EDDF>
 U+EDE0		<private-use-EDE0>
@@ -3477,6 +3478,7 @@ U+EF85		<private-use-EF85>
 U+EF86		<private-use-EF86>
 U+EF87		<private-use-EF87>
 U+EF88		<private-use-EF88>
+U+EF89		<private-use-EF89>
 U+EF8A		<private-use-EF8A>
 U+EF8B		<private-use-EF8B>
 U+EF8C		<private-use-EF8C>
@@ -3788,6 +3790,7 @@ U+F0DA		<private-use-F0DA>
 U+F0DB		<private-use-F0DB>
 U+F0DC		<private-use-F0DC>
 U+F0DD		<private-use-F0DD>
+U+F0DE		<private-use-F0DE>
 U+F0DF		<private-use-F0DF>
 U+F0E0		<private-use-F0E0>
 U+F0E1		<private-use-F0E1>
@@ -3797,6 +3800,7 @@ U+F0E4		<private-use-F0E4>
 U+F0E5		<private-use-F0E5>
 U+F0E6		<private-use-F0E6>
 U+F0E7		<private-use-F0E7>
+U+F0E8		<private-use-F0E8>
 U+F0E9		<private-use-F0E9>
 U+F0EA		<private-use-F0EA>
 U+F0EB		<private-use-F0EB>
