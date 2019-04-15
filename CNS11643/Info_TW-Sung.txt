@@ -114,4 +114,4 @@ CJK Compatibility Ideographs Supplement (532 out of 542 characters)
 TW-Sung-Plus (Regular) : 
 Basic Latin (95 out of 128 characters)
 CJK Unified Ideographs (6 out of 20,976 characters)
-Supplementary Private Use Area-A (23,833 out of 65,534 characters)
+Supplementary Private Use Area-A (23,834 out of 65,534 characters)
