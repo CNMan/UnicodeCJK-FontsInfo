@@ -801,7 +801,7 @@
 ㄐㄩㄥ	jiong	jiung	jyung	chiung
 ㄐㄩㄥˇ	jiong3	jiung3	jyung3	chiung3
 ㄐㄩㄥˋ	jiong4	jiung4	jyung4	chiung4
-˙ㄑ	q5	chi5	ch5	ch'5
+˙ㄑ	q5	ch5	ch5	ch'5
 ㄑㄧ	qi	chi	chi	ch'i
 ㄑㄧˊ	qi2	chi2	chi2	ch'i2
 ㄑㄧˇ	qi3	chi3	chi3	ch'i3
