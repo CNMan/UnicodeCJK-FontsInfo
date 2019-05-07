@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [5,506 characters] :
+BabelStone Han PUA (Regular) [5,531 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -3939,6 +3939,7 @@ U+F179		<private-use-F179>
 U+F17A		<private-use-F17A>
 U+F17B		<private-use-F17B>
 U+F17C		<private-use-F17C>
+U+F17F		<private-use-F17F>
 U+F180		<private-use-F180>
 U+F181		<private-use-F181>
 U+F182		<private-use-F182>
@@ -4364,6 +4365,17 @@ U+F37E		<private-use-F37E>
 U+F381		<private-use-F381>
 U+F398		<private-use-F398>
 U+F39D		<private-use-F39D>
+U+F39E		<private-use-F39E>
+U+F39F		<private-use-F39F>
+U+F3A0		<private-use-F3A0>
+U+F3A1		<private-use-F3A1>
+U+F3A2		<private-use-F3A2>
+U+F3A3		<private-use-F3A3>
+U+F3A4		<private-use-F3A4>
+U+F3A5		<private-use-F3A5>
+U+F3A6		<private-use-F3A6>
+U+F3A7		<private-use-F3A7>
+U+F3A8		<private-use-F3A8>
 U+F3A9		<private-use-F3A9>
 U+F3AA		<private-use-F3AA>
 U+F3AB		<private-use-F3AB>
@@ -4398,6 +4410,19 @@ U+F3C8		<private-use-F3C8>
 U+F3C9		<private-use-F3C9>
 U+F3CA		<private-use-F3CA>
 U+F3CB		<private-use-F3CB>
+U+F3CC		<private-use-F3CC>
+U+F3CD		<private-use-F3CD>
+U+F3CE		<private-use-F3CE>
+U+F3D0		<private-use-F3D0>
+U+F3D1		<private-use-F3D1>
+U+F3D2		<private-use-F3D2>
+U+F3D3		<private-use-F3D3>
+U+F3D4		<private-use-F3D4>
+U+F3D5		<private-use-F3D5>
+U+F3D6		<private-use-F3D6>
+U+F3D7		<private-use-F3D7>
+U+F3D8		<private-use-F3D8>
+U+F3D9		<private-use-F3D9>
 U+F3DF		<private-use-F3DF>
 U+F3E0		<private-use-F3E0>
 U+F3E1		<private-use-F3E1>
