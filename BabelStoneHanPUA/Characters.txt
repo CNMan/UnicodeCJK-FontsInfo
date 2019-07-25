@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [5,803 characters] :
+BabelStone Han PUA (Regular) [5,808 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -4784,6 +4784,8 @@ U+F49C		<private-use-F49C>
 U+F49D		<private-use-F49D>
 U+F49E		<private-use-F49E>
 U+F49F		<private-use-F49F>
+U+F4A0		<private-use-F4A0>
+U+F4A1		<private-use-F4A1>
 U+F4A2		<private-use-F4A2>
 U+F4A3		<private-use-F4A3>
 U+F4A4		<private-use-F4A4>
@@ -4822,6 +4824,7 @@ U+F4C4		<private-use-F4C4>
 U+F4C5		<private-use-F4C5>
 U+F4C6		<private-use-F4C6>
 U+F4C7		<private-use-F4C7>
+U+F4C8		<private-use-F4C8>
 U+F4C9		<private-use-F4C9>
 U+F4CA		<private-use-F4CA>
 U+F4CB		<private-use-F4CB>
@@ -4849,6 +4852,8 @@ U+F4E1		<private-use-F4E1>
 U+F4E2		<private-use-F4E2>
 U+F4E3		<private-use-F4E3>
 U+F4E9		<private-use-F4E9>
+U+F4EA		<private-use-F4EA>
+U+F4EB		<private-use-F4EB>
 U+F4EC		<private-use-F4EC>
 U+F4ED		<private-use-F4ED>
 U+F4EE		<private-use-F4EE>
