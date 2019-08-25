@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [5,816 characters] :
+BabelStone Han PUA (Regular) [5,818 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -4531,7 +4531,9 @@ U+F32F		<private-use-F32F>
 U+F330		<private-use-F330>
 U+F331		<private-use-F331>
 U+F332		<private-use-F332>
+U+F333		<private-use-F333>
 U+F334		<private-use-F334>
+U+F335		<private-use-F335>
 U+F33A		<private-use-F33A>
 U+F345		<private-use-F345>
 U+F348		<private-use-F348>
