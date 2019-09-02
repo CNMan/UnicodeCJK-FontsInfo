@@ -1,4 +1,4 @@
-中华书局宋体15平面 (Regular) [39,211 characters] :
+中华书局宋体15平面 (Regular) [39,233 characters] :
 U+0020	 	SPACE
 U+0021	!	EXCLAMATION MARK
 U+0022	"	QUOTATION MARK
@@ -36372,6 +36372,28 @@ U+F8DC7	󸷇	<private-use-F8DC7>
 U+F8DC8	󸷈	<private-use-F8DC8>
 U+F8DC9	󸷉	<private-use-F8DC9>
 U+F8DCA	󸷊	<private-use-F8DCA>
+U+F8DCB	󸷋	<private-use-F8DCB>
+U+F8DCC	󸷌	<private-use-F8DCC>
+U+F8DCD	󸷍	<private-use-F8DCD>
+U+F8DCE	󸷎	<private-use-F8DCE>
+U+F8DCF	󸷏	<private-use-F8DCF>
+U+F8DD0	󸷐	<private-use-F8DD0>
+U+F8DD1	󸷑	<private-use-F8DD1>
+U+F8DD2	󸷒	<private-use-F8DD2>
+U+F8DD3	󸷓	<private-use-F8DD3>
+U+F8DD4	󸷔	<private-use-F8DD4>
+U+F8DD5	󸷕	<private-use-F8DD5>
+U+F8DD6	󸷖	<private-use-F8DD6>
+U+F8DD7	󸷗	<private-use-F8DD7>
+U+F8DD8	󸷘	<private-use-F8DD8>
+U+F8DD9	󸷙	<private-use-F8DD9>
+U+F8DDA	󸷚	<private-use-F8DDA>
+U+F8DDB	󸷛	<private-use-F8DDB>
+U+F8DDC	󸷜	<private-use-F8DDC>
+U+F8DDD	󸷝	<private-use-F8DDD>
+U+F8DDE	󸷞	<private-use-F8DDE>
+U+F8DDF	󸷟	<private-use-F8DDF>
+U+F8DE0	󸷠	<private-use-F8DE0>
 U+FC500	󼔀	<private-use-FC500>
 U+FC501	󼔁	<private-use-FC501>
 U+FC502	󼔂	<private-use-FC502>
