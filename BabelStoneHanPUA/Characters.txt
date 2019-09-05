@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [5,830 characters] :
+BabelStone Han PUA (Regular) [5,856 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -137,6 +137,31 @@ U+E125		<private-use-E125>
 U+E126		<private-use-E126>
 U+E127		<private-use-E127>
 U+E128		<private-use-E128>
+U+E187		<private-use-E187>
+U+E188		<private-use-E188>
+U+E189		<private-use-E189>
+U+E18A		<private-use-E18A>
+U+E18B		<private-use-E18B>
+U+E18C		<private-use-E18C>
+U+E18D		<private-use-E18D>
+U+E18E		<private-use-E18E>
+U+E18F		<private-use-E18F>
+U+E190		<private-use-E190>
+U+E191		<private-use-E191>
+U+E192		<private-use-E192>
+U+E193		<private-use-E193>
+U+E194		<private-use-E194>
+U+E195		<private-use-E195>
+U+E196		<private-use-E196>
+U+E197		<private-use-E197>
+U+E198		<private-use-E198>
+U+E199		<private-use-E199>
+U+E19A		<private-use-E19A>
+U+E19B		<private-use-E19B>
+U+E19C		<private-use-E19C>
+U+E19D		<private-use-E19D>
+U+E19E		<private-use-E19E>
+U+E19F		<private-use-E19F>
 U+E1A0		<private-use-E1A0>
 U+E1A1		<private-use-E1A1>
 U+E1A2		<private-use-E1A2>
@@ -5520,6 +5545,7 @@ U+F78B		<private-use-F78B>
 U+F78C		<private-use-F78C>
 U+F78D		<private-use-F78D>
 U+F78E		<private-use-F78E>
+U+F78F		<private-use-F78F>
 U+F790		<private-use-F790>
 U+F791		<private-use-F791>
 U+F792		<private-use-F792>
