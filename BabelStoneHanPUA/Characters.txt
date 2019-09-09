@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [5,856 characters] :
+BabelStone Han PUA (Regular) [5,871 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -557,6 +557,7 @@ U+E328		<private-use-E328>
 U+E329		<private-use-E329>
 U+E32A		<private-use-E32A>
 U+E32B		<private-use-E32B>
+U+E32C		<private-use-E32C>
 U+E32D		<private-use-E32D>
 U+E32E		<private-use-E32E>
 U+E32F		<private-use-E32F>
@@ -897,6 +898,7 @@ U+E47E		<private-use-E47E>
 U+E47F		<private-use-E47F>
 U+E480		<private-use-E480>
 U+E481		<private-use-E481>
+U+E482		<private-use-E482>
 U+E483		<private-use-E483>
 U+E484		<private-use-E484>
 U+E485		<private-use-E485>
@@ -2516,9 +2518,22 @@ U+EAD8		<private-use-EAD8>
 U+EAD9		<private-use-EAD9>
 U+EADA		<private-use-EADA>
 U+EADB		<private-use-EADB>
+U+EADC		<private-use-EADC>
 U+EADD		<private-use-EADD>
 U+EADE		<private-use-EADE>
 U+EADF		<private-use-EADF>
+U+EAE0		<private-use-EAE0>
+U+EAE1		<private-use-EAE1>
+U+EAE2		<private-use-EAE2>
+U+EAE3		<private-use-EAE3>
+U+EAE4		<private-use-EAE4>
+U+EAE5		<private-use-EAE5>
+U+EAE6		<private-use-EAE6>
+U+EAE7		<private-use-EAE7>
+U+EAE8		<private-use-EAE8>
+U+EAE9		<private-use-EAE9>
+U+EAEA		<private-use-EAEA>
+U+EAEB		<private-use-EAEB>
 U+EAF0		<private-use-EAF0>
 U+EAF1		<private-use-EAF1>
 U+EAF2		<private-use-EAF2>
