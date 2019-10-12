@@ -220,6 +220,7 @@
 ㄈㄣˊ	fen2	fen2	fen2	fen2
 ㄈㄣˇ	fen3	fen3	fen3	fen3
 ㄈㄣˋ	fen4	fen4	fen4	fen4
+˙ㄈㄣ	fen5	fen5	fen5	fen5
 ㄈㄤ	fang	fang	fang	fang
 ㄈㄤˊ	fang2	fang2	fang2	fang2
 ㄈㄤˇ	fang3	fang3	fang3	fang3
@@ -456,7 +457,7 @@
 ㄋㄩˊ	nv2	niu2	nyu2	nv2
 ㄋㄩˇ	nv3	niu3	nyu3	nv3
 ㄋㄩˋ	nv4	niu4	nyu4	nv4
-ㄋㄩㄝˋ	nue4	niue4	nywe4	nueh4
+ㄋㄩㄝˋ	nve4	niue4	nywe4	nveh4
 ㄌㄚ	la	la	la	la
 ㄌㄚˊ	la2	la2	la2	la2
 ㄌㄚˇ	la3	la3	la3	la3
@@ -552,9 +553,9 @@
 ㄌㄩˊ	lv2	liu2	lyu2	lv2
 ㄌㄩˇ	lv3	liu3	lyu3	lv3
 ㄌㄩˋ	lv4	liu4	lyu4	lv4
-ㄌㄩㄝ	lue	liue	lywe	lueh
-ㄌㄩㄝˇ	lue3	liue3	lywe3	lueh3
-ㄌㄩㄝˋ	lue4	liue4	lywe4	lueh4
+ㄌㄩㄝ	lve	liue	lywe	lveh
+ㄌㄩㄝˇ	lve3	liue3	lywe3	lveh3
+ㄌㄩㄝˋ	lve4	liue4	lywe4	lveh4
 ㄌㄩㄢˊ	lvan2	liuan2	lywan2	lvan2
 ㄌㄩㄢˇ	lvan3	liuan3	lywan3	lvan3
 ㄍㄚ	ga	ga	ga	ka
@@ -1087,6 +1088,7 @@
 ㄕㄤ	shang	shang	shang	shang
 ㄕㄤˇ	shang3	shang3	shang3	shang3
 ㄕㄤˋ	shang4	shang4	shang4	shang4
+˙ㄕㄤ	shang5	shang5	shang5	shang5
 ㄕㄥ	sheng	sheng	sheng	sheng
 ㄕㄥˊ	sheng2	sheng2	sheng2	sheng2
 ㄕㄥˇ	sheng3	sheng3	sheng3	sheng3
@@ -1377,6 +1379,7 @@
 ㄧㄚˊ	ya2	ya2	ya2	ya2
 ㄧㄚˇ	ya3	ya3	ya3	ya3
 ㄧㄚˋ	ya4	ya4	ya4	ya4
+˙ㄧㄚ	ya5	ya5	ya5	ya5
 ㄧㄛ	yo	yo	yo	yo
 ˙ㄧㄛ	yo5	yo5	yo5	yo5
 ㄧㄝ	ye	ye	ye	yeh
