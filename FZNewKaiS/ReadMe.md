@@ -1,0 +1,7 @@
+方正新楷体S-超大字符集 Version 1.00
+
+字体文件Sha1
+```
+abe785d2db814cf7186767be758a9c8c4d8be5b2 *FZXKaiS.TTF
+8042969807e018ff3637c2d4e11936c65b70ef39 *FZXKaiS(SIP).TTF
+```

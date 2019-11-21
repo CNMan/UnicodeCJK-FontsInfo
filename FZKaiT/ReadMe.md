@@ -1,0 +1,7 @@
+方正楷体T-超大字符集 Version 2.01
+
+字体文件Sha1
+```
+79703dd3ce73df7eb543218366a903c04457b2d6 *FZKaiT.TTF
+dc177f936269a51c0bb66b5f2e1a59251799e1c5 *FZKaiT(SIP).TTF
+```
