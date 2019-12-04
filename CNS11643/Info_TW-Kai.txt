@@ -1,5 +1,5 @@
 TW-Kai (Regular) : 
-Basic Latin (96 out of 128 characters)
+Basic Latin (95 out of 128 characters)
 Latin-1 Supplement (96 out of 128 characters)
 Latin Extended-A (128 out of 128 characters)
 Latin Extended-B (183 out of 208 characters)
