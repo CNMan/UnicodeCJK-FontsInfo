@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [3,793 characters] :
+BabelStone Han PUA (Regular) [3,817 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -726,7 +726,6 @@ U+E3D9		<private-use-E3D9>
 U+E3DA		<private-use-E3DA>
 U+E3DB		<private-use-E3DB>
 U+E3DC		<private-use-E3DC>
-U+E3DD		<private-use-E3DD>
 U+E3DE		<private-use-E3DE>
 U+E3DF		<private-use-E3DF>
 U+E3E0		<private-use-E3E0>
@@ -2668,6 +2667,7 @@ U+F1B5		<private-use-F1B5>
 U+F1B6		<private-use-F1B6>
 U+F1B7		<private-use-F1B7>
 U+F1B8		<private-use-F1B8>
+U+F1B9		<private-use-F1B9>
 U+F1BA		<private-use-F1BA>
 U+F1BB		<private-use-F1BB>
 U+F1BC		<private-use-F1BC>
@@ -2809,6 +2809,12 @@ U+F289		<private-use-F289>
 U+F28A		<private-use-F28A>
 U+F28B		<private-use-F28B>
 U+F28F		<private-use-F28F>
+U+F290		<private-use-F290>
+U+F291		<private-use-F291>
+U+F293		<private-use-F293>
+U+F294		<private-use-F294>
+U+F295		<private-use-F295>
+U+F296		<private-use-F296>
 U+F297		<private-use-F297>
 U+F298		<private-use-F298>
 U+F299		<private-use-F299>
@@ -2996,6 +3002,7 @@ U+F3F2		<private-use-F3F2>
 U+F3F3		<private-use-F3F3>
 U+F3F5		<private-use-F3F5>
 U+F3F6		<private-use-F3F6>
+U+F3F9		<private-use-F3F9>
 U+F3FA		<private-use-F3FA>
 U+F3FB		<private-use-F3FB>
 U+F3FC		<private-use-F3FC>
@@ -3008,6 +3015,8 @@ U+F403		<private-use-F403>
 U+F404		<private-use-F404>
 U+F406		<private-use-F406>
 U+F407		<private-use-F407>
+U+F408		<private-use-F408>
+U+F409		<private-use-F409>
 U+F40A		<private-use-F40A>
 U+F40B		<private-use-F40B>
 U+F40C		<private-use-F40C>
@@ -3773,6 +3782,9 @@ U+F8B4		<private-use-F8B4>
 U+F8B5		<private-use-F8B5>
 U+F8B6		<private-use-F8B6>
 U+F8B7		<private-use-F8B7>
+U+F8BD		<private-use-F8BD>
+U+F8BE		<private-use-F8BE>
+U+F8BF		<private-use-F8BF>
 U+F8C0		<private-use-F8C0>
 U+F8C1		<private-use-F8C1>
 U+F8C2		<private-use-F8C2>
@@ -3790,5 +3802,17 @@ U+F8CD		<private-use-F8CD>
 U+F8CE		<private-use-F8CE>
 U+F8CF		<private-use-F8CF>
 U+F8D0		<private-use-F8D0>
+U+F8D1		<private-use-F8D1>
+U+F8D2		<private-use-F8D2>
+U+F8D3		<private-use-F8D3>
+U+F8D4		<private-use-F8D4>
+U+F8D5		<private-use-F8D5>
+U+F8D6		<private-use-F8D6>
+U+F8D7		<private-use-F8D7>
+U+F8D8		<private-use-F8D8>
+U+F8D9		<private-use-F8D9>
+U+F8DA		<private-use-F8DA>
+U+F8DB		<private-use-F8DB>
+U+F8DC		<private-use-F8DC>
 U+F8FE		<private-use-F8FE>
 U+F8FF		<private-use-F8FF>
