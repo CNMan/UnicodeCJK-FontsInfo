@@ -1,4 +1,4 @@
-中华书局宋体02平面 (Regular) [61,133 characters] :
+ZhongHuaSongPlane02 (Regular) [61,133 characters] :
 U+0020	 	SPACE
 U+0021	!	EXCLAMATION MARK
 U+0022	"	QUOTATION MARK
