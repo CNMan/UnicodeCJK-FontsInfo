@@ -1,4 +1,4 @@
-BabelStone Han PUA (Regular) [3,817 characters] :
+BabelStone Han PUA (Regular) [3,824 characters] :
 U+0000		<control>
 U+001D		<control>
 U+0020	 	SPACE
@@ -169,7 +169,6 @@ U+E1A5		<private-use-E1A5>
 U+E1A7		<private-use-E1A7>
 U+E1A8		<private-use-E1A8>
 U+E1A9		<private-use-E1A9>
-U+E1AA		<private-use-E1AA>
 U+E1AB		<private-use-E1AB>
 U+E1AC		<private-use-E1AC>
 U+E1AD		<private-use-E1AD>
@@ -212,7 +211,6 @@ U+E1D1		<private-use-E1D1>
 U+E1D2		<private-use-E1D2>
 U+E1D3		<private-use-E1D3>
 U+E1D4		<private-use-E1D4>
-U+E1D5		<private-use-E1D5>
 U+E1D6		<private-use-E1D6>
 U+E1D7		<private-use-E1D7>
 U+E1D8		<private-use-E1D8>
@@ -344,7 +342,6 @@ U+E257		<private-use-E257>
 U+E258		<private-use-E258>
 U+E259		<private-use-E259>
 U+E25A		<private-use-E25A>
-U+E25B		<private-use-E25B>
 U+E25C		<private-use-E25C>
 U+E25D		<private-use-E25D>
 U+E25E		<private-use-E25E>
@@ -365,10 +362,8 @@ U+E26C		<private-use-E26C>
 U+E26D		<private-use-E26D>
 U+E26E		<private-use-E26E>
 U+E26F		<private-use-E26F>
-U+E270		<private-use-E270>
 U+E271		<private-use-E271>
 U+E272		<private-use-E272>
-U+E273		<private-use-E273>
 U+E274		<private-use-E274>
 U+E275		<private-use-E275>
 U+E276		<private-use-E276>
@@ -386,7 +381,6 @@ U+E281		<private-use-E281>
 U+E282		<private-use-E282>
 U+E283		<private-use-E283>
 U+E284		<private-use-E284>
-U+E285		<private-use-E285>
 U+E286		<private-use-E286>
 U+E287		<private-use-E287>
 U+E288		<private-use-E288>
@@ -422,7 +416,6 @@ U+E2A5		<private-use-E2A5>
 U+E2A6		<private-use-E2A6>
 U+E2A7		<private-use-E2A7>
 U+E2A8		<private-use-E2A8>
-U+E2A9		<private-use-E2A9>
 U+E2AA		<private-use-E2AA>
 U+E2AB		<private-use-E2AB>
 U+E2AC		<private-use-E2AC>
@@ -653,9 +646,7 @@ U+E390		<private-use-E390>
 U+E391		<private-use-E391>
 U+E392		<private-use-E392>
 U+E393		<private-use-E393>
-U+E394		<private-use-E394>
 U+E395		<private-use-E395>
-U+E396		<private-use-E396>
 U+E397		<private-use-E397>
 U+E398		<private-use-E398>
 U+E399		<private-use-E399>
@@ -887,7 +878,6 @@ U+E47C		<private-use-E47C>
 U+E47D		<private-use-E47D>
 U+E47E		<private-use-E47E>
 U+E47F		<private-use-E47F>
-U+E480		<private-use-E480>
 U+E481		<private-use-E481>
 U+E482		<private-use-E482>
 U+E483		<private-use-E483>
@@ -1667,7 +1657,6 @@ U+E7A3		<private-use-E7A3>
 U+E7A4		<private-use-E7A4>
 U+E7A6		<private-use-E7A6>
 U+E7A7		<private-use-E7A7>
-U+E7A8		<private-use-E7A8>
 U+E7A9		<private-use-E7A9>
 U+E7AA		<private-use-E7AA>
 U+E7AB		<private-use-E7AB>
@@ -1734,7 +1723,6 @@ U+E7EB		<private-use-E7EB>
 U+E7ED		<private-use-E7ED>
 U+E7EE		<private-use-E7EE>
 U+E7EF		<private-use-E7EF>
-U+E7F0		<private-use-E7F0>
 U+E7F1		<private-use-E7F1>
 U+E7F2		<private-use-E7F2>
 U+E7F3		<private-use-E7F3>
@@ -1823,7 +1811,6 @@ U+E845		<private-use-E845>
 U+E846		<private-use-E846>
 U+E847		<private-use-E847>
 U+E848		<private-use-E848>
-U+E849		<private-use-E849>
 U+E84A		<private-use-E84A>
 U+E84B		<private-use-E84B>
 U+E84C		<private-use-E84C>
@@ -2186,7 +2173,6 @@ U+E9DF		<private-use-E9DF>
 U+E9E0		<private-use-E9E0>
 U+E9E1		<private-use-E9E1>
 U+E9E2		<private-use-E9E2>
-U+E9E3		<private-use-E9E3>
 U+E9E4		<private-use-E9E4>
 U+E9E5		<private-use-E9E5>
 U+E9E6		<private-use-E9E6>
@@ -2362,15 +2348,12 @@ U+EAFD		<private-use-EAFD>
 U+EAFE		<private-use-EAFE>
 U+EAFF		<private-use-EAFF>
 U+EB0A		<private-use-EB0A>
-U+EB49		<private-use-EB49>
-U+EB5C		<private-use-EB5C>
 U+EB6C		<private-use-EB6C>
 U+EB6D		<private-use-EB6D>
 U+EB6E		<private-use-EB6E>
 U+EB6F		<private-use-EB6F>
 U+EB76		<private-use-EB76>
 U+EB77		<private-use-EB77>
-U+EB7D		<private-use-EB7D>
 U+EB80		<private-use-EB80>
 U+EB81		<private-use-EB81>
 U+EB82		<private-use-EB82>
@@ -2405,6 +2388,7 @@ U+EFBD		<private-use-EFBD>
 U+EFBE		<private-use-EFBE>
 U+EFC3		<private-use-EFC3>
 U+F034		<private-use-F034>
+U+F071		<private-use-F071>
 U+F072		<private-use-F072>
 U+F073		<private-use-F073>
 U+F074		<private-use-F074>
@@ -2418,6 +2402,8 @@ U+F07B		<private-use-F07B>
 U+F07C		<private-use-F07C>
 U+F07D		<private-use-F07D>
 U+F07E		<private-use-F07E>
+U+F07F		<private-use-F07F>
+U+F080		<private-use-F080>
 U+F081		<private-use-F081>
 U+F082		<private-use-F082>
 U+F083		<private-use-F083>
@@ -2476,6 +2462,7 @@ U+F0C4		<private-use-F0C4>
 U+F0C5		<private-use-F0C5>
 U+F0C6		<private-use-F0C6>
 U+F0C7		<private-use-F0C7>
+U+F0C8		<private-use-F0C8>
 U+F0C9		<private-use-F0C9>
 U+F0CA		<private-use-F0CA>
 U+F0CB		<private-use-F0CB>
@@ -2542,6 +2529,11 @@ U+F10C		<private-use-F10C>
 U+F10D		<private-use-F10D>
 U+F10E		<private-use-F10E>
 U+F10F		<private-use-F10F>
+U+F110		<private-use-F110>
+U+F111		<private-use-F111>
+U+F112		<private-use-F112>
+U+F113		<private-use-F113>
+U+F114		<private-use-F114>
 U+F117		<private-use-F117>
 U+F11F		<private-use-F11F>
 U+F120		<private-use-F120>
@@ -2602,6 +2594,7 @@ U+F168		<private-use-F168>
 U+F169		<private-use-F169>
 U+F16A		<private-use-F16A>
 U+F16B		<private-use-F16B>
+U+F16C		<private-use-F16C>
 U+F16E		<private-use-F16E>
 U+F16F		<private-use-F16F>
 U+F170		<private-use-F170>
@@ -2612,8 +2605,10 @@ U+F174		<private-use-F174>
 U+F175		<private-use-F175>
 U+F176		<private-use-F176>
 U+F177		<private-use-F177>
+U+F178		<private-use-F178>
 U+F179		<private-use-F179>
 U+F17A		<private-use-F17A>
+U+F17D		<private-use-F17D>
 U+F17E		<private-use-F17E>
 U+F17F		<private-use-F17F>
 U+F180		<private-use-F180>
@@ -2641,7 +2636,6 @@ U+F197		<private-use-F197>
 U+F198		<private-use-F198>
 U+F19A		<private-use-F19A>
 U+F19B		<private-use-F19B>
-U+F19C		<private-use-F19C>
 U+F19D		<private-use-F19D>
 U+F19E		<private-use-F19E>
 U+F19F		<private-use-F19F>
@@ -2651,9 +2645,7 @@ U+F1A2		<private-use-F1A2>
 U+F1A3		<private-use-F1A3>
 U+F1A5		<private-use-F1A5>
 U+F1A6		<private-use-F1A6>
-U+F1A7		<private-use-F1A7>
 U+F1A8		<private-use-F1A8>
-U+F1AA		<private-use-F1AA>
 U+F1AB		<private-use-F1AB>
 U+F1AC		<private-use-F1AC>
 U+F1AD		<private-use-F1AD>
@@ -2690,6 +2682,7 @@ U+F1CC		<private-use-F1CC>
 U+F1CD		<private-use-F1CD>
 U+F1CE		<private-use-F1CE>
 U+F1CF		<private-use-F1CF>
+U+F1D0		<private-use-F1D0>
 U+F1D1		<private-use-F1D1>
 U+F1D2		<private-use-F1D2>
 U+F1DA		<private-use-F1DA>
@@ -2753,7 +2746,10 @@ U+F216		<private-use-F216>
 U+F218		<private-use-F218>
 U+F21E		<private-use-F21E>
 U+F221		<private-use-F221>
+U+F222		<private-use-F222>
+U+F224		<private-use-F224>
 U+F228		<private-use-F228>
+U+F22A		<private-use-F22A>
 U+F22D		<private-use-F22D>
 U+F22F		<private-use-F22F>
 U+F230		<private-use-F230>
@@ -2763,6 +2759,8 @@ U+F240		<private-use-F240>
 U+F241		<private-use-F241>
 U+F247		<private-use-F247>
 U+F248		<private-use-F248>
+U+F24D		<private-use-F24D>
+U+F250		<private-use-F250>
 U+F252		<private-use-F252>
 U+F258		<private-use-F258>
 U+F25C		<private-use-F25C>
@@ -2781,6 +2779,7 @@ U+F26A		<private-use-F26A>
 U+F26B		<private-use-F26B>
 U+F26C		<private-use-F26C>
 U+F26D		<private-use-F26D>
+U+F26E		<private-use-F26E>
 U+F26F		<private-use-F26F>
 U+F270		<private-use-F270>
 U+F271		<private-use-F271>
@@ -2808,6 +2807,7 @@ U+F287		<private-use-F287>
 U+F289		<private-use-F289>
 U+F28A		<private-use-F28A>
 U+F28B		<private-use-F28B>
+U+F28D		<private-use-F28D>
 U+F28F		<private-use-F28F>
 U+F290		<private-use-F290>
 U+F291		<private-use-F291>
@@ -2831,7 +2831,6 @@ U+F2A4		<private-use-F2A4>
 U+F2A5		<private-use-F2A5>
 U+F2A6		<private-use-F2A6>
 U+F2A7		<private-use-F2A7>
-U+F2A8		<private-use-F2A8>
 U+F2A9		<private-use-F2A9>
 U+F2AA		<private-use-F2AA>
 U+F2AB		<private-use-F2AB>
@@ -2841,7 +2840,6 @@ U+F2AE		<private-use-F2AE>
 U+F2AF		<private-use-F2AF>
 U+F2B0		<private-use-F2B0>
 U+F2B1		<private-use-F2B1>
-U+F2B2		<private-use-F2B2>
 U+F2B3		<private-use-F2B3>
 U+F2B4		<private-use-F2B4>
 U+F2B5		<private-use-F2B5>
@@ -2909,6 +2907,7 @@ U+F30C		<private-use-F30C>
 U+F30D		<private-use-F30D>
 U+F30E		<private-use-F30E>
 U+F30F		<private-use-F30F>
+U+F310		<private-use-F310>
 U+F311		<private-use-F311>
 U+F312		<private-use-F312>
 U+F313		<private-use-F313>
@@ -2940,6 +2939,10 @@ U+F330		<private-use-F330>
 U+F331		<private-use-F331>
 U+F333		<private-use-F333>
 U+F335		<private-use-F335>
+U+F336		<private-use-F336>
+U+F337		<private-use-F337>
+U+F338		<private-use-F338>
+U+F339		<private-use-F339>
 U+F393		<private-use-F393>
 U+F394		<private-use-F394>
 U+F395		<private-use-F395>
@@ -2967,6 +2970,7 @@ U+F3C9		<private-use-F3C9>
 U+F3CC		<private-use-F3CC>
 U+F3CD		<private-use-F3CD>
 U+F3CE		<private-use-F3CE>
+U+F3CF		<private-use-F3CF>
 U+F3D0		<private-use-F3D0>
 U+F3D1		<private-use-F3D1>
 U+F3D2		<private-use-F3D2>
@@ -3002,6 +3006,8 @@ U+F3F2		<private-use-F3F2>
 U+F3F3		<private-use-F3F3>
 U+F3F5		<private-use-F3F5>
 U+F3F6		<private-use-F3F6>
+U+F3F7		<private-use-F3F7>
+U+F3F8		<private-use-F3F8>
 U+F3F9		<private-use-F3F9>
 U+F3FA		<private-use-F3FA>
 U+F3FB		<private-use-F3FB>
@@ -3383,7 +3389,6 @@ U+F5E9		<private-use-F5E9>
 U+F5EA		<private-use-F5EA>
 U+F5EB		<private-use-F5EB>
 U+F5EC		<private-use-F5EC>
-U+F5ED		<private-use-F5ED>
 U+F5EE		<private-use-F5EE>
 U+F5EF		<private-use-F5EF>
 U+F5F0		<private-use-F5F0>
@@ -3427,6 +3432,8 @@ U+F6F3		<private-use-F6F3>
 U+F6F4		<private-use-F6F4>
 U+F6F5		<private-use-F6F5>
 U+F6F7		<private-use-F6F7>
+U+F6FD		<private-use-F6FD>
+U+F6FE		<private-use-F6FE>
 U+F70A		<private-use-F70A>
 U+F711		<private-use-F711>
 U+F714		<private-use-F714>
