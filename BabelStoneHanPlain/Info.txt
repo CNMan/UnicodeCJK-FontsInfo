@@ -1,4 +1,4 @@
-BabelStone Han (Regular) : 
+BabelStone Han Plain (Regular) : 
 Basic Latin (97 out of 128 characters)
 Latin-1 Supplement (91 out of 128 characters)
 Latin Extended-A (36 out of 128 characters)
@@ -88,4 +88,3 @@ CJK Compatibility Ideographs Supplement (542 out of 542 characters)
 CJK Unified Ideographs Extension G (2,493 out of 4,939 characters)
 Tags (97 out of 97 characters)
 Variation Selectors Supplement (240 out of 240 characters)
-Supplementary Private Use Area-A (2,178 out of 65,534 characters)
