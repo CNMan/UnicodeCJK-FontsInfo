@@ -1,4 +1,4 @@
-ZhongHuaSongPlane15 (Regular) [42,383 characters] :
+ZhongHuaSongPlane15 (Regular) [42,447 characters] :
 U+0020	 	SPACE
 U+0021	!	EXCLAMATION MARK
 U+0022	"	QUOTATION MARK
@@ -39544,6 +39544,70 @@ U+F9A2B	󹨫	<private-use-F9A2B>
 U+F9A2C	󹨬	<private-use-F9A2C>
 U+F9A2D	󹨭	<private-use-F9A2D>
 U+F9A2E	󹨮	<private-use-F9A2E>
+U+F9A2F	󹨯	<private-use-F9A2F>
+U+F9A30	󹨰	<private-use-F9A30>
+U+F9A31	󹨱	<private-use-F9A31>
+U+F9A32	󹨲	<private-use-F9A32>
+U+F9A33	󹨳	<private-use-F9A33>
+U+F9A34	󹨴	<private-use-F9A34>
+U+F9A35	󹨵	<private-use-F9A35>
+U+F9A36	󹨶	<private-use-F9A36>
+U+F9A37	󹨷	<private-use-F9A37>
+U+F9A38	󹨸	<private-use-F9A38>
+U+F9A39	󹨹	<private-use-F9A39>
+U+F9A3A	󹨺	<private-use-F9A3A>
+U+F9A3B	󹨻	<private-use-F9A3B>
+U+F9A3C	󹨼	<private-use-F9A3C>
+U+F9A3D	󹨽	<private-use-F9A3D>
+U+F9A3E	󹨾	<private-use-F9A3E>
+U+F9A3F	󹨿	<private-use-F9A3F>
+U+F9A40	󹩀	<private-use-F9A40>
+U+F9A41	󹩁	<private-use-F9A41>
+U+F9A42	󹩂	<private-use-F9A42>
+U+F9A43	󹩃	<private-use-F9A43>
+U+F9A44	󹩄	<private-use-F9A44>
+U+F9A45	󹩅	<private-use-F9A45>
+U+F9A46	󹩆	<private-use-F9A46>
+U+F9A47	󹩇	<private-use-F9A47>
+U+F9A48	󹩈	<private-use-F9A48>
+U+F9A49	󹩉	<private-use-F9A49>
+U+F9A4A	󹩊	<private-use-F9A4A>
+U+F9A4B	󹩋	<private-use-F9A4B>
+U+F9A4C	󹩌	<private-use-F9A4C>
+U+F9A4D	󹩍	<private-use-F9A4D>
+U+F9A4E	󹩎	<private-use-F9A4E>
+U+F9A4F	󹩏	<private-use-F9A4F>
+U+F9A50	󹩐	<private-use-F9A50>
+U+F9A51	󹩑	<private-use-F9A51>
+U+F9A52	󹩒	<private-use-F9A52>
+U+F9A53	󹩓	<private-use-F9A53>
+U+F9A54	󹩔	<private-use-F9A54>
+U+F9A55	󹩕	<private-use-F9A55>
+U+F9A56	󹩖	<private-use-F9A56>
+U+F9A57	󹩗	<private-use-F9A57>
+U+F9A58	󹩘	<private-use-F9A58>
+U+F9A59	󹩙	<private-use-F9A59>
+U+F9A5A	󹩚	<private-use-F9A5A>
+U+F9A5B	󹩛	<private-use-F9A5B>
+U+F9A5C	󹩜	<private-use-F9A5C>
+U+F9A5D	󹩝	<private-use-F9A5D>
+U+F9A5E	󹩞	<private-use-F9A5E>
+U+F9A5F	󹩟	<private-use-F9A5F>
+U+F9A60	󹩠	<private-use-F9A60>
+U+F9A61	󹩡	<private-use-F9A61>
+U+F9A62	󹩢	<private-use-F9A62>
+U+F9A63	󹩣	<private-use-F9A63>
+U+F9A64	󹩤	<private-use-F9A64>
+U+F9A65	󹩥	<private-use-F9A65>
+U+F9A66	󹩦	<private-use-F9A66>
+U+F9A67	󹩧	<private-use-F9A67>
+U+F9A68	󹩨	<private-use-F9A68>
+U+F9A69	󹩩	<private-use-F9A69>
+U+F9A6A	󹩪	<private-use-F9A6A>
+U+F9A6B	󹩫	<private-use-F9A6B>
+U+F9A6C	󹩬	<private-use-F9A6C>
+U+F9A6D	󹩭	<private-use-F9A6D>
+U+F9A6E	󹩮	<private-use-F9A6E>
 U+FC500	󼔀	<private-use-FC500>
 U+FC501	󼔁	<private-use-FC501>
 U+FC502	󼔂	<private-use-FC502>
