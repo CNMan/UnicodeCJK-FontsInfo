@@ -1,4 +1,4 @@
-ZhongHuaSongPlane15 (Regular) [42,447 characters] :
+ZhongHuaSongPlane15 (Regular) [42,486 characters] :
 U+0020	 	SPACE
 U+0021	!	EXCLAMATION MARK
 U+0022	"	QUOTATION MARK
@@ -39608,6 +39608,45 @@ U+F9A6B	󹩫	<private-use-F9A6B>
 U+F9A6C	󹩬	<private-use-F9A6C>
 U+F9A6D	󹩭	<private-use-F9A6D>
 U+F9A6E	󹩮	<private-use-F9A6E>
+U+F9A6F	󹩯	<private-use-F9A6F>
+U+F9A70	󹩰	<private-use-F9A70>
+U+F9A71	󹩱	<private-use-F9A71>
+U+F9A72	󹩲	<private-use-F9A72>
+U+F9A73	󹩳	<private-use-F9A73>
+U+F9A74	󹩴	<private-use-F9A74>
+U+F9A75	󹩵	<private-use-F9A75>
+U+F9A76	󹩶	<private-use-F9A76>
+U+F9A77	󹩷	<private-use-F9A77>
+U+F9A78	󹩸	<private-use-F9A78>
+U+F9A79	󹩹	<private-use-F9A79>
+U+F9A7A	󹩺	<private-use-F9A7A>
+U+F9A7B	󹩻	<private-use-F9A7B>
+U+F9A7C	󹩼	<private-use-F9A7C>
+U+F9A7D	󹩽	<private-use-F9A7D>
+U+F9A7E	󹩾	<private-use-F9A7E>
+U+F9A7F	󹩿	<private-use-F9A7F>
+U+F9A80	󹪀	<private-use-F9A80>
+U+F9A81	󹪁	<private-use-F9A81>
+U+F9A82	󹪂	<private-use-F9A82>
+U+F9A83	󹪃	<private-use-F9A83>
+U+F9A84	󹪄	<private-use-F9A84>
+U+F9A85	󹪅	<private-use-F9A85>
+U+F9A86	󹪆	<private-use-F9A86>
+U+F9A87	󹪇	<private-use-F9A87>
+U+F9A88	󹪈	<private-use-F9A88>
+U+F9A89	󹪉	<private-use-F9A89>
+U+F9A8A	󹪊	<private-use-F9A8A>
+U+F9A8B	󹪋	<private-use-F9A8B>
+U+F9A8C	󹪌	<private-use-F9A8C>
+U+F9A8D	󹪍	<private-use-F9A8D>
+U+F9A8E	󹪎	<private-use-F9A8E>
+U+F9A8F	󹪏	<private-use-F9A8F>
+U+F9A90	󹪐	<private-use-F9A90>
+U+F9A91	󹪑	<private-use-F9A91>
+U+F9A92	󹪒	<private-use-F9A92>
+U+F9A93	󹪓	<private-use-F9A93>
+U+F9A94	󹪔	<private-use-F9A94>
+U+F9A95	󹪕	<private-use-F9A95>
 U+FC500	󼔀	<private-use-FC500>
 U+FC501	󼔁	<private-use-FC501>
 U+FC502	󼔂	<private-use-FC502>
