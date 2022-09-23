@@ -1,4 +1,4 @@
-細明體/細明體_HKSCS/新細明體 Version 7.03(Windows 10 version 1909)
+細明體/細明體_HKSCS/新細明體 Version 7.03(Windows 11 version 22H2)
 
 字体文件Sha1
 ```

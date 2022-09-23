@@ -1,7 +1,7 @@
-宋体/新宋体 Version 5.16(Windows 10 version 1909)
+宋体/新宋体 Version 5.18(Windows 11 version 22H2)
 
 字体文件Sha1
 ```
-13a81e63aae736ca2254492dd111d3ace4e9dbe9 *simsun.ttc
-91a6e66e7c1139a27b6caa313dc451af36e4e5ed *simsunb.ttf
+dc9424757e6d716148b2cef705669136085c7af1 *simsun.ttc
+c34dafb6c64304ea06a66a2f2b410c93b46c9894 *simsunb.ttf
 ```
