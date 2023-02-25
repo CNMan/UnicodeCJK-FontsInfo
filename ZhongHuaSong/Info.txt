@@ -1,4 +1,4 @@
-ZhongHuaSongPlane00 (Regular) : 
+中华书局宋体00平面 (Regular) : 
 Basic Latin (95 out of 128 characters)
 Latin-1 Supplement (96 out of 128 characters)
 Latin Extended-A (120 out of 128 characters)
@@ -78,7 +78,7 @@ CJK Compatibility Forms (27 out of 32 characters)
 Small Form Variants (25 out of 26 characters)
 Halfwidth and Fullwidth Forms (101 out of 225 characters)
 
-ZhongHuaSongPlane02 (Regular) : 
+中华书局宋体02平面 (Regular) : 
 Basic Latin (95 out of 128 characters)
 Miscellaneous Symbols (14 out of 256 characters)
 Yijing Hexagram Symbols (64 out of 64 characters)
@@ -96,6 +96,6 @@ CJK Unified Ideographs Extension E (5,762 out of 5,762 characters)
 CJK Unified Ideographs Extension F (7,473 out of 7,473 characters)
 CJK Compatibility Ideographs Supplement (542 out of 542 characters)
 
-ZhongHuaSongPlane15 (Regular) : 
+中华书局宋体15平面 (Regular) : 
 Basic Latin (95 out of 128 characters)
-Supplementary Private Use Area-A (42,391 out of 65,534 characters)
+Supplementary Private Use Area-A (42,525 out of 65,534 characters)
