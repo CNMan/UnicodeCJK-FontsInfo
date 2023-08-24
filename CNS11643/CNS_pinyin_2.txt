@@ -1,1467 +1,1467 @@
-﻿ㄅㄚ	bā	bā	bā	pa
-ㄅㄚˊ	bá	bá	bá	pa2
-ㄅㄚˇ	bǎ	bǎ	bǎ	pa3
-ㄅㄚˋ	bà	bà	bà	pa4
-˙ㄅㄚ	ba	ba	ba	pa5
-ㄅㄛ	bō	bō	bwō	po
-ㄅㄛˊ	bó	bó	bwó	po2
-ㄅㄛˇ	bǒ	bǒ	bwǒ	po3
-ㄅㄛˋ	bò	bò	bwò	po4
-˙ㄅㄛ	bo	bo	bwo	po5
-ㄅㄞ	bāi	bāi	bāi	pai
-ㄅㄞˊ	bái	bái	bái	pai2
-ㄅㄞˇ	bǎi	bǎi	bǎi	pai3
-ㄅㄞˋ	bài	bài	bài	pai4
-˙ㄅㄞ	bai	bai	bai	pai5
-ㄅㄟ	bēi	bēi	bēi	pei
-ㄅㄟˇ	běi	běi	běi	pei3
-ㄅㄟˋ	bèi	bèi	bèi	pei4
-˙ㄅㄟ	bei	bei	bei	pei5
-ㄅㄠ	bāo	bāu	bāu	pao
-ㄅㄠˊ	báo	báu	báu	pao2
-ㄅㄠˇ	bǎo	bǎu	bǎu	pao3
-ㄅㄠˋ	bào	bàu	bàu	pao4
-ㄅㄢ	bān	bān	bān	pan
-ㄅㄢˇ	bǎn	bǎn	bǎn	pan3
-ㄅㄢˋ	bàn	bàn	bàn	pan4
-ㄅㄣ	bēn	bēn	bēn	pên
-ㄅㄣˇ	běn	běn	běn	pên3
-ㄅㄣˋ	bèn	bèn	bèn	pên4
-ㄅㄤ	bāng	bāng	bāng	pang
-ㄅㄤˇ	bǎng	bǎng	bǎng	pang3
-ㄅㄤˋ	bàng	bàng	bàng	pang4
-ㄅㄥ	bēng	bēng	bēng	pêng
-ㄅㄥˊ	béng	béng	béng	pêng2
-ㄅㄥˇ	běng	běng	běng	pêng3
-ㄅㄥˋ	bèng	bèng	bèng	pêng4
-ㄅㄧ	bī	bī	bī	pi
-ㄅㄧˊ	bí	bí	bí	pi2
-ㄅㄧˇ	bǐ	bǐ	bǐ	pi3
-ㄅㄧˋ	bì	bì	bì	pi4
-ㄅㄧㄝ	biē	biē	byē	pieh
-ㄅㄧㄝˊ	bié	bié	byé	pieh2
-ㄅㄧㄝˇ	biě	biě	byě	pieh3
-ㄅㄧㄝˋ	biè	biè	byè	pieh4
-ㄅㄧㄠ	biāo	biāu	byāu	piao
-ㄅㄧㄠˇ	biǎo	biǎu	byǎu	piao3
-ㄅㄧㄠˋ	biào	biàu	byàu	piao4
-ㄅㄧㄢ	biān	biān	byān	pien
-ㄅㄧㄢˊ	bián	bián	byán	pien2
-ㄅㄧㄢˇ	biǎn	biǎn	byǎn	pien3
-ㄅㄧㄢˋ	biàn	biàn	byàn	pien4
-ㄅㄧㄣ	bīn	bīn	bīn	pin
-ㄅㄧㄣˇ	bǐn	bǐn	bǐn	pin3
-ㄅㄧㄣˋ	bìn	bìn	bìn	pin4
-ㄅㄧㄥ	bīng	bīng	bīng	ping
-ㄅㄧㄥˇ	bǐng	bǐng	bǐng	ping3
-ㄅㄧㄥˋ	bìng	bìng	bìng	ping4
-ㄅㄨ	bū	bū	bū	pu
-ㄅㄨˊ	bú	bú	bú	pu2
-ㄅㄨˇ	bǔ	bǔ	bǔ	pu3
-ㄅㄨˋ	bù	bù	bù	pu4
-ㄆㄚ	pā	pā	pā	p'a
-ㄆㄚˊ	pá	pá	pá	p'a2
-ㄆㄚˇ	pǎ	pǎ	pǎ	p'a3
-ㄆㄚˋ	pà	pà	pà	p'a4
-˙ㄆㄚ	pa	pa	pa	p'a5
-ㄆㄛ	pō	pō	pwō	p'o
-ㄆㄛˊ	pó	pó	pwó	p'o2
-ㄆㄛˇ	pǒ	pǒ	pwǒ	p'o3
-ㄆㄛˋ	pò	pò	pwò	p'o4
-ㄆㄞ	pāi	pāi	pāi	p'ai
-ㄆㄞˊ	pái	pái	pái	p'ai2
-ㄆㄞˇ	pǎi	pǎi	pǎi	p'ai3
-ㄆㄞˋ	pài	pài	pài	p'ai4
-ㄆㄟ	pēi	pēi	pēi	p'ei
-ㄆㄟˊ	péi	péi	péi	p'ei2
-ㄆㄟˇ	pěi	pěi	pěi	p'ei3
-ㄆㄟˋ	pèi	pèi	pèi	p'ei4
-ㄆㄠ	pāo	pāu	pāu	p'ao
-ㄆㄠˊ	páo	páu	páu	p'ao2
-ㄆㄠˇ	pǎo	pǎu	pǎu	p'ao3
-ㄆㄠˋ	pào	pàu	pàu	p'ao4
-ㄆㄡ	pōu	pōu	pōu	p'ou
-ㄆㄡˊ	póu	póu	póu	p'ou2
-ㄆㄡˇ	pǒu	pǒu	pǒu	p'ou3
-ㄆㄡˋ	pòu	pòu	pòu	p'ou4
-ㄆㄢ	pān	pān	pān	p'an
-ㄆㄢˊ	pán	pán	pán	p'an2
-ㄆㄢˇ	pǎn	pǎn	pǎn	p'an3
-ㄆㄢˋ	pàn	pàn	pàn	p'an4
-ㄆㄣ	pēn	pēn	pēn	p'ên
-ㄆㄣˊ	pén	pén	pén	p'ên2
-ㄆㄣˇ	pěn	pěn	pěn	p'ên3
-ㄆㄣˋ	pèn	pèn	pèn	p'ên4
-ㄆㄤ	pāng	pāng	pāng	p'ang
-ㄆㄤˊ	páng	páng	páng	p'ang2
-ㄆㄤˇ	pǎng	pǎng	pǎng	p'ang3
-ㄆㄤˋ	pàng	pàng	pàng	p'ang4
-ㄆㄥ	pēng	pēng	pēng	p'êng
-ㄆㄥˊ	péng	péng	péng	p'êng2
-ㄆㄥˇ	pěng	pěng	pěng	p'êng3
-ㄆㄥˋ	pèng	pèng	pèng	p'êng4
-ㄆㄧ	pī	pī	pī	p'i
-ㄆㄧˊ	pí	pí	pí	p'i2
-ㄆㄧˇ	pǐ	pǐ	pǐ	p'i3
-ㄆㄧˋ	pì	pì	pì	p'i4
-ㄆㄧㄚ	piā	piā	pyā	p'ia
-ㄆㄧㄝ	piē	piē	pyē	p'ieh
-ㄆㄧㄝˇ	piě	piě	pyě	p'ieh3
-ㄆㄧㄝˋ	piè	piè	pyè	p'ieh4
-ㄆㄧㄠ	piāo	piāu	pyāu	p'iao
-ㄆㄧㄠˊ	piáo	piáu	pyáu	p'iao2
-ㄆㄧㄠˇ	piǎo	piǎu	pyǎu	p'iao3
-ㄆㄧㄠˋ	piào	piàu	pyàu	p'iao4
-ㄆㄧㄢ	piān	piān	pyān	p'ien
-ㄆㄧㄢˊ	pián	pián	pyán	p'ien2
-ㄆㄧㄢˇ	piǎn	piǎn	pyǎn	p'ien3
-ㄆㄧㄢˋ	piàn	piàn	pyàn	p'ien4
-ㄆㄧㄣ	pīn	pīn	pīn	p'in
-ㄆㄧㄣˊ	pín	pín	pín	p'in2
-ㄆㄧㄣˇ	pǐn	pǐn	pǐn	p'in3
-ㄆㄧㄣˋ	pìn	pìn	pìn	p'in4
-ㄆㄧㄥ	pīng	pīng	pīng	p'ing
-ㄆㄧㄥˊ	píng	píng	píng	p'ing2
-ㄆㄧㄥˇ	pǐng	pǐng	pǐng	p'ing3
-ㄆㄧㄥˋ	pìng	pìng	pìng	p'ing4
-ㄆㄨ	pū	pū	pū	p'u
-ㄆㄨˊ	pú	pú	pú	p'u2
-ㄆㄨˇ	pǔ	pǔ	pǔ	p'u3
-ㄆㄨˋ	pù	pù	pù	p'u4
-ㄇㄚ	mā	mā	mā	ma
-ㄇㄚˊ	má	má	má	ma2
-ㄇㄚˇ	mǎ	mǎ	mǎ	ma3
-ㄇㄚˋ	mà	mà	mà	ma4
-˙ㄇㄚ	ma	ma	ma	ma5
-ㄇㄛ	mō	mō	mwō	mo
-ㄇㄛˊ	mó	mó	mwó	mo2
-ㄇㄛˇ	mǒ	mǒ	mwǒ	mo3
-ㄇㄛˋ	mò	mò	mwò	mo4
-˙ㄇㄛ	mo	mo	mwo	mo5
-ㄇㄜ	mē	mē	mē	me
-ㄇㄜˋ	mè	mè	mè	me4
-˙ㄇㄜ	me	me	me	me5
-ㄇㄞ	māi	māi	māi	mai
-ㄇㄞˊ	mái	mái	mái	mai2
-ㄇㄞˇ	mǎi	mǎi	mǎi	mai3
-ㄇㄞˋ	mài	mài	mài	mai4
-ㄇㄟˊ	méi	méi	méi	mei2
-ㄇㄟˇ	měi	měi	měi	mei3
-ㄇㄟˋ	mèi	mèi	mèi	mei4
-ㄇㄠ	māo	māu	māu	mao
-ㄇㄠˊ	máo	máu	máu	mao2
-ㄇㄠˇ	mǎo	mǎu	mǎu	mao3
-ㄇㄠˋ	mào	màu	màu	mao4
-ㄇㄡˊ	móu	móu	móu	mou2
-ㄇㄡˇ	mǒu	mǒu	mǒu	mou3
-ㄇㄡˋ	mòu	mòu	mòu	mou4
-ㄇㄢ	mān	mān	mān	man
-ㄇㄢˊ	mán	mán	mán	man2
-ㄇㄢˇ	mǎn	mǎn	mǎn	man3
-ㄇㄢˋ	màn	màn	màn	man4
-ㄇㄣ	mēn	mēn	mēn	mên
-ㄇㄣˊ	mén	mén	mén	mên2
-ㄇㄣˇ	měn	měn	měn	mên3
-ㄇㄣˋ	mèn	mèn	mèn	mên4
-˙ㄇㄣ	men	men	men	mên5
-ㄇㄤ	māng	māng	māng	mang
-ㄇㄤˊ	máng	máng	máng	mang2
-ㄇㄤˇ	mǎng	mǎng	mǎng	mang3
-ㄇㄤˋ	màng	màng	màng	mang4
-ㄇㄥ	mēng	mēng	mēng	mêng
-ㄇㄥˊ	méng	méng	méng	mêng2
-ㄇㄥˇ	měng	měng	měng	mêng3
-ㄇㄥˋ	mèng	mèng	mèng	mêng4
-ㄇㄧ	mī	mī	mī	mi
-ㄇㄧˊ	mí	mí	mí	mi2
-ㄇㄧˇ	mǐ	mǐ	mǐ	mi3
-ㄇㄧˋ	mì	mì	mì	mi4
-ㄇㄧㄝ	miē	miē	myē	mieh
-ㄇㄧㄝˊ	mié	mié	myé	mieh2
-ㄇㄧㄝˋ	miè	miè	myè	mieh4
-ㄇㄧㄠ	miāo	miāu	myāu	miao
-ㄇㄧㄠˊ	miáo	miáu	myáu	miao2
-ㄇㄧㄠˇ	miǎo	miǎu	myǎu	miao3
-ㄇㄧㄠˋ	miào	miàu	myàu	miao4
-ㄇㄧㄡˊ	miú	mióu	myóu	miu2
-ㄇㄧㄡˇ	miǔ	miǒu	myǒu	miu3
-ㄇㄧㄡˋ	miù	miòu	myòu	miu4
-ㄇㄧㄢ	miān	miān	myān	mien
-ㄇㄧㄢˊ	mián	mián	myán	mien2
-ㄇㄧㄢˇ	miǎn	miǎn	myǎn	mien3
-ㄇㄧㄢˋ	miàn	miàn	myàn	mien4
-ㄇㄧㄣ	mīn	mīn	mīn	min
-ㄇㄧㄣˊ	mín	mín	mín	min2
-ㄇㄧㄣˇ	mǐn	mǐn	mǐn	min3
-ㄇㄧㄥˊ	míng	míng	míng	ming2
-ㄇㄧㄥˇ	mǐng	mǐng	mǐng	ming3
-ㄇㄧㄥˋ	mìng	mìng	mìng	ming4
-ㄇㄨˊ	mú	mú	mú	mu2
-ㄇㄨˇ	mǔ	mǔ	mǔ	mu3
-ㄇㄨˋ	mù	mù	mù	mu4
-ㄈㄚ	fā	fā	fā	fa
-ㄈㄚˊ	fá	fá	fá	fa2
-ㄈㄚˇ	fǎ	fǎ	fǎ	fa3
-ㄈㄚˋ	fà	fà	fà	fa4
-ㄈㄛˊ	fó	fó	fwó	fo2
-ㄈㄟ	fēi	fēi	fēi	fei
-ㄈㄟˊ	féi	féi	féi	fei2
-ㄈㄟˇ	fěi	fěi	fěi	fei3
-ㄈㄟˋ	fèi	fèi	fèi	fei4
-ㄈㄡ	fōu	fōu	fōu	fou
-ㄈㄡˊ	fóu	fóu	fóu	fou2
-ㄈㄡˇ	fǒu	fǒu	fǒu	fou3
-ㄈㄡˋ	fòu	fòu	fòu	fou4
-ㄈㄢ	fān	fān	fān	fan
-ㄈㄢˊ	fán	fán	fán	fan2
-ㄈㄢˇ	fǎn	fǎn	fǎn	fan3
-ㄈㄢˋ	fàn	fàn	fàn	fan4
-ㄈㄣ	fēn	fēn	fēn	fên
-ㄈㄣˊ	fén	fén	fén	fên2
-ㄈㄣˇ	fěn	fěn	fěn	fên3
-ㄈㄣˋ	fèn	fèn	fèn	fên4
-˙ㄈㄣ	fen	fen	fen	fen5
-ㄈㄤ	fāng	fāng	fāng	fang
-ㄈㄤˊ	fáng	fáng	fáng	fang2
-ㄈㄤˇ	fǎng	fǎng	fǎng	fang3
-ㄈㄤˋ	fàng	fàng	fàng	fang4
-ㄈㄥ	fēng	fēng	fēng	fêng
-ㄈㄥˊ	féng	féng	féng	fêng2
-ㄈㄥˇ	fěng	fěng	fěng	fêng3
-ㄈㄥˋ	fèng	fèng	fèng	feng4
-ㄈㄧㄠˋ	fiào	fiàu	fyàu	fiao4
-ㄈㄨ	fū	fū	fū	fu
-ㄈㄨˊ	fú	fú	fú	fu2
-ㄈㄨˇ	fǔ	fǔ	fǔ	fu3
-ㄈㄨˋ	fù	fù	fù	fu4
-ㄉㄚ	dā	dā	dā	ta
-ㄉㄚˊ	dá	dá	dá	ta2
-ㄉㄚˇ	dǎ	dǎ	dǎ	ta3
-ㄉㄚˋ	dà	dà	dà	ta4
-˙ㄉㄚ	da	da	da	ta5
-ㄉㄜ	dē	dē	dē	tê
-ㄉㄜˊ	dé	dé	dé	tê2
-˙ㄉㄜ	de	de	de	tê5
-ㄉㄞ	dāi	dāi	dāi	tai
-ㄉㄞˇ	dǎi	dǎi	dǎi	tai3
-ㄉㄞˋ	dài	dài	dài	tai4
-ㄉㄟˇ	děi	děi	děi	tei3
-ㄉㄠ	dāo	dāu	dāu	tao
-ㄉㄠˊ	dáo	dáu	dáu	tao2
-ㄉㄠˇ	dǎo	dǎu	dǎu	tao3
-ㄉㄠˋ	dào	dàu	dàu	tao4
-ㄉㄡ	dōu	dōu	dōu	tou
-ㄉㄡˊ	dóu	dóu	dóu	tou2
-ㄉㄡˇ	dǒu	dǒu	dǒu	tou3
-ㄉㄡˋ	dòu	dòu	dòu	tou4
-ㄉㄢ	dān	dān	dān	tan
-ㄉㄢˇ	dǎn	dǎn	dǎn	tan3
-ㄉㄢˋ	dàn	dàn	dàn	tan4
-ㄉㄣˋ	dèn	dèn	dèn	tên4
-ㄉㄤ	dāng	dāng	dāng	tang
-ㄉㄤˇ	dǎng	dǎng	dǎng	tang3
-ㄉㄤˋ	dàng	dàng	dàng	tang4
-ㄉㄥ	dēng	dēng	dēng	têng
-ㄉㄥˇ	děng	děng	děng	têng3
-ㄉㄥˋ	dèng	dèng	dèng	têng4
-ㄉㄧ	dī	dī	dī	ti
-ㄉㄧˊ	dí	dí	dí	ti2
-ㄉㄧˇ	dǐ	dǐ	dǐ	ti3
-ㄉㄧˋ	dì	dì	dì	ti4
-ㄉㄧㄚˇ	diǎ	diǎ	dyǎ	tia3
-ㄉㄧㄝ	diē	diē	dyē	tieh
-ㄉㄧㄝˊ	dié	dié	dyé	tieh2
-ㄉㄧㄝˇ	diě	diě	dyě	tieh3
-ㄉㄧㄝˋ	diè	diè	dyè	tieh4
-ㄉㄧㄠ	diāo	diāu	dyāu	tiao
-ㄉㄧㄠˇ	diǎo	diǎu	dyǎu	tiao3
-ㄉㄧㄠˋ	diào	diàu	dyàu	tiao4
-ㄉㄧㄡ	diū	diōu	dyōu	tiu
-ㄉㄧㄢ	diān	diān	dyān	tien
-ㄉㄧㄢˊ	dián	dián	dyán	tien2
-ㄉㄧㄢˇ	diǎn	diǎn	dyǎn	tien3
-ㄉㄧㄢˋ	diàn	diàn	dyàn	tien4
-ㄉㄧㄥ	dīng	dīng	dīng	ting
-ㄉㄧㄥˊ	díng	díng	díng	ting2
-ㄉㄧㄥˇ	dǐng	dǐng	dǐng	ting3
-ㄉㄧㄥˋ	dìng	dìng	dìng	ting4
-ㄉㄨ	dū	dū	dū	tu
-ㄉㄨˊ	dú	dú	dú	tu2
-ㄉㄨˇ	dǔ	dǔ	dǔ	tu3
-ㄉㄨˋ	dù	dù	dù	tu4
-ㄉㄨㄛ	duō	duō	dwō	to
-ㄉㄨㄛˊ	duó	duó	dwó	to2
-ㄉㄨㄛˇ	duǒ	duǒ	dwǒ	to3
-ㄉㄨㄛˋ	duò	duò	dwò	to4
-˙ㄉㄨㄛ	duo	duo	dwo	to5
-ㄉㄨㄟ	duī	duēi	dwēi	tui
-ㄉㄨㄟˇ	duǐ	duěi	dwěi	tui3
-ㄉㄨㄟˋ	duì	duèi	dwèi	tui4
-ㄉㄨㄢ	duān	duān	dwān	tuan
-ㄉㄨㄢˇ	duǎn	duǎn	dwǎn	tuan3
-ㄉㄨㄢˋ	duàn	duàn	dwàn	tuan4
-ㄉㄨㄣ	dūn	duēn	dwūn	tun
-ㄉㄨㄣˇ	dǔn	duěn	dwǔn	tun3
-ㄉㄨㄣˋ	dùn	duèn	dwùn	tun4
-ㄉㄨㄥ	dōng	dūng	dūng	tung
-ㄉㄨㄥˇ	dǒng	dǔng	dǔng	tung3
-ㄉㄨㄥˋ	dòng	dùng	dùng	tung4
-ㄊㄚ	tā	tā	tā	t'a
-ㄊㄚˇ	tǎ	tǎ	tǎ	t'a3
-ㄊㄚˋ	tà	tà	tà	t'a4
-ㄊㄜˋ	tè	tè	tè	t'ê4
-ㄊㄞ	tāi	tāi	tāi	t'ai
-ㄊㄞˊ	tái	tái	tái	t'ai2
-ㄊㄞˇ	tǎi	tǎi	tǎi	t'ai3
-ㄊㄞˋ	tài	tài	tài	t'ai4
-˙ㄊㄞ	tai	tai	tai	t'ai5
-ㄊㄠ	tāo	tāu	tāu	t'ao
-ㄊㄠˊ	táo	táu	táu	t'ao2
-ㄊㄠˇ	tǎo	tǎu	tǎu	t'ao3
-ㄊㄠˋ	tào	tàu	tàu	t'ao4
-˙ㄊㄠ	tao	tau	tau	t'ao5
-ㄊㄡ	tōu	tōu	tōu	t'ou
-ㄊㄡˊ	tóu	tóu	tóu	t'ou2
-ㄊㄡˇ	tǒu	tǒu	tǒu	t'ou3
-ㄊㄡˋ	tòu	tòu	tòu	t'ou4
-˙ㄊㄡ	tou	tou	tou	t'ou5
-ㄊㄢ	tān	tān	tān	t'an
-ㄊㄢˊ	tán	tán	tán	t'an2
-ㄊㄢˇ	tǎn	tǎn	tǎn	t'an3
-ㄊㄢˋ	tàn	tàn	tàn	t'an4
-ㄊㄤ	tāng	tāng	tāng	t'ang
-ㄊㄤˊ	táng	táng	táng	t'ang2
-ㄊㄤˇ	tǎng	tǎng	tǎng	t'ang3
-ㄊㄤˋ	tàng	tàng	tàng	t'ang4
-ㄊㄥ	tēng	tēng	tēng	t'êng
-ㄊㄥˊ	téng	téng	téng	t'êng2
-ㄊㄥˋ	tèng	tèng	tèng	t'êng4
-ㄊㄧ	tī	tī	tī	t'i
-ㄊㄧˊ	tí	tí	tí	t'i2
-ㄊㄧˇ	tǐ	tǐ	tǐ	t'i3
-ㄊㄧˋ	tì	tì	tì	t'i4
-ㄊㄧㄝ	tiē	tiē	tyē	t'ieh
-ㄊㄧㄝˊ	tié	tié	tyé	t'ieh2
-ㄊㄧㄝˇ	tiě	tiě	tyě	t'ieh3
-ㄊㄧㄝˋ	tiè	tiè	tyè	t'ieh4
-ㄊㄧㄠ	tiāo	tiāu	tyāu	t'iao
-ㄊㄧㄠˊ	tiáo	tiáu	tyáu	t'iao2
-ㄊㄧㄠˇ	tiǎo	tiǎu	tyǎu	t'iao3
-ㄊㄧㄠˋ	tiào	tiàu	tyàu	t'iao4
-ㄊㄧㄢ	tiān	tiān	tyān	t'ien
-ㄊㄧㄢˊ	tián	tián	tyán	t'ien2
-ㄊㄧㄢˇ	tiǎn	tiǎn	tyǎn	t'ien3
-ㄊㄧㄢˋ	tiàn	tiàn	tyàn	t'ien4
-ㄊㄧㄥ	tīng	tīng	tīng	t'ing
-ㄊㄧㄥˊ	tíng	tíng	tíng	t'ing2
-ㄊㄧㄥˇ	tǐng	tǐng	tǐng	t'ing3
-ㄊㄧㄥˋ	tìng	tìng	tìng	t'ing4
-ㄊㄨ	tū	tū	tū	t'u
-ㄊㄨˊ	tú	tú	tú	t'u2
-ㄊㄨˇ	tǔ	tǔ	tǔ	t'u3
-ㄊㄨˋ	tù	tù	tù	t'u4
-ㄊㄨㄛ	tuō	tuō	twō	t'o
-ㄊㄨㄛˊ	tuó	tuó	twó	t'o2
-ㄊㄨㄛˇ	tuǒ	tuǒ	twǒ	t'o3
-ㄊㄨㄛˋ	tuò	tuò	twò	t'o4
-ㄊㄨㄟ	tuī	tuēi	twēi	t'ui
-ㄊㄨㄟˊ	tuí	tuéi	twéi	t'ui2
-ㄊㄨㄟˇ	tuǐ	tuěi	twěi	t'ui3
-ㄊㄨㄟˋ	tuì	tuèi	twèi	t'ui4
-ㄊㄨㄢ	tuān	tuān	twān	t'uan
-ㄊㄨㄢˊ	tuán	tuán	twán	t'uan2
-ㄊㄨㄢˇ	tuǎn	tuǎn	twǎn	t'uan3
-ㄊㄨㄢˋ	tuàn	tuàn	twàn	t'uan4
-ㄊㄨㄣ	tūn	tuēn	twūn	t'un
-ㄊㄨㄣˊ	tún	tuén	twún	t'un2
-ㄊㄨㄣˇ	tǔn	tuěn	twǔn	t'un3
-ㄊㄨㄣˋ	tùn	tuèn	twùn	t'un4
-ㄊㄨㄥ	tōng	tūng	tūng	t'ung
-ㄊㄨㄥˊ	tóng	túng	túng	t'ung2
-ㄊㄨㄥˇ	tǒng	tǔng	tǔng	t'ung3
-ㄊㄨㄥˋ	tòng	tùng	tùng	t'ung4
-ㄋㄚ	nā	nā	nā	na
-ㄋㄚˊ	ná	ná	ná	na2
-ㄋㄚˇ	nǎ	nǎ	nǎ	na3
-ㄋㄚˋ	nà	nà	nà	na4
-˙ㄋㄚ	na	na	na	na5
-ㄋㄜˋ	nè	nè	nè	nê4
-˙ㄋㄜ	ne	ne	ne	nê5
-ㄋㄞˊ	nái	nái	nái	nai2
-ㄋㄞˇ	nǎi	nǎi	nǎi	nai3
-ㄋㄞˋ	nài	nài	nài	nai4
-ㄋㄟˊ	néi	néi	néi	nei2
-ㄋㄟˇ	něi	něi	něi	nei3
-ㄋㄟˋ	nèi	nèi	nèi	nei4
-ㄋㄠ	nāo	nāu	nāu	nao
-ㄋㄠˊ	náo	náu	náu	nao2
-ㄋㄠˇ	nǎo	nǎu	nǎu	nao3
-ㄋㄠˋ	nào	nàu	nàu	nao4
-ㄋㄡˊ	nóu	nóu	nóu	nou2
-ㄋㄡˇ	nǒu	nǒu	nǒu	nou3
-ㄋㄡˋ	nòu	nòu	nòu	nou4
-ㄋㄢ	nān	nān	nān	nan
-ㄋㄢˊ	nán	nán	nán	nan2
-ㄋㄢˇ	nǎn	nǎn	nǎn	nan3
-ㄋㄢˋ	nàn	nàn	nàn	nan4
-ㄋㄣˇ	něn	něn	něn	nên3
-ㄋㄣˋ	nèn	nèn	nèn	nên4
-ㄋㄤ	nāng	nāng	nāng	nang
-ㄋㄤˊ	náng	náng	náng	nang2
-ㄋㄤˇ	nǎng	nǎng	nǎng	nang3
-ㄋㄤˋ	nàng	nàng	nàng	nang4
-˙ㄋㄤ	nang	nang	nang	nang5
-ㄋㄥˊ	néng	néng	néng	nêng2
-ㄋㄥˇ	něng	něng	něng	nêng3
-ㄋㄧ	nī	nī	nī	ni
-ㄋㄧˊ	ní	ní	ní	ni2
-ㄋㄧˇ	nǐ	nǐ	nǐ	ni3
-ㄋㄧˋ	nì	nì	nì	ni4
-ㄋㄧㄝ	niē	niē	nyē	nieh
-ㄋㄧㄝˊ	nié	nié	nyé	nieh2
-ㄋㄧㄝˋ	niè	niè	nyè	nieh4
-ㄋㄧㄠˇ	niǎo	niǎu	nyǎu	niao3
-ㄋㄧㄠˋ	niào	niàu	nyàu	niao4
-ㄋㄧㄡ	niū	niōu	nyōu	niu
-ㄋㄧㄡˊ	niú	nióu	nyóu	niu2
-ㄋㄧㄡˇ	niǔ	niǒu	nyǒu	niu3
-ㄋㄧㄡˋ	niù	niòu	nyòu	niu4
-ㄋㄧㄢ	niān	niān	nyān	nien
-ㄋㄧㄢˊ	nián	nián	nyán	nien2
-ㄋㄧㄢˇ	niǎn	niǎn	nyǎn	nien3
-ㄋㄧㄢˋ	niàn	niàn	nyàn	nien4
-ㄋㄧㄣ	nīn	nīn	nīn	nin
-ㄋㄧㄣˊ	nín	nín	nín	nin2
-ㄋㄧㄣˇ	nǐn	nǐn	nǐn	nin3
-ㄋㄧㄣˋ	nìn	nìn	nìn	nin4
-ㄋㄧㄤˊ	niáng	niáng	nyáng	niang2
-ㄋㄧㄤˇ	niǎng	niǎng	nyǎng	niang3
-ㄋㄧㄤˋ	niàng	niàng	nyàng	niang4
-ㄋㄧㄥˊ	níng	níng	níng	ning2
-ㄋㄧㄥˇ	nǐng	nǐng	nǐng	ning3
-ㄋㄧㄥˋ	nìng	nìng	nìng	ning4
-ㄋㄨˊ	nú	nú	nú	nu2
-ㄋㄨˇ	nǔ	nǔ	nǔ	nu3
-ㄋㄨˋ	nù	nù	nù	nu4
-ㄋㄨㄛˊ	nuó	nuó	nwó	no2
-ㄋㄨㄛˇ	nuǒ	nuǒ	nwǒ	no3
-ㄋㄨㄛˋ	nuò	nuò	nwò	no4
-ㄋㄨㄟˊ	nuí	nuéi	nwéi	nui2
-ㄋㄨㄢˊ	nuán	nuán	nwán	nuan2
-ㄋㄨㄢˇ	nuǎn	nuǎn	nwǎn	nuan3
-ㄋㄨㄢˋ	nuàn	nuàn	nwàn	nuan4
-ㄋㄨㄣˊ	nún	nuén	nwún	nun2
-ㄋㄨㄥˊ	nóng	núng	núng	nung2
-ㄋㄨㄥˇ	nǒng	nǔng	nǔng	nung3
-ㄋㄨㄥˋ	nòng	nùng	nùng	nung4
-ㄋㄩˊ	nǘ	niú	nyú	nü2
-ㄋㄩˇ	nǚ	niǔ	nyǔ	nü3
-ㄋㄩˋ	nǜ	niù	nyù	nü4
-ㄋㄩㄝˋ	nüè	niùe	nywè	nüeh4
-ㄌㄚ	lā	lā	lā	la
-ㄌㄚˊ	lá	lá	lá	la2
-ㄌㄚˇ	lǎ	lǎ	lǎ	la3
-ㄌㄚˋ	là	là	là	la4
-˙ㄌㄚ	la	la	la	la5
-ㄌㄛ	lō	lō	lō	lo
-˙ㄌㄛ	lo	lo	lo	lo5
-ㄌㄜ	lē	lē	lē	lê
-ㄌㄜˊ	lé	lé	lé	lê2
-ㄌㄜˋ	lè	lè	lè	lê4
-˙ㄌㄜ	le	le	le	le5
-ㄌㄞˊ	lái	lái	lái	lai2
-ㄌㄞˇ	lǎi	lǎi	lǎi	lai3
-ㄌㄞˋ	lài	lài	lài	lai4
-ㄌㄟ	lēi	lēi	lēi	lei
-ㄌㄟˊ	léi	léi	léi	lei2
-ㄌㄟˇ	lěi	lěi	lěi	lei3
-ㄌㄟˋ	lèi	lèi	lèi	lei4
-˙ㄌㄟ	lei	lei	lei	lei5
-ㄌㄠ	lāo	lāu	lāu	lao
-ㄌㄠˊ	láo	láu	láu	lao2
-ㄌㄠˇ	lǎo	lǎu	lǎu	lao3
-ㄌㄠˋ	lào	làu	làu	lao4
-ㄌㄡ	lōu	lōu	lōu	lou
-ㄌㄡˊ	lóu	lóu	lóu	lou2
-ㄌㄡˇ	lǒu	lǒu	lǒu	lou3
-ㄌㄡˋ	lòu	lòu	lòu	lou4
-˙ㄌㄡ	lou	lou	lou	lou5
-ㄌㄢˊ	lán	lán	lán	lan2
-ㄌㄢˇ	lǎn	lǎn	lǎn	lan3
-ㄌㄢˋ	làn	làn	làn	lan4
-ㄌㄤ	lāng	lāng	lāng	lang
-ㄌㄤˊ	láng	láng	láng	lang2
-ㄌㄤˇ	lǎng	lǎng	lǎng	lang3
-ㄌㄤˋ	làng	làng	làng	lang4
-ㄌㄥ	lēng	lēng	lēng	lêng
-ㄌㄥˊ	léng	léng	léng	lêng2
-ㄌㄥˇ	lěng	lěng	lěng	lêng3
-ㄌㄥˋ	lèng	lèng	lèng	lêng4
-ㄌㄧ	lī	lī	lī	li
-ㄌㄧˊ	lí	lí	lí	li2
-ㄌㄧˇ	lǐ	lǐ	lǐ	li3
-ㄌㄧˋ	lì	lì	lì	li4
-˙ㄌㄧ	li	li	li	li5
-ㄌㄧㄚˇ	liǎ	liǎ	lyǎ	lia3
-ㄌㄧㄝ	liē	liē	lyē	lieh
-ㄌㄧㄝˊ	lié	lié	lyé	lieh2
-ㄌㄧㄝˇ	liě	liě	lyě	lieh3
-ㄌㄧㄝˋ	liè	liè	lyè	lieh4
-ㄌㄧㄠ	liāo	liāu	lyāu	liao
-ㄌㄧㄠˊ	liáo	liáu	lyáu	liao2
-ㄌㄧㄠˇ	liǎo	liǎu	lyǎu	liao3
-ㄌㄧㄠˋ	liào	liàu	lyàu	liao4
-ㄌㄧㄡ	liū	liōu	lyōu	liu
-ㄌㄧㄡˊ	liú	lióu	lyóu	liu2
-ㄌㄧㄡˇ	liǔ	liǒu	lyǒu	liu3
-ㄌㄧㄡˋ	liù	liòu	lyòu	liu4
-ㄌㄧㄢ	liān	liān	lyān	lien
-ㄌㄧㄢˊ	lián	lián	lyán	lien2
-ㄌㄧㄢˇ	liǎn	liǎn	lyǎn	lien3
-ㄌㄧㄢˋ	liàn	liàn	lyàn	lien4
-ㄌㄧㄣˊ	lín	lín	lín	lin2
-ㄌㄧㄣˇ	lǐn	lǐn	lǐn	lin3
-ㄌㄧㄣˋ	lìn	lìn	lìn	lin4
-ㄌㄧㄤˊ	liáng	liáng	lyáng	liang2
-ㄌㄧㄤˇ	liǎng	liǎng	lyǎng	liang3
-ㄌㄧㄤˋ	liàng	liàng	lyàng	liang4
-ㄌㄧㄥ	līng	līng	līng	ling
-ㄌㄧㄥˊ	líng	líng	líng	ling2
-ㄌㄧㄥˇ	lǐng	lǐng	lǐng	ling3
-ㄌㄧㄥˋ	lìng	lìng	lìng	ling4
-ㄌㄨ	lū	lū	lū	lu
-ㄌㄨˊ	lú	lú	lú	lu2
-ㄌㄨˇ	lǔ	lǔ	lǔ	lu3
-ㄌㄨˋ	lù	lù	lù	lu4
-ㄌㄨㄛ	luō	luō	lwō	lo
-ㄌㄨㄛˊ	luó	luó	lwó	lo2
-ㄌㄨㄛˇ	luǒ	luǒ	lwǒ	lo3
-ㄌㄨㄛˋ	luò	luò	lwò	lo4
-˙ㄌㄨㄛ	luo	luo	lwo	lo5
-ㄌㄨㄢˊ	luán	luán	lwán	luan2
-ㄌㄨㄢˇ	luǎn	luǎn	lwǎn	luan3
-ㄌㄨㄢˋ	luàn	luàn	lwàn	luan4
-ㄌㄨㄣ	lūn	luēn	lwūn	lun
-ㄌㄨㄣˊ	lún	luén	lwún	lun2
-ㄌㄨㄣˇ	lǔn	luěn	lwǔn	lun3
-ㄌㄨㄣˋ	lùn	luèn	lwùn	lun4
-ㄌㄨㄥ	lōng	lūng	lūng	lung
-ㄌㄨㄥˊ	lóng	lúng	lúng	lung2
-ㄌㄨㄥˇ	lǒng	lǔng	lǔng	lung3
-ㄌㄨㄥˋ	lòng	lùng	lùng	lung4
-ㄌㄩ	lǖ	liū	lyū	lü
-ㄌㄩˊ	lǘ	liú	lyú	lü2
-ㄌㄩˇ	lǚ	liǔ	lyǔ	lü3
-ㄌㄩˋ	lǜ	liù	lyù	lü4
-ㄌㄩㄝ	lüē	liuē	lywē	lüeh
-ㄌㄩㄝˇ	lüě	liuě	lywě	lüeh3
-ㄌㄩㄝˋ	lüè	liuè	lywè	lüeh4
-ㄌㄩㄢˊ	lüán	liuán	lywán	lüan2
-ㄌㄩㄢˇ	lüǎn	liuǎn	lywǎn	lüan3
-ㄍㄚ	gā	gā	gā	ka
-ㄍㄚˊ	gá	gá	gá	ka2
-ㄍㄚˇ	gǎ	gǎ	gǎ	ka3
-ㄍㄚˋ	gà	gà	gà	ka4
-˙ㄍㄚ	ga	ga	ga	ka5
-ㄍㄜ	gē	gē	gē	kê
-ㄍㄜˊ	gé	gé	gé	kê2
-ㄍㄜˇ	gě	gě	gě	kê3
-ㄍㄜˋ	gè	gè	gè	kê4
-˙ㄍㄜ	ge	ge	ge	kê5
-ㄍㄞ	gāi	gāi	gāi	kai
-ㄍㄞˇ	gǎi	gǎi	gǎi	kai3
-ㄍㄞˋ	gài	gài	gài	kai4
-ㄍㄟˇ	gěi	gěi	gěi	kei3
-ㄍㄠ	gāo	gāu	gāu	kao
-ㄍㄠˇ	gǎo	gǎu	gǎu	kao3
-ㄍㄠˋ	gào	gàu	gàu	kao4
-ㄍㄡ	gōu	gōu	gōu	kou
-ㄍㄡˇ	gǒu	gǒu	gǒu	kou3
-ㄍㄡˋ	gòu	gòu	gòu	kou4
-ㄍㄢ	gān	gān	gān	kan
-ㄍㄢˇ	gǎn	gǎn	gǎn	kan3
-ㄍㄢˋ	gàn	gàn	gàn	kan4
-ㄍㄣ	gēn	gēn	gēn	kên
-ㄍㄣˊ	gén	gén	gén	kên2
-ㄍㄣˇ	gěn	gěn	gěn	kên3
-ㄍㄣˋ	gèn	gèn	gèn	kên4
-ㄍㄤ	gāng	gāng	gāng	kang
-ㄍㄤˇ	gǎng	gǎng	gǎng	kang3
-ㄍㄤˋ	gàng	gàng	gàng	kang4
-ㄍㄥ	gēng	gēng	gēng	kêng
-ㄍㄥˇ	gěng	gěng	gěng	kêng3
-ㄍㄥˋ	gèng	gèng	gèng	keng4
-ㄍㄨ	gū	gū	gū	ku
-ㄍㄨˊ	gú	gú	gú	ku2
-ㄍㄨˇ	gǔ	gǔ	gǔ	ku3
-ㄍㄨˋ	gù	gù	gù	ku4
-ㄍㄨㄚ	guā	guā	gwā	kua
-ㄍㄨㄚˊ	guá	guá	gwá	kua2
-ㄍㄨㄚˇ	guǎ	guǎ	gwǎ	kua3
-ㄍㄨㄚˋ	guà	guà	gwà	kua4
-ㄍㄨㄛ	guō	guō	gwō	kuo
-ㄍㄨㄛˊ	guó	guó	gwó	kuo2
-ㄍㄨㄛˇ	guǒ	guǒ	gwǒ	kuo3
-ㄍㄨㄛˋ	guò	guò	gwò	kuo4
-ㄍㄨㄜˊ	gué	gué	gué	kuê2
-ㄍㄨㄞ	guāi	guāi	gwāi	kuai
-ㄍㄨㄞˇ	guǎi	guǎi	gwǎi	kuai3
-ㄍㄨㄞˋ	guài	guài	gwài	kuai4
-ㄍㄨㄟ	guī	guēi	gwēi	kuei
-ㄍㄨㄟˇ	guǐ	guěi	gwěi	kuei3
-ㄍㄨㄟˋ	guì	guèi	gwèi	kuei4
-ㄍㄨㄢ	guān	guān	gwān	kuan
-ㄍㄨㄢˇ	guǎn	guǎn	gwǎn	kuan3
-ㄍㄨㄢˋ	guàn	guàn	gwàn	kuan4
-ㄍㄨㄣ	gūn	guēn	gwūn	kun
-ㄍㄨㄣˇ	gǔn	guěn	gwǔn	kun3
-ㄍㄨㄣˋ	gùn	guèn	gwùn	kun4
-ㄍㄨㄤ	guāng	guāng	gwāng	kuang
-ㄍㄨㄤˇ	guǎng	guǎng	gwǎng	kuang3
-ㄍㄨㄤˋ	guàng	guàng	gwàng	kuang4
-ㄍㄨㄥ	gōng	gūng	gūng	kung
-ㄍㄨㄥˊ	góng	gúng	gúng	kung2
-ㄍㄨㄥˇ	gǒng	gǔng	gǔng	kung3
-ㄍㄨㄥˋ	gòng	gùng	gùng	kung4
-ㄎㄚ	kā	kā	kā	k'a
-ㄎㄚˇ	kǎ	kǎ	kǎ	k'a3
-ㄎㄚˋ	kà	kà	kà	k'a4
-ㄎㄜ	kē	kē	kē	k'ê
-ㄎㄜˊ	ké	ké	ké	k'ê2
-ㄎㄜˇ	kě	kě	kě	k'ê3
-ㄎㄜˋ	kè	kè	kè	k'ê4
-ㄎㄞ	kāi	kāi	kāi	k'ai
-ㄎㄞˇ	kǎi	kǎi	kǎi	k'ai3
-ㄎㄞˋ	kài	kài	kài	k'ai4
-ㄎㄠ	kāo	kāu	kāu	k'ao
-ㄎㄠˇ	kǎo	kǎu	kǎu	k'ao3
-ㄎㄠˋ	kào	kàu	kàu	k'ao4
-ㄎㄡ	kōu	kōu	kōu	k'ou
-ㄎㄡˇ	kǒu	kǒu	kǒu	k'ou3
-ㄎㄡˋ	kòu	kòu	kòu	k'ou4
-ㄎㄢ	kān	kān	kān	k'an
-ㄎㄢˇ	kǎn	kǎn	kǎn	k'an3
-ㄎㄢˋ	kàn	kàn	kàn	k'an4
-ㄎㄣ	kēn	kēn	kēn	k'ên
-ㄎㄣˇ	kěn	kěn	kěn	k'ên3
-ㄎㄣˋ	kèn	kèn	kèn	k'ên4
-ㄎㄤ	kāng	kāng	kāng	k'ang
-ㄎㄤˊ	káng	káng	káng	k'ang2
-ㄎㄤˇ	kǎng	kǎng	kǎng	k'ang3
-ㄎㄤˋ	kàng	kàng	kàng	k'ang4
-ㄎㄥ	kēng	kēng	kēng	k'êng
-ㄎㄥˇ	kěng	kěng	kěng	k'êng3
-ㄎㄨ	kū	kū	kū	k'u
-ㄎㄨˊ	kú	kú	kú	k'u2
-ㄎㄨˇ	kǔ	kǔ	kǔ	k'u3
-ㄎㄨˋ	kù	kù	kù	k'u4
-ㄎㄨㄚ	kuā	kuā	kwā	k'ua
-ㄎㄨㄚˇ	kuǎ	kuǎ	kwǎ	k'ua3
-ㄎㄨㄚˋ	kuà	kuà	kwà	k'ua4
-ㄎㄨㄛˋ	kuò	kuò	kwò	k'uo4
-ㄎㄨㄞ	kuāi	kuāi	kwāi	k'uai
-ㄎㄨㄞˇ	kuǎi	kuǎi	kwǎi	k'uai3
-ㄎㄨㄞˋ	kuài	kuài	kwài	k'uai4
-ㄎㄨㄟ	kuī	kuēi	kwēi	k'uei
-ㄎㄨㄟˊ	kuí	kuéi	kwéi	k'uei2
-ㄎㄨㄟˇ	kuǐ	kuěi	kwěi	k'uei3
-ㄎㄨㄟˋ	kuì	kuèi	kwèi	k'uei4
-ㄎㄨㄢ	kuān	kuān	kwān	k'uan
-ㄎㄨㄢˇ	kuǎn	kuǎn	kwǎn	k'uan3
-ㄎㄨㄢˋ	kuàn	kuàn	kwàn	k'uan4
-ㄎㄨㄣ	kūn	kuēn	kwūn	k'un
-ㄎㄨㄣˇ	kǔn	kuěn	kwǔn	k'un3
-ㄎㄨㄣˋ	kùn	kuèn	kwùn	k'un4
-ㄎㄨㄤ	kuāng	kuāng	kwāng	k'uang
-ㄎㄨㄤˊ	kuáng	kuáng	kwáng	k'uang2
-ㄎㄨㄤˇ	kuǎng	kuǎng	kwǎng	k'uang3
-ㄎㄨㄤˋ	kuàng	kuàng	kwàng	k'uang4
-ㄎㄨㄥ	kōng	kūng	kūng	k'ung
-ㄎㄨㄥˇ	kǒng	kǔng	kǔng	k'ung3
-ㄎㄨㄥˋ	kòng	kùng	kùng	k'ung4
-ㄏㄚ	hā	hā	hā	ha
-ㄏㄚˊ	há	há	há	ha2
-ㄏㄚˇ	hǎ	hǎ	hǎ	ha3
-ㄏㄜ	hē	hē	hē	hê
-ㄏㄜˊ	hé	hé	hé	hê2
-ㄏㄜˇ	hě	hě	hě	hê3
-ㄏㄜˋ	hè	hè	hè	hê4
-ㄏㄞ	hāi	hāi	hāi	hai
-ㄏㄞˊ	hái	hái	hái	hai2
-ㄏㄞˇ	hǎi	hǎi	hǎi	hai3
-ㄏㄞˋ	hài	hài	hài	hai4
-ㄏㄟ	hēi	hēi	hēi	hei
-ㄏㄟˇ	hěi	hěi	hěi	hei3
-ㄏㄠ	hāo	hāu	hāu	hao
-ㄏㄠˊ	háo	háu	háu	hao2
-ㄏㄠˇ	hǎo	hǎu	hǎu	hao3
-ㄏㄠˋ	hào	hàu	hàu	hao4
-ㄏㄡ	hōu	hōu	hōu	hou
-ㄏㄡˊ	hóu	hóu	hóu	hou2
-ㄏㄡˇ	hǒu	hǒu	hǒu	hou3
-ㄏㄡˋ	hòu	hòu	hòu	hou4
-ㄏㄢ	hān	hān	hān	han
-ㄏㄢˊ	hán	hán	hán	han2
-ㄏㄢˇ	hǎn	hǎn	hǎn	han3
-ㄏㄢˋ	hàn	hàn	hàn	han4
-ㄏㄣ	hēn	hēn	hēn	hên
-ㄏㄣˊ	hén	hén	hén	hên2
-ㄏㄣˇ	hěn	hěn	hěn	hên3
-ㄏㄣˋ	hèn	hèn	hèn	hên4
-ㄏㄤ	hāng	hāng	hāng	hang
-ㄏㄤˊ	háng	háng	háng	hang2
-ㄏㄤˇ	hǎng	hǎng	hǎng	hang3
-ㄏㄤˋ	hàng	hàng	hàng	hang4
-ㄏㄥ	hēng	hēng	hēng	hêng
-ㄏㄥˊ	héng	héng	héng	hêng2
-ㄏㄥˋ	hèng	hèng	hèng	hêng4
-ㄏㄨ	hū	hū	hū	hu
-ㄏㄨˊ	hú	hú	hú	hu2
-ㄏㄨˇ	hǔ	hǔ	hǔ	hu3
-ㄏㄨˋ	hù	hù	hù	hu4
-ㄏㄨㄚ	huā	huā	hwā	hua
-ㄏㄨㄚˊ	huá	huá	hwá	hua2
-ㄏㄨㄚˇ	huǎ	huǎ	hwǎ	hua3
-ㄏㄨㄚˋ	huà	huà	hwà	hua4
-ㄏㄨㄛ	huō	huō	hwō	huo
-ㄏㄨㄛˊ	huó	huó	hwó	huo2
-ㄏㄨㄛˇ	huǒ	huǒ	hwǒ	huo3
-ㄏㄨㄛˋ	huò	huò	hwò	huo4
-˙ㄏㄨㄛ	huo	huo	hwo	huo5
-ㄏㄨㄞˊ	huái	huái	hwái	huai2
-ㄏㄨㄞˋ	huài	huài	hwài	huai4
-ㄏㄨㄟ	huī	huēi	hwēi	hui
-ㄏㄨㄟˊ	huí	huéi	hwéi	hui2
-ㄏㄨㄟˇ	huǐ	huěi	hwěi	hui3
-ㄏㄨㄟˋ	huì	huèi	hwèi	hui4
-ㄏㄨㄢ	huān	huān	hwān	huan
-ㄏㄨㄢˊ	huán	huán	hwán	huan2
-ㄏㄨㄢˇ	huǎn	huǎn	hwǎn	huan3
-ㄏㄨㄢˋ	huàn	huàn	hwàn	huan4
-ㄏㄨㄣ	hūn	huēn	hwūn	hun
-ㄏㄨㄣˊ	hún	huén	hwún	hun2
-ㄏㄨㄣˇ	hǔn	huěn	hwǔn	hun3
-ㄏㄨㄣˋ	hùn	huèn	hwùn	hun4
-ㄏㄨㄤ	huāng	huāng	hwāng	huang
-ㄏㄨㄤˊ	huáng	huáng	hwáng	huang2
-ㄏㄨㄤˇ	huǎng	huǎng	hwǎng	huang3
-ㄏㄨㄤˋ	huàng	huàng	hwàng	huang4
-˙ㄏㄨㄤ	huang	huang	hwang	huang5
-ㄏㄨㄥ	hōng	hūng	hūng	hung
-ㄏㄨㄥˊ	hóng	húng	húng	hung2
-ㄏㄨㄥˇ	hǒng	hǔng	hǔng	hung3
-ㄏㄨㄥˋ	hòng	hùng	hùng	hung4
-ㄐㄧ	jī	jī	jī	chi
-ㄐㄧˊ	jí	jí	jí	chi2
-ㄐㄧˇ	jǐ	jǐ	jǐ	chi3
-ㄐㄧˋ	jì	jì	jì	chi4
-ㄐㄧㄚ	jiā	jiā	jyā	chia
-ㄐㄧㄚˊ	jiá	jiá	jyá	chia2
-ㄐㄧㄚˇ	jiǎ	jiǎ	jyǎ	chia3
-ㄐㄧㄚˋ	jià	jià	jyà	chia4
-ㄐㄧㄝ	jiē	jiē	jyē	chieh
-ㄐㄧㄝˊ	jié	jié	jyé	chieh2
-ㄐㄧㄝˇ	jiě	jiě	jyě	chieh3
-ㄐㄧㄝˋ	jiè	jiè	jyè	chieh4
-˙ㄐㄧㄝ	jie	jie	jye	chieh5
-ㄐㄧㄠ	jiāo	jiāu	jyāu	chiao
-ㄐㄧㄠˊ	jiáo	jiáu	jyáu	chiao2
-ㄐㄧㄠˇ	jiǎo	jiǎu	jyǎu	chiao3
-ㄐㄧㄠˋ	jiào	jiàu	jyàu	chiao4
-ㄐㄧㄡ	jiū	jiōu	jyōu	chiu
-ㄐㄧㄡˇ	jiǔ	jiǒu	jyǒu	chiu3
-ㄐㄧㄡˋ	jiù	jiòu	jyòu	chiu4
-ㄐㄧㄢ	jiān	jiān	jyān	chien
-ㄐㄧㄢˇ	jiǎn	jiǎn	jyǎn	chien3
-ㄐㄧㄢˋ	jiàn	jiàn	jyàn	chien4
-ㄐㄧㄣ	jīn	jīn	jīn	chin
-ㄐㄧㄣˇ	jǐn	jǐn	jǐn	chin3
-ㄐㄧㄣˋ	jìn	jìn	jìn	chin4
-ㄐㄧㄤ	jiāng	jiāng	jyāng	chiang
-ㄐㄧㄤˊ	jiáng	jiáng	jyáng	chiang2
-ㄐㄧㄤˇ	jiǎng	jiǎng	jyǎng	chiang3
-ㄐㄧㄤˋ	jiàng	jiàng	jyàng	chiang4
-ㄐㄧㄥ	jīng	jīng	jīng	ching
-ㄐㄧㄥˇ	jǐng	jǐng	jǐng	ching3
-ㄐㄧㄥˋ	jìng	jìng	jìng	ching4
-ㄐㄩ	jū	jiū	jyū	chü
-ㄐㄩˊ	jú	jiú	jyú	chü2
-ㄐㄩˇ	jǔ	jiǔ	jyǔ	chü3
-ㄐㄩˋ	jù	jiù	jyù	chü4
-ㄐㄩㄝ	juē	jiuē	jywē	chüeh
-ㄐㄩㄝˊ	jué	jiué	jywé	chüeh2
-ㄐㄩㄝˇ	juě	jiuě	jywě	chüeh3
-ㄐㄩㄝˋ	juè	jiuè	jywè	chüeh4
-ㄐㄩㄢ	juān	jiuān	jywān	chüan
-ㄐㄩㄢˇ	juǎn	jiuǎn	jywǎn	chüan3
-ㄐㄩㄢˋ	juàn	jiuàn	jywàn	chüan4
-ㄐㄩㄣ	jūn	jiūn	jyūn	chün
-ㄐㄩㄣˊ	jún	jiún	jyún	chün2
-ㄐㄩㄣˇ	jǔn	jiǔn	jyǔn	chün3
-ㄐㄩㄣˋ	jùn	jiùn	jyùn	chün4
-ㄐㄩㄥ	jiōng	jiūng	jyūng	chiung
-ㄐㄩㄥˇ	jiǒng	jiǔng	jyǔng	chiung3
-ㄐㄩㄥˋ	jiòng	jiùng	jyùng	chiung4
-˙ㄑ	q	ch	ch	ch'5
-ㄑㄧ	qī	chī	chī	ch'i
-ㄑㄧˊ	qí	chí	chí	ch'i2
-ㄑㄧˇ	qǐ	chǐ	chǐ	ch'i3
-ㄑㄧˋ	qì	chì	chì	ch'i4
-ㄑㄧㄚ	qiā	chiā	chyā	ch'ia
-ㄑㄧㄚˊ	qiá	chiá	chyá	ch'ia2
-ㄑㄧㄚˇ	qiǎ	chiǎ	chyǎ	ch'ia3
-ㄑㄧㄚˋ	qià	chià	chyà	ch'ia4
-ㄑㄧㄝ	qiē	chiē	chyē	ch'ieh
-ㄑㄧㄝˊ	qié	chié	chyé	ch'ieh2
-ㄑㄧㄝˇ	qiě	chiě	chyě	ch'ieh3
-ㄑㄧㄝˋ	qiè	chiè	chyè	ch'ieh4
-ㄑㄧㄠ	qiāo	chiāu	chyāu	ch'iao
-ㄑㄧㄠˊ	qiáo	chiáu	chyáu	ch'iao2
-ㄑㄧㄠˇ	qiǎo	chiǎu	chyǎu	ch'iao3
-ㄑㄧㄠˋ	qiào	chiàu	chyàu	ch'iao4
-ㄑㄧㄡ	qiū	chiōu	chyōu	ch'iu
-ㄑㄧㄡˊ	qiú	chióu	chyóu	ch'iu2
-ㄑㄧㄡˇ	qiǔ	chiǒu	chyǒu	ch'iu3
-ㄑㄧㄡˋ	qiù	chiòu	chyòu	ch'iu4
-ㄑㄧㄢ	qiān	chiān	chyān	ch'ien
-ㄑㄧㄢˊ	qián	chián	chyán	ch'ien2
-ㄑㄧㄢˇ	qiǎn	chiǎn	chyǎn	ch'ien3
-ㄑㄧㄢˋ	qiàn	chiàn	chyàn	ch'ien4
-ㄑㄧㄣ	qīn	chīn	chīn	ch'in
-ㄑㄧㄣˊ	qín	chín	chín	ch'in2
-ㄑㄧㄣˇ	qǐn	chǐn	chǐn	ch'in3
-ㄑㄧㄣˋ	qìn	chìn	chìn	ch'in4
-ㄑㄧㄤ	qiāng	chiāng	chyāng	ch'iang
-ㄑㄧㄤˊ	qiáng	chiáng	chyáng	ch'iang2
-ㄑㄧㄤˇ	qiǎng	chiǎng	chyǎng	ch'iang3
-ㄑㄧㄤˋ	qiàng	chiàng	chyàng	ch'iang4
-ㄑㄧㄥ	qīng	chīng	chīng	ch'ing
-ㄑㄧㄥˊ	qíng	chíng	chíng	ch'ing2
-ㄑㄧㄥˇ	qǐng	chǐng	chǐng	ch'ing3
-ㄑㄧㄥˋ	qìng	chìng	chìng	ch'ing4
-ㄑㄩ	qū	chiū	chyū	ch'ü
-ㄑㄩˊ	qú	chiú	chyú	ch'ü2
-ㄑㄩˇ	qǔ	chiǔ	chyǔ	ch'ü3
-ㄑㄩˋ	qù	chiù	chyù	ch'ü4
-ㄑㄩㄝ	quē	chiuē	chywē	ch'üeh
-ㄑㄩㄝˊ	qué	chiué	chywé	ch'ueh2
-ㄑㄩㄝˋ	què	chiuè	chywè	ch'ueh4
-ㄑㄩㄢ	quān	chiuān	chywān	ch'üan
-ㄑㄩㄢˊ	quán	chiuán	chywán	ch'üan2
-ㄑㄩㄢˇ	quǎn	chiuǎn	chywǎn	ch'üan3
-ㄑㄩㄢˋ	quàn	chiuàn	chywàn	ch'üan4
-ㄑㄩㄣ	qūn	chiūn	chyūn	ch'ün
-ㄑㄩㄣˊ	qún	chiún	chyún	ch'ün2
-ㄑㄩㄣˇ	qǔn	chiǔn	chyǔn	ch'ün3
-ㄑㄩㄣˋ	qùn	chiùn	chyùn	ch'ün4
-ㄑㄩㄥ	qiōng	chiūng	chyūng	ch'iung
-ㄑㄩㄥˊ	qióng	chiúng	chyúng	ch'iung2
-ㄑㄩㄥˇ	qiǒng	chiǔng	chyǔng	ch'iung3
-ㄑㄩㄥˋ	qiòng	chiùng	chyùng	ch'iung4
-ㄒㄧ	xī	shī	syī	hsi
-ㄒㄧˊ	xí	shī	syī	hsi2
-ㄒㄧˇ	xǐ	shǐ	syǐ	hsi3
-ㄒㄧˋ	xì	shì	syì	hsi4
-ㄒㄧㄚ	xiā	shiā	syā	hsia
-ㄒㄧㄚˊ	xiá	shiá	syá	hsia2
-ㄒㄧㄚˇ	xiǎ	shiǎ	syǎ	hsia3
-ㄒㄧㄚˋ	xià	shià	syà	hsia4
-ㄒㄧㄝ	xiē	shiē	syē	hsieh
-ㄒㄧㄝˊ	xié	shié	syé	hsieh2
-ㄒㄧㄝˇ	xiě	shiě	syě	hsieh3
-ㄒㄧㄝˋ	xiè	shiè	syè	hsieh4
-ㄒㄧㄠ	xiāo	shiāu	syāu	hsiao
-ㄒㄧㄠˊ	xiáo	shiáu	syáu	hsiao2
-ㄒㄧㄠˇ	xiǎo	shiǎu	syǎu	hsiao3
-ㄒㄧㄠˋ	xiào	shiàu	syàu	hsiao4
-ㄒㄧㄡ	xiū	shiōu	syōu	hsiu
-ㄒㄧㄡˊ	xiú	shióu	syóu	hsiu2
-ㄒㄧㄡˇ	xiǔ	shiǒu	syǒu	hsiu3
-ㄒㄧㄡˋ	xiù	shiòu	syòu	hsiu4
-ㄒㄧㄢ	xiān	shiān	syān	hsien
-ㄒㄧㄢˊ	xián	shián	syán	hsien2
-ㄒㄧㄢˇ	xiǎn	shiǎn	syǎn	hsien3
-ㄒㄧㄢˋ	xiàn	shiàn	syàn	hsien4
-ㄒㄧㄣ	xīn	shīn	syīn	hsin
-ㄒㄧㄣˊ	xín	shīn	syīn	hsin2
-ㄒㄧㄣˇ	xǐn	shǐn	syǐn	hsin3
-ㄒㄧㄣˋ	xìn	shìn	syìn	hsin4
-ㄒㄧㄤ	xiāng	shiāng	syāng	hsiang
-ㄒㄧㄤˊ	xiáng	shiáng	syáng	hsiang2
-ㄒㄧㄤˇ	xiǎng	shiǎng	syǎng	hsiang3
-ㄒㄧㄤˋ	xiàng	shiàng	syàng	hsiang4
-ㄒㄧㄥ	xīng	shīng	syīng	hsing
-ㄒㄧㄥˊ	xíng	shīng	syīng	hsing2
-ㄒㄧㄥˇ	xǐng	shǐng	syǐng	hsing3
-ㄒㄧㄥˋ	xìng	shìng	syìng	hsing4
-ㄒㄩ	xū	shiū	syū	hsü
-ㄒㄩˊ	xú	shiú	syú	hsü2
-ㄒㄩˇ	xǔ	shiǔ	syǔ	hsü3
-ㄒㄩˋ	xù	shiù	syù	hsü4
-ㄒㄩㄝ	xuē	shiuē	sywē	hsüeh
-ㄒㄩㄝˊ	xué	shiué	sywé	hsüeh2
-ㄒㄩㄝˇ	xuě	shiuě	sywě	hsüeh3
-ㄒㄩㄝˋ	xuè	shiuè	sywè	hsüeh4
-ㄒㄩㄢ	xuān	shiuān	sywān	hsüan
-ㄒㄩㄢˊ	xuán	shiuán	sywán	hsüan2
-ㄒㄩㄢˇ	xuǎn	shiuǎn	sywǎn	hsüan3
-ㄒㄩㄢˋ	xuàn	shiuàn	sywàn	hsüan4
-ㄒㄩㄣ	xūn	shiūn	syūn	hsün
-ㄒㄩㄣˊ	xún	shiún	syún	hsün2
-ㄒㄩㄣˋ	xùn	shiùn	syùn	hsün4
-ㄒㄩㄥ	xiōng	shiūng	syūng	hsiung
-ㄒㄩㄥˊ	xióng	shiúng	syúng	hsiung2
-ㄒㄩㄥˇ	xiǒng	shiǔng	syǔng	hsiung3
-ㄒㄩㄥˋ	xiòng	shiùng	syùng	hsiung4
-ㄓ	zhī	jr̄	jr̄	chih
-ㄓˊ	zhí	jŕ	jŕ	chih2
-ㄓˇ	zhǐ	jř	jř	chih3
-ㄓˋ	zhì	jr̀	jr̀	chih4
-ㄓㄚ	zhā	jā	jā	cha
-ㄓㄚˊ	zhá	já	já	cha2
-ㄓㄚˇ	zhǎ	jǎ	jǎ	cha3
-ㄓㄚˋ	zhà	jà	jà	cha4
-ㄓㄜ	zhē	jē	jē	chê
-ㄓㄜˊ	zhé	jé	jé	chê2
-ㄓㄜˇ	zhě	jě	jě	chê3
-ㄓㄜˋ	zhè	jè	jè	chê4
-˙ㄓㄜ	zhe	je	je	chê5
-ㄓㄞ	zhāi	jāi	jāi	chai
-ㄓㄞˊ	zhái	jái	jái	chai2
-ㄓㄞˇ	zhǎi	jǎi	jǎi	chai3
-ㄓㄞˋ	zhài	jài	jài	chai4
-ㄓㄟˋ	zhèi	jèi	jèi	chei4
-ㄓㄠ	zhāo	jāu	jāu	chao
-ㄓㄠˊ	zháo	jáu	jáu	chao2
-ㄓㄠˇ	zhǎo	jǎu	jǎu	chao3
-ㄓㄠˋ	zhào	jàu	jàu	chao4
-ㄓㄡ	zhōu	jōu	jōu	chou
-ㄓㄡˊ	zhóu	jóu	jóu	chou2
-ㄓㄡˇ	zhǒu	jǒu	jǒu	chou3
-ㄓㄡˋ	zhòu	jòu	jòu	chou4
-ㄓㄢ	zhān	jān	jān	chan
-ㄓㄢˇ	zhǎn	jǎn	jǎn	chan3
-ㄓㄢˋ	zhàn	jàn	jàn	chan4
-ㄓㄣ	zhēn	jēn	jēn	chên
-ㄓㄣˊ	zhén	jén	jén	chên2
-ㄓㄣˇ	zhěn	jěn	jěn	chên3
-ㄓㄣˋ	zhèn	jèn	jèn	chên4
-ㄓㄤ	zhāng	jāng	jāng	chang
-ㄓㄤˇ	zhǎng	jǎng	jǎng	chang3
-ㄓㄤˋ	zhàng	jàng	jàng	chang4
-ㄓㄥ	zhēng	jēng	jēng	chêng
-ㄓㄥˇ	zhěng	jěng	jěng	chêng3
-ㄓㄥˋ	zhèng	jèng	jèng	chêng4
-ㄓㄨ	zhū	jū	jū	chu
-ㄓㄨˊ	zhú	jú	jú	chu2
-ㄓㄨˇ	zhǔ	jǔ	jǔ	chu3
-ㄓㄨˋ	zhù	jù	jù	chu4
-ㄓㄨㄚ	zhuā	juā	jwā	chua
-ㄓㄨㄚˇ	zhuǎ	juǎ	jwǎ	chua3
-ㄓㄨㄛ	zhuō	juō	jwō	cho
-ㄓㄨㄛˊ	zhuó	juó	jwó	cho2
-ㄓㄨㄛˋ	zhuò	juò	jwò	cho4
-ㄓㄨㄞ	zhuāi	juāi	jwāi	chuai
-ㄓㄨㄞˇ	zhuǎi	juǎi	jwǎi	chuai3
-ㄓㄨㄞˋ	zhuài	juài	jwài	chuai4
-ㄓㄨㄟ	zhuī	juēi	jwēi	chui
-ㄓㄨㄟˇ	zhuǐ	juěi	jwěi	chui3
-ㄓㄨㄟˋ	zhuì	juèi	jwèi	chui4
-ㄓㄨㄢ	zhuān	juān	jwān	chuan
-ㄓㄨㄢˇ	zhuǎn	juǎn	jwǎn	chuan3
-ㄓㄨㄢˋ	zhuàn	juàn	jwàn	chuan4
-ㄓㄨㄣ	zhūn	juēn	jwūn	chun
-ㄓㄨㄣˇ	zhǔn	juěn	jwǔn	chun3
-ㄓㄨㄣˋ	zhùn	juèn	jwùn	chun4
-ㄓㄨㄤ	zhuāng	juāng	jwāng	chuang
-ㄓㄨㄤˇ	zhuǎng	juǎng	jwǎng	chuang3
-ㄓㄨㄤˋ	zhuàng	juàng	jwàng	chuang4
-ㄓㄨㄥ	zhōng	jūng	jūng	chung
-ㄓㄨㄥˇ	zhǒng	jǔng	jǔng	chung3
-ㄓㄨㄥˋ	zhòng	jùng	jùng	chung4
-ㄔ	chī	chr̄	chr̄	ch'ih
-ㄔˊ	chí	chŕ	chŕ	ch'ih2
-ㄔˇ	chǐ	chř	chř	ch'ih3
-ㄔˋ	chì	chr̀	chr̀	ch'ih4
-ㄔㄚ	chā	chā	chā	ch'a
-ㄔㄚˊ	chá	chá	chá	ch'a2
-ㄔㄚˇ	chǎ	chǎ	chǎ	ch'a3
-ㄔㄚˋ	chà	chà	chà	ch'a4
-ㄔㄜ	chē	chē	chē	ch'ê
-ㄔㄜˇ	chě	chě	chě	ch'ê3
-ㄔㄜˋ	chè	chè	chè	ch'ê4
-ㄔㄞ	chāi	chāi	chāi	ch'ai
-ㄔㄞˊ	chái	chái	chái	ch'ai2
-ㄔㄞˇ	chǎi	chǎi	chǎi	ch'ai3
-ㄔㄞˋ	chài	chài	chài	ch'ai4
-ㄔㄠ	chāo	chāu	chāu	ch'ao
-ㄔㄠˊ	cháo	cháu	cháu	ch'ao2
-ㄔㄠˇ	chǎo	chǎu	chǎu	ch'ao3
-ㄔㄠˋ	chào	chàu	chàu	ch'ao4
-ㄔㄡ	chōu	chōu	chōu	ch'ou
-ㄔㄡˊ	chóu	chóu	chóu	ch'ou2
-ㄔㄡˇ	chǒu	chǒu	chǒu	ch'ou3
-ㄔㄡˋ	chòu	chòu	chòu	ch'ou4
-ㄔㄢ	chān	chān	chān	ch'an
-ㄔㄢˊ	chán	chán	chán	ch'an2
-ㄔㄢˇ	chǎn	chǎn	chǎn	ch'an3
-ㄔㄢˋ	chàn	chàn	chàn	ch'an4
-ㄔㄣ	chēn	chēn	chēn	ch'ên
-ㄔㄣˊ	chén	chén	chén	ch'ên2
-ㄔㄣˇ	chěn	chěn	chěn	ch'ên3
-ㄔㄣˋ	chèn	chèn	chèn	ch'ên4
-˙ㄔㄣ	chen	chen	chen	ch'ên5
-ㄔㄤ	chāng	chāng	chāng	ch'ang
-ㄔㄤˊ	cháng	cháng	cháng	ch'ang2
-ㄔㄤˇ	chǎng	chǎng	chǎng	ch'ang3
-ㄔㄤˋ	chàng	chàng	chàng	ch'ang4
-ㄔㄥ	chēng	chēng	chēng	ch'êng
-ㄔㄥˊ	chéng	chéng	chéng	ch'êng2
-ㄔㄥˇ	chěng	chěng	chěng	ch'êng3
-ㄔㄥˋ	chèng	chèng	chèng	ch'êng4
-ㄔㄨ	chū	chū	chū	ch'u
-ㄔㄨˊ	chú	chú	chú	ch'u2
-ㄔㄨˇ	chǔ	chǔ	chǔ	ch'u3
-ㄔㄨˋ	chù	chù	chù	ch'u4
-ㄔㄨㄚ	chuā	chuā	chwā	ch'ua
-ㄔㄨㄚˇ	chuǎ	chuǎ	chwǎ	ch'ua3
-ㄔㄨㄚˋ	chuà	chuà	chwà	ch'ua4
-ㄔㄨㄛ	chuō	chuō	chwō	ch'o
-ㄔㄨㄛˋ	chuò	chuò	chwò	ch'o4
-ㄔㄨㄞ	chuāi	chuāi	chwāi	ch'uai
-ㄔㄨㄞˊ	chuái	chuái	chwái	ch'uai2
-ㄔㄨㄞˇ	chuǎi	chuǎi	chwǎi	ch'uai3
-ㄔㄨㄞˋ	chuài	chuài	chwài	ch'uai4
-ㄔㄨㄟ	chuī	chuēi	chwēi	ch'ui
-ㄔㄨㄟˊ	chuí	chuéi	chwēi	ch'ui2
-ㄔㄨㄟˇ	chuǐ	chuěi	chwěi	ch'ui3
-ㄔㄨㄟˋ	chuì	chuèi	chwèi	ch'ui4
-ㄔㄨㄢ	chuān	chuān	chwān	ch'uan
-ㄔㄨㄢˊ	chuán	chuán	chwán	ch'uan2
-ㄔㄨㄢˇ	chuǎn	chuǎn	chwǎn	ch'uan3
-ㄔㄨㄢˋ	chuàn	chuàn	chwàn	ch'uan4
-ㄔㄨㄣ	chūn	chuēn	chwūn	ch'un
-ㄔㄨㄣˊ	chún	chuén	chwún	ch'un2
-ㄔㄨㄣˇ	chǔn	chuěn	chwǔn	ch'un3
-ㄔㄨㄤ	chuāng	chuāng	chwāng	ch'uang
-ㄔㄨㄤˊ	chuáng	chuáng	chwáng	ch'uang2
-ㄔㄨㄤˇ	chuǎng	chuǎng	chwǎng	ch'uang3
-ㄔㄨㄤˋ	chuàng	chuàng	chwàng	ch'uang4
-ㄔㄨㄥ	chōng	chūng	chūng	ch'ung
-ㄔㄨㄥˊ	chóng	chúng	chúng	ch'ung2
-ㄔㄨㄥˇ	chǒng	chǔng	chǔng	ch'ung3
-ㄔㄨㄥˋ	chòng	chùng	chùng	ch'ung4
-ㄕ	shī	shr̄	shr̄	shih
-ㄕˊ	shí	shŕ	shŕ	shih2
-ㄕˇ	shǐ	shř	shř	shih3
-ㄕˋ	shì	shr̀	shr̀	shih4
-˙ㄕ	shi	shr	shr	shih5
-ㄕㄚ	shā	shā	shā	sha
-ㄕㄚˊ	shá	shá	shá	sha2
-ㄕㄚˇ	shǎ	shǎ	shǎ	sha3
-ㄕㄚˋ	shà	shà	shà	sha4
-˙ㄕㄚ	sha	sha	sha	sha5
-ㄕㄜ	shē	shē	shē	shê
-ㄕㄜˊ	shé	shé	shé	shê2
-ㄕㄜˇ	shě	shě	shě	shê3
-ㄕㄜˋ	shè	shè	shè	shê4
-ㄕㄞ	shāi	shāi	shāi	shai
-ㄕㄞˇ	shǎi	shǎi	shǎi	shai3
-ㄕㄞˋ	shài	shài	shài	shai4
-ㄕㄟˊ	shéi	shéi	shéi	shei2
-ㄕㄠ	shāo	shāu	shāu	shao
-ㄕㄠˊ	sháo	sháu	sháu	shao2
-ㄕㄠˇ	shǎo	shǎu	shǎu	shao3
-ㄕㄠˋ	shào	shàu	shàu	shao4
-ㄕㄡ	shōu	shōu	shōu	shou
-ㄕㄡˊ	shóu	shóu	shóu	shou2
-ㄕㄡˇ	shǒu	shǒu	shǒu	shou3
-ㄕㄡˋ	shòu	shòu	shòu	shou4
-ㄕㄢ	shān	shān	shān	shan
-ㄕㄢˊ	shán	shán	shán	shan2
-ㄕㄢˇ	shǎn	shǎn	shǎn	shan3
-ㄕㄢˋ	shàn	shàn	shàn	shan4
-ㄕㄣ	shēn	shēn	shēn	shên
-ㄕㄣˊ	shén	shén	shén	shên2
-ㄕㄣˇ	shěn	shěn	shěn	shên3
-ㄕㄣˋ	shèn	shèn	shèn	shên4
-ㄕㄤ	shāng	shāng	shāng	shang
-ㄕㄤˇ	shǎng	shǎng	shǎng	shang3
-ㄕㄤˋ	shàng	shàng	shàng	shang4
-˙ㄕㄤ	shang	shang	shang	shang5
-ㄕㄥ	shēng	shēng	shēng	shêng
-ㄕㄥˊ	shéng	shéng	shéng	shêng2
-ㄕㄥˇ	shěng	shěng	shěng	shêng3
-ㄕㄥˋ	shèng	shèng	shèng	shêng4
-ㄕㄨ	shū	shū	shū	shu
-ㄕㄨˊ	shú	shú	shú	shu2
-ㄕㄨˇ	shǔ	shǔ	shǔ	shu3
-ㄕㄨˋ	shù	shù	shù	shu4
-ㄕㄨㄚ	shuā	shuā	shwā	shua
-ㄕㄨㄚˇ	shuǎ	shuǎ	shwǎ	shua3
-ㄕㄨㄚˋ	shuà	shuà	shwà	shua4
-ㄕㄨㄛ	shuō	shuō	shwō	shuo
-ㄕㄨㄛˋ	shuò	shuò	shwò	shuo4
-ㄕㄨㄞ	shuāi	shuāi	shwāi	shuai
-ㄕㄨㄞˇ	shuǎi	shuǎi	shwǎi	shuai3
-ㄕㄨㄞˋ	shuài	shuài	shwài	shuai4
-ㄕㄨㄟ	shuī	shuēi	shwēi	shui
-ㄕㄨㄟˊ	shuí	shuéi	shwéi	shui2
-ㄕㄨㄟˇ	shuǐ	shuěi	shwěi	shui3
-ㄕㄨㄟˋ	shuì	shuèi	shwèi	shui4
-ㄕㄨㄢ	shuān	shuān	shwān	shuan
-ㄕㄨㄢˋ	shuàn	shuàn	shwàn	shuan4
-ㄕㄨㄣˇ	shǔn	shuěn	shwǔn	shun3
-ㄕㄨㄣˋ	shùn	shuèn	shwùn	shun4
-ㄕㄨㄤ	shuāng	shuāng	shwāng	shuang
-ㄕㄨㄤˊ	shuáng	shuáng	shwáng	shuang2
-ㄕㄨㄤˇ	shuǎng	shuǎng	shwǎng	shuang3
-ㄕㄨㄤˋ	shuàng	shuàng	shwàng	shuang4
-ㄖˋ	rì	r̀	r̀	jih4
-ㄖㄜˇ	rě	rě	rě	jê3
-ㄖㄜˋ	rè	rè	rè	jê4
-ㄖㄠˊ	ráo	ráu	ráu	jao2
-ㄖㄠˇ	rǎo	rǎu	rǎu	jao3
-ㄖㄠˋ	rào	ràu	ràu	jao4
-ㄖㄡˊ	róu	róu	róu	jou2
-ㄖㄡˇ	rǒu	rǒu	rǒu	jou3
-ㄖㄡˋ	ròu	ròu	ròu	jou4
-ㄖㄢˊ	rán	rán	rán	jan2
-ㄖㄢˇ	rǎn	rǎn	rǎn	jan3
-ㄖㄢˋ	ràn	ràn	ràn	jan4
-ㄖㄣˊ	rén	rén	rén	jên2
-ㄖㄣˇ	rěn	rěn	rěn	jên3
-ㄖㄣˋ	rèn	rèn	rèn	jên4
-ㄖㄤ	rāng	rāng	rāng	jang
-ㄖㄤˊ	ráng	ráng	ráng	jang2
-ㄖㄤˇ	rǎng	rǎng	rǎng	jang3
-ㄖㄤˋ	ràng	ràng	ràng	jang4
-ㄖㄥ	rēng	rēng	rēng	jêng
-ㄖㄥˊ	réng	réng	réng	jêng2
-ㄖㄥˇ	rěng	rěng	rěng	jêng3
-ㄖㄥˋ	rèng	rèng	rèng	jêng4
-ㄖㄨˊ	rú	rú	rú	ju2
-ㄖㄨˇ	rǔ	rǔ	rǔ	ju3
-ㄖㄨˋ	rù	rù	rù	ju4
-ㄖㄨㄛˊ	ruó	ruó	rwó	jo2
-ㄖㄨㄛˋ	ruò	ruò	rwò	jo4
-ㄖㄨㄟˊ	ruí	ruéi	rwéi	jui2
-ㄖㄨㄟˇ	ruǐ	ruěi	rwěi	jui3
-ㄖㄨㄟˋ	ruì	ruèi	rwèi	jui4
-ㄖㄨㄢˊ	ruán	ruán	rwán	juan2
-ㄖㄨㄢˇ	ruǎn	ruǎn	rwǎn	juan3
-ㄖㄨㄢˋ	ruàn	ruàn	rwàn	juan4
-ㄖㄨㄣˊ	rún	ruén	rwún	jun2
-ㄖㄨㄣˇ	rǔn	ruěn	rwǔn	jun3
-ㄖㄨㄣˋ	rùn	ruèn	rwùn	jun4
-ㄖㄨㄥˊ	róng	rúng	rúng	jung2
-ㄖㄨㄥˇ	rǒng	rǔng	rǔng	jung3
-ㄖㄨㄥˋ	ròng	rùng	rùng	jung4
-ㄗ	zī	tz̄	dz̄	tzu
-ㄗˊ	zí	tź	dź	tzu2
-ㄗˇ	zǐ	tž	dž	tzu3
-ㄗˋ	zì	tz̀	dz̀	tzu4
-˙ㄗ	zi	tz	dz	tzu5
-ㄗㄚ	zā	tzā	dzā	tsa
-ㄗㄚˊ	zá	tzá	dzá	tsa2
-ㄗㄚˇ	zǎ	tzǎ	dzǎ	tsa3
-ㄗㄜˊ	zé	tzé	dzé	tsê2
-ㄗㄜˇ	zě	tzě	dzě	tsê3
-ㄗㄜˋ	zè	tzè	dzè	tsê4
-ㄗㄞ	zāi	tzāi	dzāi	tsai
-ㄗㄞˇ	zǎi	tzǎi	dzǎi	tsai3
-ㄗㄞˋ	zài	tzài	dzài	tsai4
-ㄗㄟˊ	zéi	tzéi	dzéi	tsei2
-ㄗㄠ	zāo	tzāu	dzāu	tsao
-ㄗㄠˊ	záo	tzáu	dzáu	tsao2
-ㄗㄠˇ	zǎo	tzǎu	dzǎu	tsao3
-ㄗㄠˋ	zào	tzàu	dzàu	tsao4
-ㄗㄡ	zōu	tzōu	dzōu	tsou
-ㄗㄡˇ	zǒu	tzǒu	dzǒu	tsou3
-ㄗㄡˋ	zòu	tzòu	dzòu	tsou4
-ㄗㄢ	zān	tzān	dzān	tsan
-ㄗㄢˊ	zán	tzán	dzán	tsan2
-ㄗㄢˇ	zǎn	tzǎn	dzǎn	tsan3
-ㄗㄢˋ	zàn	tzàn	dzàn	tsan4
-ㄗㄣ	zēn	tzēn	dzēn	tsên
-ㄗㄣˇ	zěn	tzěn	dzěn	tsên3
-ㄗㄣˋ	zèn	tzèn	dzèn	tsên4
-ㄗㄤ	zāng	tzāng	dzāng	tsang
-ㄗㄤˇ	zǎng	tzǎng	dzǎng	tsang3
-ㄗㄤˋ	zàng	tzàng	dzàng	tsang4
-ㄗㄥ	zēng	tzēng	dzēng	tsêng
-ㄗㄥˇ	zěng	tzěng	dzěng	tsêng3
-ㄗㄥˋ	zèng	tzèng	dzèng	tsêng4
-ㄗㄨ	zū	tzū	dzū	tsu
-ㄗㄨˊ	zú	tzú	dzú	tsu2
-ㄗㄨˇ	zǔ	tzǔ	dzǔ	tsu3
-ㄗㄨˋ	zù	tzù	dzù	tsu4
-ㄗㄨㄛ	zuō	tzuō	dzwō	tso
-ㄗㄨㄛˊ	zuó	tzuó	dzwó	tso2
-ㄗㄨㄛˇ	zuǒ	tzuǒ	dzwǒ	tso3
-ㄗㄨㄛˋ	zuò	tzuò	dzwò	tso4
-˙ㄗㄨㄛ	zuo	tzuo	dzwo	tso5
-ㄗㄨㄟ	zuī	tzuēi	dzwēi	tsui
-ㄗㄨㄟˇ	zuǐ	tzuěi	dzwěi	tsui3
-ㄗㄨㄟˋ	zuì	tzuèi	dzwèi	tsui4
-ㄗㄨㄢ	zuān	tzuān	dzwān	tsuan
-ㄗㄨㄢˇ	zuǎn	tzuǎn	dzwǎn	tsuan3
-ㄗㄨㄢˋ	zuàn	tzuàn	dzwàn	tsuan4
-ㄗㄨㄣ	zūn	tzuēn	dzwūn	tsun
-ㄗㄨㄣˇ	zǔn	tzuěn	dzwǔn	tsun3
-ㄗㄨㄣˋ	zùn	tzuèn	dzwùn	tsun4
-ㄗㄨㄥ	zōng	tzūng	dzūng	tsung
-ㄗㄨㄥˇ	zǒng	tzǔng	dzǔng	tsung3
-ㄗㄨㄥˋ	zòng	tzùng	dzùng	tsung4
-ㄘ	cī	tsz̄	tsz̄	tz'u
-ㄘˊ	cí	tsź	tsź	tz'u2
-ㄘˇ	cǐ	tsž	tsž	tz'u3
-ㄘˋ	cì	tsz̀	tsz̀	tz'u4
-ㄘㄚ	cā	tsā	tsā	ts'a
-ㄘㄚˇ	cǎ	tsǎ	tsǎ	ts'a3
-ㄘㄚˋ	cà	tsà	tsà	ts'a4
-ㄘㄜˋ	cè	tsè	tsè	ts'ê4
-ㄘㄞ	cāi	tsāi	tsāi	ts'ai
-ㄘㄞˊ	cái	tsái	tsái	ts'ai2
-ㄘㄞˇ	cǎi	tsǎi	tsǎi	ts'ai3
-ㄘㄞˋ	cài	tsài	tsài	ts'ai4
-ㄘㄠ	cāo	tsāu	tsāu	ts'ao
-ㄘㄠˊ	cáo	tsáu	tsáu	ts'ao2
-ㄘㄠˇ	cǎo	tsǎu	tsǎu	ts'ao3
-ㄘㄠˋ	cào	tsàu	tsàu	ts'ao4
-ㄘㄡ	cōu	tsōu	tsōu	ts'ou
-ㄘㄡˊ	cóu	tsóu	tsóu	ts'ou2
-ㄘㄡˇ	cǒu	tsǒu	tsǒu	ts'ou3
-ㄘㄡˋ	còu	tsòu	tsòu	ts'ou4
-ㄘㄢ	cān	tsān	tsān	ts'an
-ㄘㄢˊ	cán	tsán	tsán	ts'an2
-ㄘㄢˇ	cǎn	tsǎn	tsǎn	ts'an3
-ㄘㄢˋ	càn	tsàn	tsàn	ts'an4
-ㄘㄣ	cēn	tsēn	tsēn	ts'ên
-ㄘㄣˊ	cén	tsén	tsén	ts'ên2
-ㄘㄤ	cāng	tsāng	tsāng	ts'ang
-ㄘㄤˊ	cáng	tsáng	tsáng	ts'ang2
-ㄘㄤˇ	cǎng	tsǎng	tsǎng	ts'ang3
-ㄘㄤˋ	càng	tsàng	tsàng	ts'ang4
-ㄘㄥ	cēng	tsēng	tsēng	ts'êng
-ㄘㄥˊ	céng	tséng	tséng	ts'êng2
-ㄘㄥˇ	cěng	tsěng	tsěng	ts'êng3
-ㄘㄥˋ	cèng	tsèng	tsèng	ts'êng4
-ㄘㄨ	cū	tsū	tsū	ts'u
-ㄘㄨˊ	cú	tsú	tsú	ts'u2
-ㄘㄨˇ	cǔ	tsǔ	tsǔ	ts'u3
-ㄘㄨˋ	cù	tsù	tsù	ts'u4
-ㄘㄨㄛ	cuō	tsuō	tswō	ts'o
-ㄘㄨㄛˊ	cuó	tsuó	tswó	ts'o2
-ㄘㄨㄛˇ	cuǒ	tsuǒ	tswǒ	ts'o3
-ㄘㄨㄛˋ	cuò	tsuò	tswò	ts'o4
-ㄘㄨㄟ	cuī	tsuēi	tswēi	ts'ui
-ㄘㄨㄟˇ	cuǐ	tsuěi	tswěi	ts'ui3
-ㄘㄨㄟˋ	cuì	tsuèi	tswèi	ts'ui4
-ㄘㄨㄢ	cuān	tsuān	tswān	ts'uan
-ㄘㄨㄢˊ	cuán	tsuán	tswán	ts'uan2
-ㄘㄨㄢˇ	cuǎn	tsuǎn	tswǎn	ts'uan3
-ㄘㄨㄢˋ	cuàn	tsuàn	tswàn	ts'uan4
-ㄘㄨㄣ	cūn	tsuēn	tswūn	ts'un
-ㄘㄨㄣˊ	cún	tsuén	tswún	ts'un2
-ㄘㄨㄣˇ	cǔn	tsuěn	tswǔn	ts'un3
-ㄘㄨㄣˋ	cùn	tsuèn	tswùn	ts'un4
-ㄘㄨㄥ	cōng	tsūng	tsūng	ts'ung
-ㄘㄨㄥˊ	cóng	tsúng	tsúng	ts'ung2
-ㄘㄨㄥˇ	cǒng	tsǔng	tsǔng	ts'ung3
-ㄘㄨㄥˋ	còng	tsùng	tsùng	ts'ung4
-ㄙ	sī	sz̄	sz̄	ssu
-ㄙˇ	sǐ	sž	sž	ssu3
-ㄙˋ	sì	sz̀	sz̀	ssu4
-ㄙㄚ	sā	sā	sā	sa
-ㄙㄚˇ	sǎ	sǎ	sǎ	sa3
-ㄙㄚˋ	sà	sà	sà	sa4
-˙ㄙㄚ	sa	sa	sa	sa5
-ㄙㄜ	sē	sē	sē	sê
-ㄙㄜˋ	sè	sè	sè	sê4
-ㄙㄞ	sāi	sāi	sāi	sai
-ㄙㄞˊ	sái	sái	sái	sai2
-ㄙㄞˇ	sǎi	sǎi	sǎi	sai3
-ㄙㄞˋ	sài	sài	sài	sai4
-ㄙㄟ	sēi	sēi	sēi	sei
-ㄙㄠ	sāo	sāu	sāu	sao
-ㄙㄠˇ	sǎo	sǎu	sǎu	sao3
-ㄙㄠˋ	sào	sàu	sàu	sao4
-ㄙㄡ	sōu	sōu	sōu	sou
-ㄙㄡˇ	sǒu	sǒu	sǒu	sou3
-ㄙㄡˋ	sòu	sòu	sòu	sou4
-ㄙㄢ	sān	sān	sān	san
-ㄙㄢˇ	sǎn	sǎn	sǎn	san3
-ㄙㄢˋ	sàn	sàn	sàn	san4
-ㄙㄣ	sēn	sēn	sēn	sên
-ㄙㄣˇ	sěn	sěn	sěn	sên3
-ㄙㄤ	sāng	sāng	sāng	sang
-ㄙㄤˇ	sǎng	sǎng	sǎng	sang3
-ㄙㄤˋ	sàng	sàng	sàng	sang4
-ㄙㄥ	sēng	sēng	sēng	sêng
-ㄙㄥˋ	sèng	sèng	sèng	sêng4
-ㄙㄨ	sū	sū	sū	su
-ㄙㄨˊ	sú	sú	sú	su2
-ㄙㄨˇ	sǔ	sǔ	sǔ	su3
-ㄙㄨˋ	sù	sù	sù	su4
-ㄙㄨㄛ	suō	suō	swō	so
-ㄙㄨㄛˊ	suó	suó	swó	so2
-ㄙㄨㄛˇ	suǒ	suǒ	swǒ	so3
-ㄙㄨㄛˋ	suò	suò	swò	so4
-ㄙㄨㄟ	suī	suēi	swēi	sui
-ㄙㄨㄟˊ	suí	suéi	swéi	sui2
-ㄙㄨㄟˇ	suǐ	suěi	swěi	sui3
-ㄙㄨㄟˋ	suì	suèi	swèi	sui4
-ㄙㄨㄢ	suān	suān	swān	suan
-ㄙㄨㄢˇ	suǎn	suǎn	swǎn	suan3
-ㄙㄨㄢˋ	suàn	suàn	swàn	suan4
-ㄙㄨㄣ	sūn	suēn	swūn	sun
-ㄙㄨㄣˇ	sǔn	suěn	swǔn	sun3
-ㄙㄨㄣˋ	sùn	suèn	swǔn	sun4
-ㄙㄨㄥ	sōng	sūng	sūng	sung
-ㄙㄨㄥˊ	sóng	súng	súng	sung2
-ㄙㄨㄥˇ	sǒng	sǔng	sǔng	sung3
-ㄙㄨㄥˋ	sòng	sùng	sùng	sung4
-ㄚ	ā	ā	ā	a
-ㄚˊ	á	á	á	a2
-ㄚˋ	à	à	à	a4
-˙ㄚ	a	a	a	a5
-ㄛ	ō	ō	ō	o
-ㄛˊ	ó	ó	ó	o2
-ㄛˇ	ǒ	ǒ	ǒ	o3
-ㄜ	ē	ē	ē	ê
-ㄜˊ	é	é	é	ê2
-ㄜˇ	ě	ě	ě	ê3
-ㄜˋ	è	è	è	ê4
-ㄝˊ	ế	ế	ế	ê2
-ㄝˇ	êˇ	êˇ	êˇ	ê3
-ㄝˋ	ề	ề	ề	ê4
-˙ㄝ	ê	ê	ê	ê5
-ㄞ	āi	āi	āi	ai
-ㄞˊ	ái	ái	ái	ai2
-ㄞˇ	ǎi	ǎi	ǎi	ai3
-ㄞˋ	ài	ài	ài	ai4
-ㄟˋ	èi	èi	èi	ei4
-ㄠ	āo	āu	āu	ao
-ㄠˊ	áo	áu	áu	ao2
-ㄠˇ	ǎo	ǎu	ǎu	ao3
-ㄠˋ	ào	àu	àu	ao4
-ㄡ	ōu	ōu	ōu	ou
-ㄡˊ	óu	óu	óu	ou2
-ㄡˇ	ǒu	ǒu	ǒu	ou3
-ㄡˋ	òu	òu	òu	ou4
-˙ㄡ	ou	ou	ou	ou5
-ㄢ	ān	ān	ān	an
-ㄢˊ	án	án	án	an2
-ㄢˇ	ǎn	ǎn	ǎn	an3
-ㄢˋ	àn	àn	àn	an4
-ㄣ	ēn	ēn	ēn	ên
-ㄣˊ	én	én	én	ên2
-ㄣˇ	ěn	ěn	ěn	ên3
-ㄣˋ	èn	èn	èn	ên4
-˙ㄣ	en	en	en	ên5
-ㄤ	āng	āng	āng	ang
-ㄤˊ	áng	áng	áng	ang2
-ㄤˇ	ǎng	ǎng	ǎng	ang3
-ㄤˋ	àng	àng	àng	ang4
-ㄥ	ēng	ēng	ēng	êng
-ㄥˋ	èng	èng	èng	êng4
-ㄦ	ēr	ēr	ēr	êrh
-ㄦˊ	ér	ér	ér	êrh2
-ㄦˇ	ěr	ěr	ěr	êrh3
-ㄦˋ	èr	èr	èr	êrh4
-˙ㄦ	er	er	er	êrh5
-ㄧ	yī	yī	yī	i
-ㄧˊ	yí	yí	yí	i2
-ㄧˇ	yǐ	yǐ	yǐ	i3
-ㄧˋ	yì	yì	yì	i4
-ㄧㄚ	yā	yā	yā	ya
-ㄧㄚˊ	yá	yá	yá	ya2
-ㄧㄚˇ	yǎ	yǎ	yǎ	ya3
-ㄧㄚˋ	yà	yà	yà	ya4
-˙ㄧㄚ	ya	ya	ya	ya5
-ㄧㄛ	yō	yō	yō	yo
-˙ㄧㄛ	yo	yo	yo	yo5
-ㄧㄝ	yē	yē	yē	yeh
-ㄧㄝˊ	yé	yé	yé	yeh2
-ㄧㄝˇ	yě	yě	yě	yeh3
-ㄧㄝˋ	yè	yè	yè	yeh4
-˙ㄧㄝ	ye	ye	ye	yeh5
-ㄧㄞˊ	yái	yái	yái	yai2
-ㄧㄠ	yāo	yāu	yāu	yao
-ㄧㄠˊ	yáo	yáu	yáu	yao2
-ㄧㄠˇ	yǎo	yǎu	yǎu	yao3
-ㄧㄠˋ	yào	yàu	yàu	yao4
-ㄧㄡ	yōu	yōu	yōu	yu
-ㄧㄡˊ	yóu	yóu	yóu	yu2
-ㄧㄡˇ	yǒu	yǒu	yǒu	yu3
-ㄧㄡˋ	yòu	yòu	yòu	yu4
-ㄧㄢ	yān	yān	yān	yen
-ㄧㄢˊ	yán	yán	yán	yen2
-ㄧㄢˇ	yǎn	yǎn	yǎn	yen3
-ㄧㄢˋ	yàn	yàn	yàn	yen4
-ㄧㄣ	yīn	yīn	yīn	yin
-ㄧㄣˊ	yín	yín	yín	yin2
-ㄧㄣˇ	yǐn	yǐn	yǐn	yin3
-ㄧㄣˋ	yìn	yìn	yìn	yin4
-ㄧㄤ	yāng	yāng	yāng	yang
-ㄧㄤˊ	yáng	yáng	yáng	yang2
-ㄧㄤˇ	yǎng	yǎng	yǎng	yang3
-ㄧㄤˋ	yàng	yàng	yàng	yang4
-ㄧㄥ	yīng	yīng	yīng	ying
-ㄧㄥˊ	yíng	yíng	yíng	ying2
-ㄧㄥˇ	yǐng	yǐng	yǐng	ying3
-ㄧㄥˋ	yìng	yìng	yìng	ying4
-ㄨ	wū	wū	wū	wu
-ㄨˊ	wú	wú	wú	wu2
-ㄨˇ	wǔ	wǔ	wǔ	wu3
-ㄨˋ	wù	wù	wù	wu4
-ㄨㄚ	wā	wā	wā	wa
-ㄨㄚˊ	wá	wá	wá	wa2
-ㄨㄚˇ	wǎ	wǎ	wǎ	wa3
-ㄨㄚˋ	wà	wà	wà	wa4
-˙ㄨㄚ	wa	wa	wa	wa5
-ㄨㄛ	wō	wō	wō	wo
-ㄨㄛˇ	wǒ	wǒ	wǒ	wo3
-ㄨㄛˋ	wò	wò	wò	wo4
-ㄨㄞ	wāi	wāi	wāi	wai
-ㄨㄞˇ	wǎi	wǎi	wǎi	wai3
-ㄨㄞˋ	wài	wài	wài	wai4
-ㄨㄟ	wēi	wēi	wēi	wei
-ㄨㄟˊ	wéi	wéi	wéi	wei2
-ㄨㄟˇ	wěi	wěi	wěi	wei3
-ㄨㄟˋ	wèi	wèi	wèi	wei4
-ㄨㄢ	wān	wān	wān	wan
-ㄨㄢˊ	wán	wán	wán	wan2
-ㄨㄢˇ	wǎn	wǎn	wǎn	wan3
-ㄨㄢˋ	wàn	wàn	wàn	wan4
-ㄨㄣ	wēn	wēn	wēn	wên
-ㄨㄣˊ	wén	wén	wén	wên2
-ㄨㄣˇ	wěn	wěn	wěn	wên3
-ㄨㄣˋ	wèn	wèn	wèn	wên4
-ㄨㄤ	wāng	wāng	wāng	wang
-ㄨㄤˊ	wáng	wáng	wáng	wang2
-ㄨㄤˇ	wǎng	wǎng	wǎng	wang3
-ㄨㄤˋ	wàng	wàng	wàng	wang4
-ㄨㄥ	wēng	wēng	wēng	wêng
-ㄨㄥˇ	wěng	wěng	wěng	wêng3
-ㄨㄥˋ	wèng	wèng	wèng	wêng4
-ㄩ	yū	yū	yū	yü
-ㄩˊ	yú	yú	yú	yü2
-ㄩˇ	yǔ	yǔ	yǔ	yü3
-ㄩˋ	yù	yù	yù	yü4
-ㄩㄝ	yuē	yuē	ywē	yüeh
-ㄩㄝˇ	yuě	yuě	ywě	yüeh3
-ㄩㄝˋ	yuè	yuè	ywè	yüeh4
-ㄩㄢ	yuān	yuān	ywān	yüan
-ㄩㄢˊ	yuán	yuán	ywán	yüan2
-ㄩㄢˇ	yuǎn	yuǎn	ywǎn	yüan3
-ㄩㄢˋ	yuàn	yuàn	ywàn	yüan4
-ㄩㄣ	yūn	yūn	yūn	yün
-ㄩㄣˊ	yún	yún	yún	yün2
-ㄩㄣˇ	yǔn	yǔn	yǔn	yün3
-ㄩㄣˋ	yùn	yùn	yùn	yün4
-ㄩㄥ	yōng	yūng	yūng	yung
-ㄩㄥˊ	yóng	yúng	yúng	yung2
-ㄩㄥˇ	yǒng	yǔng	yǔng	yung3
-ㄩㄥˋ	yòng	yùng	yùng	yung4
+ㄅㄚ	bā	bā	bā	pa	ba
+ㄅㄚˊ	bá	bá	bá	pa2	bá
+ㄅㄚˇ	bǎ	bǎ	bǎ	pa3	bǎ
+ㄅㄚˋ	bà	bà	bà	pa4	bà
+˙ㄅㄚ	ba	ba	ba	pa5	ba˚
+ㄅㄛ	bō	bō	bwō	po	bo
+ㄅㄛˊ	bó	bó	bwó	po2	bó
+ㄅㄛˇ	bǒ	bǒ	bwǒ	po3	bǒ
+ㄅㄛˋ	bò	bò	bwò	po4	bò
+˙ㄅㄛ	bo	bo	bwo	po5	bo˚
+ㄅㄞ	bāi	bāi	bāi	pai	bai
+ㄅㄞˊ	bái	bái	bái	pai2	bái
+ㄅㄞˇ	bǎi	bǎi	bǎi	pai3	bǎi
+ㄅㄞˋ	bài	bài	bài	pai4	bài
+˙ㄅㄞ	bai	bai	bai	pai5	bai˚
+ㄅㄟ	bēi	bēi	bēi	pei	bei
+ㄅㄟˇ	běi	běi	běi	pei3	běi
+ㄅㄟˋ	bèi	bèi	bèi	pei4	bèi
+˙ㄅㄟ	bei	bei	bei	pei5	bei˚
+ㄅㄠ	bāo	bāu	bāu	pao	bao
+ㄅㄠˊ	báo	báu	báu	pao2	báo
+ㄅㄠˇ	bǎo	bǎu	bǎu	pao3	bǎo
+ㄅㄠˋ	bào	bàu	bàu	pao4	bào
+ㄅㄢ	bān	bān	bān	pan	ban
+ㄅㄢˇ	bǎn	bǎn	bǎn	pan3	bǎn
+ㄅㄢˋ	bàn	bàn	bàn	pan4	bàn
+ㄅㄣ	bēn	bēn	bēn	pên	ben
+ㄅㄣˇ	běn	běn	běn	pên3	běn
+ㄅㄣˋ	bèn	bèn	bèn	pên4	bèn
+ㄅㄤ	bāng	bāng	bāng	pang	bang
+ㄅㄤˇ	bǎng	bǎng	bǎng	pang3	bǎng
+ㄅㄤˋ	bàng	bàng	bàng	pang4	bàng
+ㄅㄥ	bēng	bēng	bēng	pêng	beng
+ㄅㄥˊ	béng	béng	béng	pêng2	béng
+ㄅㄥˇ	běng	běng	běng	pêng3	běng
+ㄅㄥˋ	bèng	bèng	bèng	pêng4	bèng
+ㄅㄧ	bī	bī	bī	pi	bi
+ㄅㄧˊ	bí	bí	bí	pi2	bí
+ㄅㄧˇ	bǐ	bǐ	bǐ	pi3	bǐ
+ㄅㄧˋ	bì	bì	bì	pi4	bì
+ㄅㄧㄝ	biē	biē	byē	pieh	bie
+ㄅㄧㄝˊ	bié	bié	byé	pieh2	bié
+ㄅㄧㄝˇ	biě	biě	byě	pieh3	biě
+ㄅㄧㄝˋ	biè	biè	byè	pieh4	biè
+ㄅㄧㄠ	biāo	biāu	byāu	piao	biao
+ㄅㄧㄠˇ	biǎo	biǎu	byǎu	piao3	biǎo
+ㄅㄧㄠˋ	biào	biàu	byàu	piao4	biào
+ㄅㄧㄢ	biān	biān	byān	pien	bian
+ㄅㄧㄢˊ	bián	bián	byán	pien2	bián
+ㄅㄧㄢˇ	biǎn	biǎn	byǎn	pien3	biǎn
+ㄅㄧㄢˋ	biàn	biàn	byàn	pien4	biàn
+ㄅㄧㄣ	bīn	bīn	bīn	pin	bin
+ㄅㄧㄣˇ	bǐn	bǐn	bǐn	pin3	bǐn
+ㄅㄧㄣˋ	bìn	bìn	bìn	pin4	bìn
+ㄅㄧㄥ	bīng	bīng	bīng	ping	bing
+ㄅㄧㄥˇ	bǐng	bǐng	bǐng	ping3	bǐng
+ㄅㄧㄥˋ	bìng	bìng	bìng	ping4	bìng
+ㄅㄨ	bū	bū	bū	pu	bu
+ㄅㄨˊ	bú	bú	bú	pu2	bú
+ㄅㄨˇ	bǔ	bǔ	bǔ	pu3	bǔ
+ㄅㄨˋ	bù	bù	bù	pu4	bù
+ㄆㄚ	pā	pā	pā	p'a	pa
+ㄆㄚˊ	pá	pá	pá	p'a2	pá
+ㄆㄚˇ	pǎ	pǎ	pǎ	p'a3	pǎ
+ㄆㄚˋ	pà	pà	pà	p'a4	pà
+˙ㄆㄚ	pa	pa	pa	p'a5	pa˚
+ㄆㄛ	pō	pō	pwō	p'o	po
+ㄆㄛˊ	pó	pó	pwó	p'o2	pó
+ㄆㄛˇ	pǒ	pǒ	pwǒ	p'o3	pǒ
+ㄆㄛˋ	pò	pò	pwò	p'o4	pò
+ㄆㄞ	pāi	pāi	pāi	p'ai	pai
+ㄆㄞˊ	pái	pái	pái	p'ai2	pái
+ㄆㄞˇ	pǎi	pǎi	pǎi	p'ai3	pǎi
+ㄆㄞˋ	pài	pài	pài	p'ai4	pài
+ㄆㄟ	pēi	pēi	pēi	p'ei	pei
+ㄆㄟˊ	péi	péi	péi	p'ei2	péi
+ㄆㄟˇ	pěi	pěi	pěi	p'ei3	pěi
+ㄆㄟˋ	pèi	pèi	pèi	p'ei4	pèi
+ㄆㄠ	pāo	pāu	pāu	p'ao	pao
+ㄆㄠˊ	páo	páu	páu	p'ao2	páo
+ㄆㄠˇ	pǎo	pǎu	pǎu	p'ao3	pǎo
+ㄆㄠˋ	pào	pàu	pàu	p'ao4	pào
+ㄆㄡ	pōu	pōu	pōu	p'ou	pou
+ㄆㄡˊ	póu	póu	póu	p'ou2	póu
+ㄆㄡˇ	pǒu	pǒu	pǒu	p'ou3	pǒu
+ㄆㄡˋ	pòu	pòu	pòu	p'ou4	pòu
+ㄆㄢ	pān	pān	pān	p'an	pan
+ㄆㄢˊ	pán	pán	pán	p'an2	pán
+ㄆㄢˇ	pǎn	pǎn	pǎn	p'an3	pǎn
+ㄆㄢˋ	pàn	pàn	pàn	p'an4	pàn
+ㄆㄣ	pēn	pēn	pēn	p'ên	pen
+ㄆㄣˊ	pén	pén	pén	p'ên2	pén
+ㄆㄣˇ	pěn	pěn	pěn	p'ên3	pěn
+ㄆㄣˋ	pèn	pèn	pèn	p'ên4	pèn
+ㄆㄤ	pāng	pāng	pāng	p'ang	pang
+ㄆㄤˊ	páng	páng	páng	p'ang2	páng
+ㄆㄤˇ	pǎng	pǎng	pǎng	p'ang3	pǎng
+ㄆㄤˋ	pàng	pàng	pàng	p'ang4	pàng
+ㄆㄥ	pēng	pēng	pēng	p'êng	peng
+ㄆㄥˊ	péng	péng	péng	p'êng2	péng
+ㄆㄥˇ	pěng	pěng	pěng	p'êng3	pěng
+ㄆㄥˋ	pèng	pèng	pèng	p'êng4	pèng
+ㄆㄧ	pī	pī	pī	p'i	pi
+ㄆㄧˊ	pí	pí	pí	p'i2	pí
+ㄆㄧˇ	pǐ	pǐ	pǐ	p'i3	pǐ
+ㄆㄧˋ	pì	pì	pì	p'i4	pì
+ㄆㄧㄚ	piā	piā	pyā	p'ia	pia
+ㄆㄧㄝ	piē	piē	pyē	p'ieh	pie
+ㄆㄧㄝˇ	piě	piě	pyě	p'ieh3	piě
+ㄆㄧㄝˋ	piè	piè	pyè	p'ieh4	piè
+ㄆㄧㄠ	piāo	piāu	pyāu	p'iao	piao
+ㄆㄧㄠˊ	piáo	piáu	pyáu	p'iao2	piáo
+ㄆㄧㄠˇ	piǎo	piǎu	pyǎu	p'iao3	piǎo
+ㄆㄧㄠˋ	piào	piàu	pyàu	p'iao4	piào
+ㄆㄧㄢ	piān	piān	pyān	p'ien	pian
+ㄆㄧㄢˊ	pián	pián	pyán	p'ien2	pián
+ㄆㄧㄢˇ	piǎn	piǎn	pyǎn	p'ien3	piǎn
+ㄆㄧㄢˋ	piàn	piàn	pyàn	p'ien4	piàn
+ㄆㄧㄣ	pīn	pīn	pīn	p'in	pin
+ㄆㄧㄣˊ	pín	pín	pín	p'in2	pín
+ㄆㄧㄣˇ	pǐn	pǐn	pǐn	p'in3	pǐn
+ㄆㄧㄣˋ	pìn	pìn	pìn	p'in4	pìn
+ㄆㄧㄥ	pīng	pīng	pīng	p'ing	ping
+ㄆㄧㄥˊ	píng	píng	píng	p'ing2	píng
+ㄆㄧㄥˇ	pǐng	pǐng	pǐng	p'ing3	pǐng
+ㄆㄧㄥˋ	pìng	pìng	pìng	p'ing4	pìng
+ㄆㄨ	pū	pū	pū	p'u	pu
+ㄆㄨˊ	pú	pú	pú	p'u2	pú
+ㄆㄨˇ	pǔ	pǔ	pǔ	p'u3	pǔ
+ㄆㄨˋ	pù	pù	pù	p'u4	pù
+ㄇㄚ	mā	mā	mā	ma	ma
+ㄇㄚˊ	má	má	má	ma2	má
+ㄇㄚˇ	mǎ	mǎ	mǎ	ma3	mǎ
+ㄇㄚˋ	mà	mà	mà	ma4	mà
+˙ㄇㄚ	ma	ma	ma	ma5	ma˚
+ㄇㄛ	mō	mō	mwō	mo	mo
+ㄇㄛˊ	mó	mó	mwó	mo2	mó
+ㄇㄛˇ	mǒ	mǒ	mwǒ	mo3	mǒ
+ㄇㄛˋ	mò	mò	mwò	mo4	mò
+˙ㄇㄛ	mo	mo	mwo	mo5	mo˚
+ㄇㄜ	mē	mē	mē	me	me
+ㄇㄜˋ	mè	mè	mè	me4	mè
+˙ㄇㄜ	me	me	me	me5	me˚
+ㄇㄞ	māi	māi	māi	mai	mai
+ㄇㄞˊ	mái	mái	mái	mai2	mái
+ㄇㄞˇ	mǎi	mǎi	mǎi	mai3	mǎi
+ㄇㄞˋ	mài	mài	mài	mai4	mài
+ㄇㄟˊ	méi	méi	méi	mei2	méi
+ㄇㄟˇ	měi	měi	měi	mei3	měi
+ㄇㄟˋ	mèi	mèi	mèi	mei4	mèi
+ㄇㄠ	māo	māu	māu	mao	mao
+ㄇㄠˊ	máo	máu	máu	mao2	máo
+ㄇㄠˇ	mǎo	mǎu	mǎu	mao3	mǎo
+ㄇㄠˋ	mào	màu	màu	mao4	mào
+ㄇㄡˊ	móu	móu	móu	mou2	móu
+ㄇㄡˇ	mǒu	mǒu	mǒu	mou3	mǒu
+ㄇㄡˋ	mòu	mòu	mòu	mou4	mòu
+ㄇㄢ	mān	mān	mān	man	man
+ㄇㄢˊ	mán	mán	mán	man2	mán
+ㄇㄢˇ	mǎn	mǎn	mǎn	man3	mǎn
+ㄇㄢˋ	màn	màn	màn	man4	màn
+ㄇㄣ	mēn	mēn	mēn	mên	men
+ㄇㄣˊ	mén	mén	mén	mên2	mén
+ㄇㄣˇ	měn	měn	měn	mên3	měn
+ㄇㄣˋ	mèn	mèn	mèn	mên4	mèn
+˙ㄇㄣ	men	men	men	mên5	men˚
+ㄇㄤ	māng	māng	māng	mang	mang
+ㄇㄤˊ	máng	máng	máng	mang2	máng
+ㄇㄤˇ	mǎng	mǎng	mǎng	mang3	mǎng
+ㄇㄤˋ	màng	màng	màng	mang4	màng
+ㄇㄥ	mēng	mēng	mēng	mêng	meng
+ㄇㄥˊ	méng	méng	méng	mêng2	méng
+ㄇㄥˇ	měng	měng	měng	mêng3	měng
+ㄇㄥˋ	mèng	mèng	mèng	mêng4	mèng
+ㄇㄧ	mī	mī	mī	mi	mi
+ㄇㄧˊ	mí	mí	mí	mi2	mí
+ㄇㄧˇ	mǐ	mǐ	mǐ	mi3	mǐ
+ㄇㄧˋ	mì	mì	mì	mi4	mì
+ㄇㄧㄝ	miē	miē	myē	mieh	mie
+ㄇㄧㄝˊ	mié	mié	myé	mieh2	mié
+ㄇㄧㄝˋ	miè	miè	myè	mieh4	miè
+ㄇㄧㄠ	miāo	miāu	myāu	miao	miao
+ㄇㄧㄠˊ	miáo	miáu	myáu	miao2	miáo
+ㄇㄧㄠˇ	miǎo	miǎu	myǎu	miao3	miǎo
+ㄇㄧㄠˋ	miào	miàu	myàu	miao4	miào
+ㄇㄧㄡˊ	miú	mióu	myóu	miu2	mióu
+ㄇㄧㄡˇ	miǔ	miǒu	myǒu	miu3	miǒu
+ㄇㄧㄡˋ	miù	miòu	myòu	miu4	miòu
+ㄇㄧㄢ	miān	miān	myān	mien	mian
+ㄇㄧㄢˊ	mián	mián	myán	mien2	mián
+ㄇㄧㄢˇ	miǎn	miǎn	myǎn	mien3	miǎn
+ㄇㄧㄢˋ	miàn	miàn	myàn	mien4	miàn
+ㄇㄧㄣ	mīn	mīn	mīn	min	min
+ㄇㄧㄣˊ	mín	mín	mín	min2	mín
+ㄇㄧㄣˇ	mǐn	mǐn	mǐn	min3	mǐn
+ㄇㄧㄥˊ	míng	míng	míng	ming2	míng
+ㄇㄧㄥˇ	mǐng	mǐng	mǐng	ming3	mǐng
+ㄇㄧㄥˋ	mìng	mìng	mìng	ming4	mìng
+ㄇㄨˊ	mú	mú	mú	mu2	mú
+ㄇㄨˇ	mǔ	mǔ	mǔ	mu3	mǔ
+ㄇㄨˋ	mù	mù	mù	mu4	mù
+ㄈㄚ	fā	fā	fā	fa	fa
+ㄈㄚˊ	fá	fá	fá	fa2	fá
+ㄈㄚˇ	fǎ	fǎ	fǎ	fa3	fǎ
+ㄈㄚˋ	fà	fà	fà	fa4	fà
+ㄈㄛˊ	fó	fó	fwó	fo2	fó
+ㄈㄟ	fēi	fēi	fēi	fei	fei
+ㄈㄟˊ	féi	féi	féi	fei2	féi
+ㄈㄟˇ	fěi	fěi	fěi	fei3	fěi
+ㄈㄟˋ	fèi	fèi	fèi	fei4	fèi
+ㄈㄡ	fōu	fōu	fōu	fou	fou
+ㄈㄡˊ	fóu	fóu	fóu	fou2	fóu
+ㄈㄡˇ	fǒu	fǒu	fǒu	fou3	fǒu
+ㄈㄡˋ	fòu	fòu	fòu	fou4	fòu
+ㄈㄢ	fān	fān	fān	fan	fan
+ㄈㄢˊ	fán	fán	fán	fan2	fán
+ㄈㄢˇ	fǎn	fǎn	fǎn	fan3	fǎn
+ㄈㄢˋ	fàn	fàn	fàn	fan4	fàn
+ㄈㄣ	fēn	fēn	fēn	fên	fen
+ㄈㄣˊ	fén	fén	fén	fên2	fén
+ㄈㄣˇ	fěn	fěn	fěn	fên3	fěn
+ㄈㄣˋ	fèn	fèn	fèn	fên4	fèn
+˙ㄈㄣ	fen	fen	fen	fen5	fen
+ㄈㄤ	fāng	fāng	fāng	fang	fang
+ㄈㄤˊ	fáng	fáng	fáng	fang2	fáng
+ㄈㄤˇ	fǎng	fǎng	fǎng	fang3	fǎng
+ㄈㄤˋ	fàng	fàng	fàng	fang4	fàng
+ㄈㄥ	fēng	fēng	fēng	fêng	fong
+ㄈㄥˊ	féng	féng	féng	fêng2	fóng
+ㄈㄥˇ	fěng	fěng	fěng	fêng3	fǒng
+ㄈㄥˋ	fèng	fèng	fèng	feng4	fòng
+ㄈㄧㄠˋ	fiào	fiàu	fyàu	fiao4	fiào
+ㄈㄨ	fū	fū	fū	fu	fu
+ㄈㄨˊ	fú	fú	fú	fu2	fú
+ㄈㄨˇ	fǔ	fǔ	fǔ	fu3	fǔ
+ㄈㄨˋ	fù	fù	fù	fu4	fù
+ㄉㄚ	dā	dā	dā	ta	da
+ㄉㄚˊ	dá	dá	dá	ta2	dá
+ㄉㄚˇ	dǎ	dǎ	dǎ	ta3	dǎ
+ㄉㄚˋ	dà	dà	dà	ta4	dà
+˙ㄉㄚ	da	da	da	ta5	da˚
+ㄉㄜ	dē	dē	dē	tê	de
+ㄉㄜˊ	dé	dé	dé	tê2	dé
+˙ㄉㄜ	de	de	de	tê5	de˚
+ㄉㄞ	dāi	dāi	dāi	tai	dai
+ㄉㄞˇ	dǎi	dǎi	dǎi	tai3	dǎi
+ㄉㄞˋ	dài	dài	dài	tai4	dài
+ㄉㄟˇ	děi	děi	děi	tei3	děi
+ㄉㄠ	dāo	dāu	dāu	tao	dao
+ㄉㄠˊ	dáo	dáu	dáu	tao2	dáo
+ㄉㄠˇ	dǎo	dǎu	dǎu	tao3	dǎo
+ㄉㄠˋ	dào	dàu	dàu	tao4	dào
+ㄉㄡ	dōu	dōu	dōu	tou	dou
+ㄉㄡˊ	dóu	dóu	dóu	tou2	dóu
+ㄉㄡˇ	dǒu	dǒu	dǒu	tou3	dǒu
+ㄉㄡˋ	dòu	dòu	dòu	tou4	dòu
+ㄉㄢ	dān	dān	dān	tan	dan
+ㄉㄢˇ	dǎn	dǎn	dǎn	tan3	dǎn
+ㄉㄢˋ	dàn	dàn	dàn	tan4	dàn
+ㄉㄣˋ	dèn	dèn	dèn	tên4	dèn
+ㄉㄤ	dāng	dāng	dāng	tang	dang
+ㄉㄤˇ	dǎng	dǎng	dǎng	tang3	dǎng
+ㄉㄤˋ	dàng	dàng	dàng	tang4	dàng
+ㄉㄥ	dēng	dēng	dēng	têng	dēng
+ㄉㄥˇ	děng	děng	děng	têng3	děng
+ㄉㄥˋ	dèng	dèng	dèng	têng4	dèng
+ㄉㄧ	dī	dī	dī	ti	di
+ㄉㄧˊ	dí	dí	dí	ti2	dí
+ㄉㄧˇ	dǐ	dǐ	dǐ	ti3	dǐ
+ㄉㄧˋ	dì	dì	dì	ti4	dì
+ㄉㄧㄚˇ	diǎ	diǎ	dyǎ	tia3	diǎ
+ㄉㄧㄝ	diē	diē	dyē	tieh	die
+ㄉㄧㄝˊ	dié	dié	dyé	tieh2	dié
+ㄉㄧㄝˇ	diě	diě	dyě	tieh3	diě
+ㄉㄧㄝˋ	diè	diè	dyè	tieh4	diè
+ㄉㄧㄠ	diāo	diāu	dyāu	tiao	diao
+ㄉㄧㄠˇ	diǎo	diǎu	dyǎu	tiao3	diǎo
+ㄉㄧㄠˋ	diào	diàu	dyàu	tiao4	diào
+ㄉㄧㄡ	diū	diōu	dyōu	tiu	diōu
+ㄉㄧㄢ	diān	diān	dyān	tien	dian
+ㄉㄧㄢˊ	dián	dián	dyán	tien2	dián
+ㄉㄧㄢˇ	diǎn	diǎn	dyǎn	tien3	diǎn
+ㄉㄧㄢˋ	diàn	diàn	dyàn	tien4	diàn
+ㄉㄧㄥ	dīng	dīng	dīng	ting	ding
+ㄉㄧㄥˊ	díng	díng	díng	ting2	díng
+ㄉㄧㄥˇ	dǐng	dǐng	dǐng	ting3	dǐng
+ㄉㄧㄥˋ	dìng	dìng	dìng	ting4	dìng
+ㄉㄨ	dū	dū	dū	tu	du
+ㄉㄨˊ	dú	dú	dú	tu2	dú
+ㄉㄨˇ	dǔ	dǔ	dǔ	tu3	dǔ
+ㄉㄨˋ	dù	dù	dù	tu4	dù
+ㄉㄨㄛ	duō	duō	dwō	to	duo
+ㄉㄨㄛˊ	duó	duó	dwó	to2	duó
+ㄉㄨㄛˇ	duǒ	duǒ	dwǒ	to3	duǒ
+ㄉㄨㄛˋ	duò	duò	dwò	to4	duò
+˙ㄉㄨㄛ	duo	duo	dwo	to5	duo˚
+ㄉㄨㄟ	duī	duēi	dwēi	tui	duei
+ㄉㄨㄟˇ	duǐ	duěi	dwěi	tui3	duěi
+ㄉㄨㄟˋ	duì	duèi	dwèi	tui4	duèi
+ㄉㄨㄢ	duān	duān	dwān	tuan	duan
+ㄉㄨㄢˇ	duǎn	duǎn	dwǎn	tuan3	duǎn
+ㄉㄨㄢˋ	duàn	duàn	dwàn	tuan4	duàn
+ㄉㄨㄣ	dūn	duēn	dwūn	tun	dun
+ㄉㄨㄣˇ	dǔn	duěn	dwǔn	tun3	dǔn
+ㄉㄨㄣˋ	dùn	duèn	dwùn	tun4	dùn
+ㄉㄨㄥ	dōng	dūng	dūng	tung	dong
+ㄉㄨㄥˇ	dǒng	dǔng	dǔng	tung3	dǒng
+ㄉㄨㄥˋ	dòng	dùng	dùng	tung4	dòng
+ㄊㄚ	tā	tā	tā	t'a	ta
+ㄊㄚˇ	tǎ	tǎ	tǎ	t'a3	tǎ
+ㄊㄚˋ	tà	tà	tà	t'a4	tà
+ㄊㄜˋ	tè	tè	tè	t'ê4	tè
+ㄊㄞ	tāi	tāi	tāi	t'ai	tai
+ㄊㄞˊ	tái	tái	tái	t'ai2	tái
+ㄊㄞˇ	tǎi	tǎi	tǎi	t'ai3	tǎi
+ㄊㄞˋ	tài	tài	tài	t'ai4	tài
+˙ㄊㄞ	tai	tai	tai	t'ai5	tai˚
+ㄊㄠ	tāo	tāu	tāu	t'ao	tao
+ㄊㄠˊ	táo	táu	táu	t'ao2	táo
+ㄊㄠˇ	tǎo	tǎu	tǎu	t'ao3	tǎo
+ㄊㄠˋ	tào	tàu	tàu	t'ao4	tào
+˙ㄊㄠ	tao	tau	tau	t'ao5	tao˚
+ㄊㄡ	tōu	tōu	tōu	t'ou	tou
+ㄊㄡˊ	tóu	tóu	tóu	t'ou2	tóu
+ㄊㄡˇ	tǒu	tǒu	tǒu	t'ou3	tǒu
+ㄊㄡˋ	tòu	tòu	tòu	t'ou4	tòu
+˙ㄊㄡ	tou	tou	tou	t'ou5	tou˚
+ㄊㄢ	tān	tān	tān	t'an	tan
+ㄊㄢˊ	tán	tán	tán	t'an2	tán
+ㄊㄢˇ	tǎn	tǎn	tǎn	t'an3	tǎn
+ㄊㄢˋ	tàn	tàn	tàn	t'an4	tàn
+ㄊㄤ	tāng	tāng	tāng	t'ang	tang
+ㄊㄤˊ	táng	táng	táng	t'ang2	táng
+ㄊㄤˇ	tǎng	tǎng	tǎng	t'ang3	tǎng
+ㄊㄤˋ	tàng	tàng	tàng	t'ang4	tàng
+ㄊㄥ	tēng	tēng	tēng	t'êng	teng
+ㄊㄥˊ	téng	téng	téng	t'êng2	téng
+ㄊㄥˋ	tèng	tèng	tèng	t'êng4	tèng
+ㄊㄧ	tī	tī	tī	t'i	ti
+ㄊㄧˊ	tí	tí	tí	t'i2	tí
+ㄊㄧˇ	tǐ	tǐ	tǐ	t'i3	tǐ
+ㄊㄧˋ	tì	tì	tì	t'i4	tì
+ㄊㄧㄝ	tiē	tiē	tyē	t'ieh	tie
+ㄊㄧㄝˊ	tié	tié	tyé	t'ieh2	tié
+ㄊㄧㄝˇ	tiě	tiě	tyě	t'ieh3	tiě
+ㄊㄧㄝˋ	tiè	tiè	tyè	t'ieh4	tiè
+ㄊㄧㄠ	tiāo	tiāu	tyāu	t'iao	tiao
+ㄊㄧㄠˊ	tiáo	tiáu	tyáu	t'iao2	tiáo
+ㄊㄧㄠˇ	tiǎo	tiǎu	tyǎu	t'iao3	tiǎo
+ㄊㄧㄠˋ	tiào	tiàu	tyàu	t'iao4	tiào
+ㄊㄧㄢ	tiān	tiān	tyān	t'ien	tian
+ㄊㄧㄢˊ	tián	tián	tyán	t'ien2	tián
+ㄊㄧㄢˇ	tiǎn	tiǎn	tyǎn	t'ien3	tiǎn
+ㄊㄧㄢˋ	tiàn	tiàn	tyàn	t'ien4	tiàn
+ㄊㄧㄥ	tīng	tīng	tīng	t'ing	ting
+ㄊㄧㄥˊ	tíng	tíng	tíng	t'ing2	tíng
+ㄊㄧㄥˇ	tǐng	tǐng	tǐng	t'ing3	tǐng
+ㄊㄧㄥˋ	tìng	tìng	tìng	t'ing4	tìng
+ㄊㄨ	tū	tū	tū	t'u	tu
+ㄊㄨˊ	tú	tú	tú	t'u2	tú
+ㄊㄨˇ	tǔ	tǔ	tǔ	t'u3	tǔ
+ㄊㄨˋ	tù	tù	tù	t'u4	tù
+ㄊㄨㄛ	tuō	tuō	twō	t'o	tuo
+ㄊㄨㄛˊ	tuó	tuó	twó	t'o2	tuó
+ㄊㄨㄛˇ	tuǒ	tuǒ	twǒ	t'o3	tuǒ
+ㄊㄨㄛˋ	tuò	tuò	twò	t'o4	tuò
+ㄊㄨㄟ	tuī	tuēi	twēi	t'ui	tuei
+ㄊㄨㄟˊ	tuí	tuéi	twéi	t'ui2	tuéi
+ㄊㄨㄟˇ	tuǐ	tuěi	twěi	t'ui3	tuěi
+ㄊㄨㄟˋ	tuì	tuèi	twèi	t'ui4	tuèi
+ㄊㄨㄢ	tuān	tuān	twān	t'uan	tuan
+ㄊㄨㄢˊ	tuán	tuán	twán	t'uan2	tuán
+ㄊㄨㄢˇ	tuǎn	tuǎn	twǎn	t'uan3	tuǎn
+ㄊㄨㄢˋ	tuàn	tuàn	twàn	t'uan4	tuàn
+ㄊㄨㄣ	tūn	tuēn	twūn	t'un	tun
+ㄊㄨㄣˊ	tún	tuén	twún	t'un2	tún
+ㄊㄨㄣˇ	tǔn	tuěn	twǔn	t'un3	tǔn
+ㄊㄨㄣˋ	tùn	tuèn	twùn	t'un4	tùn
+ㄊㄨㄥ	tōng	tūng	tūng	t'ung	tōng
+ㄊㄨㄥˊ	tóng	túng	túng	t'ung2	tóng
+ㄊㄨㄥˇ	tǒng	tǔng	tǔng	t'ung3	tǒng
+ㄊㄨㄥˋ	tòng	tùng	tùng	t'ung4	tòng
+ㄋㄚ	nā	nā	nā	na	na
+ㄋㄚˊ	ná	ná	ná	na2	ná
+ㄋㄚˇ	nǎ	nǎ	nǎ	na3	nǎ
+ㄋㄚˋ	nà	nà	nà	na4	nà
+˙ㄋㄚ	na	na	na	na5	na˚
+ㄋㄜˋ	nè	nè	nè	nê4	nè
+˙ㄋㄜ	ne	ne	ne	nê5	ne˚
+ㄋㄞˊ	nái	nái	nái	nai2	nái
+ㄋㄞˇ	nǎi	nǎi	nǎi	nai3	nǎi
+ㄋㄞˋ	nài	nài	nài	nai4	nài
+ㄋㄟˊ	néi	néi	néi	nei2	néi
+ㄋㄟˇ	něi	něi	něi	nei3	něi
+ㄋㄟˋ	nèi	nèi	nèi	nei4	nèi
+ㄋㄠ	nāo	nāu	nāu	nao	nao
+ㄋㄠˊ	náo	náu	náu	nao2	náo
+ㄋㄠˇ	nǎo	nǎu	nǎu	nao3	nǎo
+ㄋㄠˋ	nào	nàu	nàu	nao4	nào
+ㄋㄡˊ	nóu	nóu	nóu	nou2	nóu
+ㄋㄡˇ	nǒu	nǒu	nǒu	nou3	nǒu
+ㄋㄡˋ	nòu	nòu	nòu	nou4	nòu
+ㄋㄢ	nān	nān	nān	nan	nan
+ㄋㄢˊ	nán	nán	nán	nan2	nán
+ㄋㄢˇ	nǎn	nǎn	nǎn	nan3	nǎn
+ㄋㄢˋ	nàn	nàn	nàn	nan4	nàn
+ㄋㄣˇ	něn	něn	něn	nên3	něn
+ㄋㄣˋ	nèn	nèn	nèn	nên4	nèn
+ㄋㄤ	nāng	nāng	nāng	nang	nang
+ㄋㄤˊ	náng	náng	náng	nang2	náng
+ㄋㄤˇ	nǎng	nǎng	nǎng	nang3	nǎng
+ㄋㄤˋ	nàng	nàng	nàng	nang4	nàng
+˙ㄋㄤ	nang	nang	nang	nang5	nang˚
+ㄋㄥˊ	néng	néng	néng	nêng2	néng
+ㄋㄥˇ	něng	něng	něng	nêng3	něng
+ㄋㄧ	nī	nī	nī	ni	ni
+ㄋㄧˊ	ní	ní	ní	ni2	ní
+ㄋㄧˇ	nǐ	nǐ	nǐ	ni3	nǐ
+ㄋㄧˋ	nì	nì	nì	ni4	nì
+ㄋㄧㄝ	niē	niē	nyē	nieh	nie
+ㄋㄧㄝˊ	nié	nié	nyé	nieh2	nié
+ㄋㄧㄝˋ	niè	niè	nyè	nieh4	niè
+ㄋㄧㄠˇ	niǎo	niǎu	nyǎu	niao3	niǎo
+ㄋㄧㄠˋ	niào	niàu	nyàu	niao4	niào
+ㄋㄧㄡ	niū	niōu	nyōu	niu	niōu
+ㄋㄧㄡˊ	niú	nióu	nyóu	niu2	nióu
+ㄋㄧㄡˇ	niǔ	niǒu	nyǒu	niu3	niǒu
+ㄋㄧㄡˋ	niù	niòu	nyòu	niu4	niòu
+ㄋㄧㄢ	niān	niān	nyān	nien	nian
+ㄋㄧㄢˊ	nián	nián	nyán	nien2	nián
+ㄋㄧㄢˇ	niǎn	niǎn	nyǎn	nien3	niǎn
+ㄋㄧㄢˋ	niàn	niàn	nyàn	nien4	niàn
+ㄋㄧㄣ	nīn	nīn	nīn	nin	nin
+ㄋㄧㄣˊ	nín	nín	nín	nin2	nín
+ㄋㄧㄣˇ	nǐn	nǐn	nǐn	nin3	nǐn
+ㄋㄧㄣˋ	nìn	nìn	nìn	nin4	nìn
+ㄋㄧㄤˊ	niáng	niáng	nyáng	niang2	niáng
+ㄋㄧㄤˇ	niǎng	niǎng	nyǎng	niang3	niǎng
+ㄋㄧㄤˋ	niàng	niàng	nyàng	niang4	niàng
+ㄋㄧㄥˊ	níng	níng	níng	ning2	níng
+ㄋㄧㄥˇ	nǐng	nǐng	nǐng	ning3	nǐng
+ㄋㄧㄥˋ	nìng	nìng	nìng	ning4	nìng
+ㄋㄨˊ	nú	nú	nú	nu2	nú
+ㄋㄨˇ	nǔ	nǔ	nǔ	nu3	nǔ
+ㄋㄨˋ	nù	nù	nù	nu4	nù
+ㄋㄨㄛˊ	nuó	nuó	nwó	no2	nuó
+ㄋㄨㄛˇ	nuǒ	nuǒ	nwǒ	no3	nuǒ
+ㄋㄨㄛˋ	nuò	nuò	nwò	no4	nuò
+ㄋㄨㄟˊ	nuí	nuéi	nwéi	nui2	nuéi
+ㄋㄨㄢˊ	nuán	nuán	nwán	nuan2	nuán
+ㄋㄨㄢˇ	nuǎn	nuǎn	nwǎn	nuan3	nuǎn
+ㄋㄨㄢˋ	nuàn	nuàn	nwàn	nuan4	nuàn
+ㄋㄨㄣˊ	nún	nuén	nwún	nun2	nún
+ㄋㄨㄥˊ	nóng	núng	núng	nung2	nóng
+ㄋㄨㄥˇ	nǒng	nǔng	nǔng	nung3	nǒng
+ㄋㄨㄥˋ	nòng	nùng	nùng	nung4	nòng
+ㄋㄩˊ	nǘ	niú	nyú	nü2	nyú
+ㄋㄩˇ	nǚ	niǔ	nyǔ	nü3	nyǔ
+ㄋㄩˋ	nǜ	niù	nyù	nü4	nyù
+ㄋㄩㄝˋ	nüè	niùe	nywè	nüeh4	nyuè
+ㄌㄚ	lā	lā	lā	la	la
+ㄌㄚˊ	lá	lá	lá	la2	lá
+ㄌㄚˇ	lǎ	lǎ	lǎ	la3	lǎ
+ㄌㄚˋ	là	là	là	la4	là
+˙ㄌㄚ	la	la	la	la5	la˚
+ㄌㄛ	lō	lō	lō	lo	lo
+˙ㄌㄛ	lo	lo	lo	lo5	lo˚
+ㄌㄜ	lē	lē	lē	lê	le
+ㄌㄜˊ	lé	lé	lé	lê2	lé
+ㄌㄜˋ	lè	lè	lè	lê4	lè
+˙ㄌㄜ	le	le	le	le5	le˚
+ㄌㄞˊ	lái	lái	lái	lai2	lái
+ㄌㄞˇ	lǎi	lǎi	lǎi	lai3	lǎi
+ㄌㄞˋ	lài	lài	lài	lai4	lài
+ㄌㄟ	lēi	lēi	lēi	lei	lei
+ㄌㄟˊ	léi	léi	léi	lei2	léi
+ㄌㄟˇ	lěi	lěi	lěi	lei3	lěi
+ㄌㄟˋ	lèi	lèi	lèi	lei4	lèi
+˙ㄌㄟ	lei	lei	lei	lei5	lei˚
+ㄌㄠ	lāo	lāu	lāu	lao	lao
+ㄌㄠˊ	láo	láu	láu	lao2	láo
+ㄌㄠˇ	lǎo	lǎu	lǎu	lao3	lǎo
+ㄌㄠˋ	lào	làu	làu	lao4	lào
+ㄌㄡ	lōu	lōu	lōu	lou	lou
+ㄌㄡˊ	lóu	lóu	lóu	lou2	lóu
+ㄌㄡˇ	lǒu	lǒu	lǒu	lou3	lǒu
+ㄌㄡˋ	lòu	lòu	lòu	lou4	lòu
+˙ㄌㄡ	lou	lou	lou	lou5	lou˚
+ㄌㄢˊ	lán	lán	lán	lan2	lán
+ㄌㄢˇ	lǎn	lǎn	lǎn	lan3	lǎn
+ㄌㄢˋ	làn	làn	làn	lan4	làn
+ㄌㄤ	lāng	lāng	lāng	lang	lang
+ㄌㄤˊ	láng	láng	láng	lang2	láng
+ㄌㄤˇ	lǎng	lǎng	lǎng	lang3	lǎng
+ㄌㄤˋ	làng	làng	làng	lang4	làng
+ㄌㄥ	lēng	lēng	lēng	lêng	leng
+ㄌㄥˊ	léng	léng	léng	lêng2	léng
+ㄌㄥˇ	lěng	lěng	lěng	lêng3	lěng
+ㄌㄥˋ	lèng	lèng	lèng	lêng4	lèng
+ㄌㄧ	lī	lī	lī	li	li
+ㄌㄧˊ	lí	lí	lí	li2	lí
+ㄌㄧˇ	lǐ	lǐ	lǐ	li3	lǐ
+ㄌㄧˋ	lì	lì	lì	li4	lì
+˙ㄌㄧ	li	li	li	li5	li˚
+ㄌㄧㄚˇ	liǎ	liǎ	lyǎ	lia3	liǎ
+ㄌㄧㄝ	liē	liē	lyē	lieh	lie
+ㄌㄧㄝˊ	lié	lié	lyé	lieh2	lié
+ㄌㄧㄝˇ	liě	liě	lyě	lieh3	liě
+ㄌㄧㄝˋ	liè	liè	lyè	lieh4	liè
+ㄌㄧㄠ	liāo	liāu	lyāu	liao	liao
+ㄌㄧㄠˊ	liáo	liáu	lyáu	liao2	liáo
+ㄌㄧㄠˇ	liǎo	liǎu	lyǎu	liao3	liǎo
+ㄌㄧㄠˋ	liào	liàu	lyàu	liao4	liào
+ㄌㄧㄡ	liū	liōu	lyōu	liu	liou
+ㄌㄧㄡˊ	liú	lióu	lyóu	liu2	lIóu
+ㄌㄧㄡˇ	liǔ	liǒu	lyǒu	liu3	lIǒu
+ㄌㄧㄡˋ	liù	liòu	lyòu	liu4	lIòu
+ㄌㄧㄢ	liān	liān	lyān	lien	lian
+ㄌㄧㄢˊ	lián	lián	lyán	lien2	lián
+ㄌㄧㄢˇ	liǎn	liǎn	lyǎn	lien3	liǎn
+ㄌㄧㄢˋ	liàn	liàn	lyàn	lien4	liàn
+ㄌㄧㄣˊ	lín	lín	lín	lin2	lín
+ㄌㄧㄣˇ	lǐn	lǐn	lǐn	lin3	lǐn
+ㄌㄧㄣˋ	lìn	lìn	lìn	lin4	lìn
+ㄌㄧㄤˊ	liáng	liáng	lyáng	liang2	liáng
+ㄌㄧㄤˇ	liǎng	liǎng	lyǎng	liang3	liǎng
+ㄌㄧㄤˋ	liàng	liàng	lyàng	liang4	liàng
+ㄌㄧㄥ	līng	līng	līng	ling	ling
+ㄌㄧㄥˊ	líng	líng	líng	ling2	líng
+ㄌㄧㄥˇ	lǐng	lǐng	lǐng	ling3	lǐng
+ㄌㄧㄥˋ	lìng	lìng	lìng	ling4	lìng
+ㄌㄨ	lū	lū	lū	lu	lu
+ㄌㄨˊ	lú	lú	lú	lu2	lú
+ㄌㄨˇ	lǔ	lǔ	lǔ	lu3	lǔ
+ㄌㄨˋ	lù	lù	lù	lu4	lù
+ㄌㄨㄛ	luō	luō	lwō	lo	luo
+ㄌㄨㄛˊ	luó	luó	lwó	lo2	luó
+ㄌㄨㄛˇ	luǒ	luǒ	lwǒ	lo3	luǒ
+ㄌㄨㄛˋ	luò	luò	lwò	lo4	luò
+˙ㄌㄨㄛ	luo	luo	lwo	lo5	luo˚
+ㄌㄨㄢˊ	luán	luán	lwán	luan2	luán
+ㄌㄨㄢˇ	luǎn	luǎn	lwǎn	luan3	luǎn
+ㄌㄨㄢˋ	luàn	luàn	lwàn	luan4	luàn
+ㄌㄨㄣ	lūn	luēn	lwūn	lun	lun
+ㄌㄨㄣˊ	lún	luén	lwún	lun2	lún
+ㄌㄨㄣˇ	lǔn	luěn	lwǔn	lun3	lǔn
+ㄌㄨㄣˋ	lùn	luèn	lwùn	lun4	lùn
+ㄌㄨㄥ	lōng	lūng	lūng	lung	long
+ㄌㄨㄥˊ	lóng	lúng	lúng	lung2	lóng
+ㄌㄨㄥˇ	lǒng	lǔng	lǔng	lung3	lǒng
+ㄌㄨㄥˋ	lòng	lùng	lùng	lung4	lòng
+ㄌㄩ	lǖ	liū	lyū	lü	lyū
+ㄌㄩˊ	lǘ	liú	lyú	lü2	lyú
+ㄌㄩˇ	lǚ	liǔ	lyǔ	lü3	lyǔ
+ㄌㄩˋ	lǜ	liù	lyù	lü4	lyù
+ㄌㄩㄝ	lüē	liuē	lywē	lüeh	lyuē
+ㄌㄩㄝˇ	lüě	liuě	lywě	lüeh3	lyuě
+ㄌㄩㄝˋ	lüè	liuè	lywè	lüeh4	lyuè
+ㄌㄩㄢˊ	lüán	liuán	lywán	lüan2	lyüán
+ㄌㄩㄢˇ	lüǎn	liuǎn	lywǎn	lüan3	lyüǎn
+ㄍㄚ	gā	gā	gā	ka	ga
+ㄍㄚˊ	gá	gá	gá	ka2	gá
+ㄍㄚˇ	gǎ	gǎ	gǎ	ka3	gǎ
+ㄍㄚˋ	gà	gà	gà	ka4	gà
+˙ㄍㄚ	ga	ga	ga	ka5	ga˚
+ㄍㄜ	gē	gē	gē	kê	ge
+ㄍㄜˊ	gé	gé	gé	kê2	gé
+ㄍㄜˇ	gě	gě	gě	kê3	gě
+ㄍㄜˋ	gè	gè	gè	kê4	gè
+˙ㄍㄜ	ge	ge	ge	kê5	ge˚
+ㄍㄞ	gāi	gāi	gāi	kai	gai
+ㄍㄞˇ	gǎi	gǎi	gǎi	kai3	gǎi
+ㄍㄞˋ	gài	gài	gài	kai4	gài
+ㄍㄟˇ	gěi	gěi	gěi	kei3	gěi
+ㄍㄠ	gāo	gāu	gāu	kao	gao
+ㄍㄠˇ	gǎo	gǎu	gǎu	kao3	gǎo
+ㄍㄠˋ	gào	gàu	gàu	kao4	gào
+ㄍㄡ	gōu	gōu	gōu	kou	gou
+ㄍㄡˇ	gǒu	gǒu	gǒu	kou3	gǒu
+ㄍㄡˋ	gòu	gòu	gòu	kou4	gòu
+ㄍㄢ	gān	gān	gān	kan	gan
+ㄍㄢˇ	gǎn	gǎn	gǎn	kan3	gǎn
+ㄍㄢˋ	gàn	gàn	gàn	kan4	gàn
+ㄍㄣ	gēn	gēn	gēn	kên	gēn
+ㄍㄣˊ	gén	gén	gén	kên2	gén
+ㄍㄣˇ	gěn	gěn	gěn	kên3	gěn
+ㄍㄣˋ	gèn	gèn	gèn	kên4	gèn
+ㄍㄤ	gāng	gāng	gāng	kang	gang
+ㄍㄤˇ	gǎng	gǎng	gǎng	kang3	gǎng
+ㄍㄤˋ	gàng	gàng	gàng	kang4	gàng
+ㄍㄥ	gēng	gēng	gēng	kêng	geng
+ㄍㄥˇ	gěng	gěng	gěng	kêng3	gěng
+ㄍㄥˋ	gèng	gèng	gèng	keng4	gèng
+ㄍㄨ	gū	gū	gū	ku	gu
+ㄍㄨˊ	gú	gú	gú	ku2	gú
+ㄍㄨˇ	gǔ	gǔ	gǔ	ku3	gǔ
+ㄍㄨˋ	gù	gù	gù	ku4	gù
+ㄍㄨㄚ	guā	guā	gwā	kua	gua
+ㄍㄨㄚˊ	guá	guá	gwá	kua2	guá
+ㄍㄨㄚˇ	guǎ	guǎ	gwǎ	kua3	guǎ
+ㄍㄨㄚˋ	guà	guà	gwà	kua4	guà
+ㄍㄨㄛ	guō	guō	gwō	kuo	guo
+ㄍㄨㄛˊ	guó	guó	gwó	kuo2	guó
+ㄍㄨㄛˇ	guǒ	guǒ	gwǒ	kuo3	guǒ
+ㄍㄨㄛˋ	guò	guò	gwò	kuo4	guò
+ㄍㄨㄜˊ	gué	gué	gué	kuê2	gué
+ㄍㄨㄞ	guāi	guāi	gwāi	kuai	guai
+ㄍㄨㄞˇ	guǎi	guǎi	gwǎi	kuai3	guǎi
+ㄍㄨㄞˋ	guài	guài	gwài	kuai4	guài
+ㄍㄨㄟ	guī	guēi	gwēi	kuei	guei
+ㄍㄨㄟˇ	guǐ	guěi	gwěi	kuei3	guěi
+ㄍㄨㄟˋ	guì	guèi	gwèi	kuei4	guèi
+ㄍㄨㄢ	guān	guān	gwān	kuan	guan
+ㄍㄨㄢˇ	guǎn	guǎn	gwǎn	kuan3	guǎn
+ㄍㄨㄢˋ	guàn	guàn	gwàn	kuan4	guàn
+ㄍㄨㄣ	gūn	guēn	gwūn	kun	gun
+ㄍㄨㄣˇ	gǔn	guěn	gwǔn	kun3	gǔn
+ㄍㄨㄣˋ	gùn	guèn	gwùn	kun4	gùn
+ㄍㄨㄤ	guāng	guāng	gwāng	kuang	guang
+ㄍㄨㄤˇ	guǎng	guǎng	gwǎng	kuang3	guǎng
+ㄍㄨㄤˋ	guàng	guàng	gwàng	kuang4	guàng
+ㄍㄨㄥ	gōng	gūng	gūng	kung	gong
+ㄍㄨㄥˊ	góng	gúng	gúng	kung2	góng
+ㄍㄨㄥˇ	gǒng	gǔng	gǔng	kung3	gǒng
+ㄍㄨㄥˋ	gòng	gùng	gùng	kung4	gòng
+ㄎㄚ	kā	kā	kā	k'a	ka
+ㄎㄚˇ	kǎ	kǎ	kǎ	k'a3	kǎ
+ㄎㄚˋ	kà	kà	kà	k'a4	kà
+ㄎㄜ	kē	kē	kē	k'ê	ke
+ㄎㄜˊ	ké	ké	ké	k'ê2	ké
+ㄎㄜˇ	kě	kě	kě	k'ê3	kě
+ㄎㄜˋ	kè	kè	kè	k'ê4	kè
+ㄎㄞ	kāi	kāi	kāi	k'ai	kai
+ㄎㄞˇ	kǎi	kǎi	kǎi	k'ai3	kǎi
+ㄎㄞˋ	kài	kài	kài	k'ai4	kài
+ㄎㄠ	kāo	kāu	kāu	k'ao	kao
+ㄎㄠˇ	kǎo	kǎu	kǎu	k'ao3	kǎo
+ㄎㄠˋ	kào	kàu	kàu	k'ao4	kào
+ㄎㄡ	kōu	kōu	kōu	k'ou	kou
+ㄎㄡˇ	kǒu	kǒu	kǒu	k'ou3	kǒu
+ㄎㄡˋ	kòu	kòu	kòu	k'ou4	kòu
+ㄎㄢ	kān	kān	kān	k'an	kan
+ㄎㄢˇ	kǎn	kǎn	kǎn	k'an3	kǎn
+ㄎㄢˋ	kàn	kàn	kàn	k'an4	kàn
+ㄎㄣ	kēn	kēn	kēn	k'ên	ken
+ㄎㄣˇ	kěn	kěn	kěn	k'ên3	kěn
+ㄎㄣˋ	kèn	kèn	kèn	k'ên4	kèn
+ㄎㄤ	kāng	kāng	kāng	k'ang	kang
+ㄎㄤˊ	káng	káng	káng	k'ang2	káng
+ㄎㄤˇ	kǎng	kǎng	kǎng	k'ang3	kǎng
+ㄎㄤˋ	kàng	kàng	kàng	k'ang4	kàng
+ㄎㄥ	kēng	kēng	kēng	k'êng	keng
+ㄎㄥˇ	kěng	kěng	kěng	k'êng3	kěng
+ㄎㄨ	kū	kū	kū	k'u	ku
+ㄎㄨˊ	kú	kú	kú	k'u2	kú
+ㄎㄨˇ	kǔ	kǔ	kǔ	k'u3	kǔ
+ㄎㄨˋ	kù	kù	kù	k'u4	kù
+ㄎㄨㄚ	kuā	kuā	kwā	k'ua	kua
+ㄎㄨㄚˇ	kuǎ	kuǎ	kwǎ	k'ua3	kuǎ
+ㄎㄨㄚˋ	kuà	kuà	kwà	k'ua4	kuà
+ㄎㄨㄛˋ	kuò	kuò	kwò	k'uo4	kuò
+ㄎㄨㄞ	kuāi	kuāi	kwāi	k'uai	kuai
+ㄎㄨㄞˇ	kuǎi	kuǎi	kwǎi	k'uai3	kuǎi
+ㄎㄨㄞˋ	kuài	kuài	kwài	k'uai4	kuài
+ㄎㄨㄟ	kuī	kuēi	kwēi	k'uei	kuei
+ㄎㄨㄟˊ	kuí	kuéi	kwéi	k'uei2	kuéi
+ㄎㄨㄟˇ	kuǐ	kuěi	kwěi	k'uei3	kuěi
+ㄎㄨㄟˋ	kuì	kuèi	kwèi	k'uei4	kuèi
+ㄎㄨㄢ	kuān	kuān	kwān	k'uan	kuan
+ㄎㄨㄢˇ	kuǎn	kuǎn	kwǎn	k'uan3	kuǎn
+ㄎㄨㄢˋ	kuàn	kuàn	kwàn	k'uan4	kuàn
+ㄎㄨㄣ	kūn	kuēn	kwūn	k'un	kun
+ㄎㄨㄣˇ	kǔn	kuěn	kwǔn	k'un3	kǔn
+ㄎㄨㄣˋ	kùn	kuèn	kwùn	k'un4	kùn
+ㄎㄨㄤ	kuāng	kuāng	kwāng	k'uang	kuang
+ㄎㄨㄤˊ	kuáng	kuáng	kwáng	k'uang2	kuáng
+ㄎㄨㄤˇ	kuǎng	kuǎng	kwǎng	k'uang3	kuǎng
+ㄎㄨㄤˋ	kuàng	kuàng	kwàng	k'uang4	kuàng
+ㄎㄨㄥ	kōng	kūng	kūng	k'ung	kong
+ㄎㄨㄥˇ	kǒng	kǔng	kǔng	k'ung3	kǒng
+ㄎㄨㄥˋ	kòng	kùng	kùng	k'ung4	kòng
+ㄏㄚ	hā	hā	hā	ha	ha
+ㄏㄚˊ	há	há	há	ha2	há
+ㄏㄚˇ	hǎ	hǎ	hǎ	ha3	hǎ
+ㄏㄜ	hē	hē	hē	hê	he
+ㄏㄜˊ	hé	hé	hé	hê2	hé
+ㄏㄜˇ	hě	hě	hě	hê3	hě
+ㄏㄜˋ	hè	hè	hè	hê4	hè
+ㄏㄞ	hāi	hāi	hāi	hai	hai
+ㄏㄞˊ	hái	hái	hái	hai2	hái
+ㄏㄞˇ	hǎi	hǎi	hǎi	hai3	hǎi
+ㄏㄞˋ	hài	hài	hài	hai4	hài
+ㄏㄟ	hēi	hēi	hēi	hei	hei
+ㄏㄟˇ	hěi	hěi	hěi	hei3	hěi
+ㄏㄠ	hāo	hāu	hāu	hao	hao
+ㄏㄠˊ	háo	háu	háu	hao2	háo
+ㄏㄠˇ	hǎo	hǎu	hǎu	hao3	hǎo
+ㄏㄠˋ	hào	hàu	hàu	hao4	hào
+ㄏㄡ	hōu	hōu	hōu	hou	hou
+ㄏㄡˊ	hóu	hóu	hóu	hou2	hóu
+ㄏㄡˇ	hǒu	hǒu	hǒu	hou3	hǒu
+ㄏㄡˋ	hòu	hòu	hòu	hou4	hòu
+ㄏㄢ	hān	hān	hān	han	han
+ㄏㄢˊ	hán	hán	hán	han2	hán
+ㄏㄢˇ	hǎn	hǎn	hǎn	han3	hǎn
+ㄏㄢˋ	hàn	hàn	hàn	han4	hàn
+ㄏㄣ	hēn	hēn	hēn	hên	hen
+ㄏㄣˊ	hén	hén	hén	hên2	hén
+ㄏㄣˇ	hěn	hěn	hěn	hên3	hěn
+ㄏㄣˋ	hèn	hèn	hèn	hên4	hèn
+ㄏㄤ	hāng	hāng	hāng	hang	hang
+ㄏㄤˊ	háng	háng	háng	hang2	háng
+ㄏㄤˇ	hǎng	hǎng	hǎng	hang3	hǎng
+ㄏㄤˋ	hàng	hàng	hàng	hang4	hàng
+ㄏㄥ	hēng	hēng	hēng	hêng	heng
+ㄏㄥˊ	héng	héng	héng	hêng2	héng
+ㄏㄥˋ	hèng	hèng	hèng	hêng4	hèng
+ㄏㄨ	hū	hū	hū	hu	hu
+ㄏㄨˊ	hú	hú	hú	hu2	hú
+ㄏㄨˇ	hǔ	hǔ	hǔ	hu3	hǔ
+ㄏㄨˋ	hù	hù	hù	hu4	hù
+ㄏㄨㄚ	huā	huā	hwā	hua	hua
+ㄏㄨㄚˊ	huá	huá	hwá	hua2	huá
+ㄏㄨㄚˇ	huǎ	huǎ	hwǎ	hua3	huǎ
+ㄏㄨㄚˋ	huà	huà	hwà	hua4	huà
+ㄏㄨㄛ	huō	huō	hwō	huo	huo
+ㄏㄨㄛˊ	huó	huó	hwó	huo2	huó
+ㄏㄨㄛˇ	huǒ	huǒ	hwǒ	huo3	huǒ
+ㄏㄨㄛˋ	huò	huò	hwò	huo4	huò
+˙ㄏㄨㄛ	huo	huo	hwo	huo5	huo˚
+ㄏㄨㄞˊ	huái	huái	hwái	huai2	huái
+ㄏㄨㄞˋ	huài	huài	hwài	huai4	huài
+ㄏㄨㄟ	huī	huēi	hwēi	hui	huei
+ㄏㄨㄟˊ	huí	huéi	hwéi	hui2	huéi
+ㄏㄨㄟˇ	huǐ	huěi	hwěi	hui3	huěi
+ㄏㄨㄟˋ	huì	huèi	hwèi	hui4	huèi
+ㄏㄨㄢ	huān	huān	hwān	huan	huan
+ㄏㄨㄢˊ	huán	huán	hwán	huan2	huán
+ㄏㄨㄢˇ	huǎn	huǎn	hwǎn	huan3	huǎn
+ㄏㄨㄢˋ	huàn	huàn	hwàn	huan4	huàn
+ㄏㄨㄣ	hūn	huēn	hwūn	hun	hun
+ㄏㄨㄣˊ	hún	huén	hwún	hun2	hún
+ㄏㄨㄣˇ	hǔn	huěn	hwǔn	hun3	hǔn
+ㄏㄨㄣˋ	hùn	huèn	hwùn	hun4	hùn
+ㄏㄨㄤ	huāng	huāng	hwāng	huang	huang
+ㄏㄨㄤˊ	huáng	huáng	hwáng	huang2	huáng
+ㄏㄨㄤˇ	huǎng	huǎng	hwǎng	huang3	huǎng
+ㄏㄨㄤˋ	huàng	huàng	hwàng	huang4	huàng
+˙ㄏㄨㄤ	huang	huang	hwang	huang5	huang˚
+ㄏㄨㄥ	hōng	hūng	hūng	hung	hong
+ㄏㄨㄥˊ	hóng	húng	húng	hung2	hóng
+ㄏㄨㄥˇ	hǒng	hǔng	hǔng	hung3	hǒng
+ㄏㄨㄥˋ	hòng	hùng	hùng	hung4	hòng
+ㄐㄧ	jī	jī	jī	chi	ji
+ㄐㄧˊ	jí	jí	jí	chi2	jí
+ㄐㄧˇ	jǐ	jǐ	jǐ	chi3	jǐ
+ㄐㄧˋ	jì	jì	jì	chi4	jì
+ㄐㄧㄚ	jiā	jiā	jyā	chia	jia
+ㄐㄧㄚˊ	jiá	jiá	jyá	chia2	jiá
+ㄐㄧㄚˇ	jiǎ	jiǎ	jyǎ	chia3	jiǎ
+ㄐㄧㄚˋ	jià	jià	jyà	chia4	jià
+ㄐㄧㄝ	jiē	jiē	jyē	chieh	jie
+ㄐㄧㄝˊ	jié	jié	jyé	chieh2	jié
+ㄐㄧㄝˇ	jiě	jiě	jyě	chieh3	jiě
+ㄐㄧㄝˋ	jiè	jiè	jyè	chieh4	jiè
+˙ㄐㄧㄝ	jie	jie	jye	chieh5	jie˚
+ㄐㄧㄠ	jiāo	jiāu	jyāu	chiao	jiao
+ㄐㄧㄠˊ	jiáo	jiáu	jyáu	chiao2	jiáo
+ㄐㄧㄠˇ	jiǎo	jiǎu	jyǎu	chiao3	jiǎo
+ㄐㄧㄠˋ	jiào	jiàu	jyàu	chiao4	jiào
+ㄐㄧㄡ	jiū	jiōu	jyōu	chiu	jiou
+ㄐㄧㄡˇ	jiǔ	jiǒu	jyǒu	chiu3	jiǒu
+ㄐㄧㄡˋ	jiù	jiòu	jyòu	chiu4	jiòu
+ㄐㄧㄢ	jiān	jiān	jyān	chien	jian
+ㄐㄧㄢˇ	jiǎn	jiǎn	jyǎn	chien3	jiǎn
+ㄐㄧㄢˋ	jiàn	jiàn	jyàn	chien4	jiàn
+ㄐㄧㄣ	jīn	jīn	jīn	chin	jin
+ㄐㄧㄣˇ	jǐn	jǐn	jǐn	chin3	jǐn
+ㄐㄧㄣˋ	jìn	jìn	jìn	chin4	jìn
+ㄐㄧㄤ	jiāng	jiāng	jyāng	chiang	jiang
+ㄐㄧㄤˊ	jiáng	jiáng	jyáng	chiang2	jiáng
+ㄐㄧㄤˇ	jiǎng	jiǎng	jyǎng	chiang3	jiǎng
+ㄐㄧㄤˋ	jiàng	jiàng	jyàng	chiang4	jiàng
+ㄐㄧㄥ	jīng	jīng	jīng	ching	jing
+ㄐㄧㄥˇ	jǐng	jǐng	jǐng	ching3	jǐng
+ㄐㄧㄥˋ	jìng	jìng	jìng	ching4	jìng
+ㄐㄩ	jū	jiū	jyū	chü	jyu
+ㄐㄩˊ	jú	jiú	jyú	chü2	jyú
+ㄐㄩˇ	jǔ	jiǔ	jyǔ	chü3	jyǔ
+ㄐㄩˋ	jù	jiù	jyù	chü4	jyù
+ㄐㄩㄝ	juē	jiuē	jywē	chüeh	jyue
+ㄐㄩㄝˊ	jué	jiué	jywé	chüeh2	jyué
+ㄐㄩㄝˇ	juě	jiuě	jywě	chüeh3	jyuě
+ㄐㄩㄝˋ	juè	jiuè	jywè	chüeh4	jyuè
+ㄐㄩㄢ	juān	jiuān	jywān	chüan	jyuan
+ㄐㄩㄢˇ	juǎn	jiuǎn	jywǎn	chüan3	jyuǎn
+ㄐㄩㄢˋ	juàn	jiuàn	jywàn	chüan4	jyuàn
+ㄐㄩㄣ	jūn	jiūn	jyūn	chün	jyun
+ㄐㄩㄣˊ	jún	jiún	jyún	chün2	jyún
+ㄐㄩㄣˇ	jǔn	jiǔn	jyǔn	chün3	jyǔn
+ㄐㄩㄣˋ	jùn	jiùn	jyùn	chün4	jyùn
+ㄐㄩㄥ	jiōng	jiūng	jyūng	chiung	jyong
+ㄐㄩㄥˇ	jiǒng	jiǔng	jyǔng	chiung3	jyǒng
+ㄐㄩㄥˋ	jiòng	jiùng	jyùng	chiung4	jyòng
+˙ㄑ	q	ch	ch	ch'5	ch
+ㄑㄧ	qī	chī	chī	ch'i	ci
+ㄑㄧˊ	qí	chí	chí	ch'i2	cí
+ㄑㄧˇ	qǐ	chǐ	chǐ	ch'i3	cǐ
+ㄑㄧˋ	qì	chì	chì	ch'i4	cì
+ㄑㄧㄚ	qiā	chiā	chyā	ch'ia	cia
+ㄑㄧㄚˊ	qiá	chiá	chyá	ch'ia2	ciá
+ㄑㄧㄚˇ	qiǎ	chiǎ	chyǎ	ch'ia3	ciǎ
+ㄑㄧㄚˋ	qià	chià	chyà	ch'ia4	cià
+ㄑㄧㄝ	qiē	chiē	chyē	ch'ieh	cie
+ㄑㄧㄝˊ	qié	chié	chyé	ch'ieh2	cié
+ㄑㄧㄝˇ	qiě	chiě	chyě	ch'ieh3	ciě
+ㄑㄧㄝˋ	qiè	chiè	chyè	ch'ieh4	ciè
+ㄑㄧㄠ	qiāo	chiāu	chyāu	ch'iao	ciao
+ㄑㄧㄠˊ	qiáo	chiáu	chyáu	ch'iao2	ciáo
+ㄑㄧㄠˇ	qiǎo	chiǎu	chyǎu	ch'iao3	ciǎo
+ㄑㄧㄠˋ	qiào	chiàu	chyàu	ch'iao4	ciào
+ㄑㄧㄡ	qiū	chiōu	chyōu	ch'iu	ciou
+ㄑㄧㄡˊ	qiú	chióu	chyóu	ch'iu2	cióu
+ㄑㄧㄡˇ	qiǔ	chiǒu	chyǒu	ch'iu3	ciǒu
+ㄑㄧㄡˋ	qiù	chiòu	chyòu	ch'iu4	ciòu
+ㄑㄧㄢ	qiān	chiān	chyān	ch'ien	cian
+ㄑㄧㄢˊ	qián	chián	chyán	ch'ien2	cián
+ㄑㄧㄢˇ	qiǎn	chiǎn	chyǎn	ch'ien3	ciǎn
+ㄑㄧㄢˋ	qiàn	chiàn	chyàn	ch'ien4	ciàn
+ㄑㄧㄣ	qīn	chīn	chīn	ch'in	cin
+ㄑㄧㄣˊ	qín	chín	chín	ch'in2	cín
+ㄑㄧㄣˇ	qǐn	chǐn	chǐn	ch'in3	cǐn
+ㄑㄧㄣˋ	qìn	chìn	chìn	ch'in4	cìn
+ㄑㄧㄤ	qiāng	chiāng	chyāng	ch'iang	ciang
+ㄑㄧㄤˊ	qiáng	chiáng	chyáng	ch'iang2	ciáng
+ㄑㄧㄤˇ	qiǎng	chiǎng	chyǎng	ch'iang3	ciǎng
+ㄑㄧㄤˋ	qiàng	chiàng	chyàng	ch'iang4	ciàng
+ㄑㄧㄥ	qīng	chīng	chīng	ch'ing	cing
+ㄑㄧㄥˊ	qíng	chíng	chíng	ch'ing2	cíng
+ㄑㄧㄥˇ	qǐng	chǐng	chǐng	ch'ing3	cǐng
+ㄑㄧㄥˋ	qìng	chìng	chìng	ch'ing4	cìng
+ㄑㄩ	qū	chiū	chyū	ch'ü	cyu
+ㄑㄩˊ	qú	chiú	chyú	ch'ü2	cyú
+ㄑㄩˇ	qǔ	chiǔ	chyǔ	ch'ü3	cyǔ
+ㄑㄩˋ	qù	chiù	chyù	ch'ü4	cyù
+ㄑㄩㄝ	quē	chiuē	chywē	ch'üeh	cyuē
+ㄑㄩㄝˊ	qué	chiué	chywé	ch'ueh2	cyué
+ㄑㄩㄝˋ	què	chiuè	chywè	ch'ueh4	cyuè
+ㄑㄩㄢ	quān	chiuān	chywān	ch'üan	cyuan
+ㄑㄩㄢˊ	quán	chiuán	chywán	ch'üan2	cyuán
+ㄑㄩㄢˇ	quǎn	chiuǎn	chywǎn	ch'üan3	cyuǎn
+ㄑㄩㄢˋ	quàn	chiuàn	chywàn	ch'üan4	cyuàn
+ㄑㄩㄣ	qūn	chiūn	chyūn	ch'ün	cyun
+ㄑㄩㄣˊ	qún	chiún	chyún	ch'ün2	cyún
+ㄑㄩㄣˇ	qǔn	chiǔn	chyǔn	ch'ün3	cyǔn
+ㄑㄩㄣˋ	qùn	chiùn	chyùn	ch'ün4	cyùn
+ㄑㄩㄥ	qiōng	chiūng	chyūng	ch'iung	cyōng
+ㄑㄩㄥˊ	qióng	chiúng	chyúng	ch'iung2	cyóng
+ㄑㄩㄥˇ	qiǒng	chiǔng	chyǔng	ch'iung3	cyǒng
+ㄑㄩㄥˋ	qiòng	chiùng	chyùng	ch'iung4	cyòng
+ㄒㄧ	xī	shī	syī	hsi	si
+ㄒㄧˊ	xí	shī	syī	hsi2	sī
+ㄒㄧˇ	xǐ	shǐ	syǐ	hsi3	sǐ
+ㄒㄧˋ	xì	shì	syì	hsi4	sì
+ㄒㄧㄚ	xiā	shiā	syā	hsia	sia
+ㄒㄧㄚˊ	xiá	shiá	syá	hsia2	siá
+ㄒㄧㄚˇ	xiǎ	shiǎ	syǎ	hsia3	siǎ
+ㄒㄧㄚˋ	xià	shià	syà	hsia4	sià
+ㄒㄧㄝ	xiē	shiē	syē	hsieh	sie
+ㄒㄧㄝˊ	xié	shié	syé	hsieh2	sié
+ㄒㄧㄝˇ	xiě	shiě	syě	hsieh3	siě
+ㄒㄧㄝˋ	xiè	shiè	syè	hsieh4	siè
+ㄒㄧㄠ	xiāo	shiāu	syāu	hsiao	siao
+ㄒㄧㄠˊ	xiáo	shiáu	syáu	hsiao2	siáo
+ㄒㄧㄠˇ	xiǎo	shiǎu	syǎu	hsiao3	siǎo
+ㄒㄧㄠˋ	xiào	shiàu	syàu	hsiao4	siào
+ㄒㄧㄡ	xiū	shiōu	syōu	hsiu	siou
+ㄒㄧㄡˊ	xiú	shióu	syóu	hsiu2	sióu
+ㄒㄧㄡˇ	xiǔ	shiǒu	syǒu	hsiu3	siǒu
+ㄒㄧㄡˋ	xiù	shiòu	syòu	hsiu4	siòu
+ㄒㄧㄢ	xiān	shiān	syān	hsien	sian
+ㄒㄧㄢˊ	xián	shián	syán	hsien2	sián
+ㄒㄧㄢˇ	xiǎn	shiǎn	syǎn	hsien3	siǎn
+ㄒㄧㄢˋ	xiàn	shiàn	syàn	hsien4	siàn
+ㄒㄧㄣ	xīn	shīn	syīn	hsin	sin
+ㄒㄧㄣˊ	xín	shīn	syīn	hsin2	sīn
+ㄒㄧㄣˇ	xǐn	shǐn	syǐn	hsin3	sǐn
+ㄒㄧㄣˋ	xìn	shìn	syìn	hsin4	sìn
+ㄒㄧㄤ	xiāng	shiāng	syāng	hsiang	siang
+ㄒㄧㄤˊ	xiáng	shiáng	syáng	hsiang2	siáng
+ㄒㄧㄤˇ	xiǎng	shiǎng	syǎng	hsiang3	siǎng
+ㄒㄧㄤˋ	xiàng	shiàng	syàng	hsiang4	siàng
+ㄒㄧㄥ	xīng	shīng	syīng	hsing	sing
+ㄒㄧㄥˊ	xíng	shīng	syīng	hsing2	sīng
+ㄒㄧㄥˇ	xǐng	shǐng	syǐng	hsing3	sǐng
+ㄒㄧㄥˋ	xìng	shìng	syìng	hsing4	sìng
+ㄒㄩ	xū	shiū	syū	hsü	syu
+ㄒㄩˊ	xú	shiú	syú	hsü2	syú
+ㄒㄩˇ	xǔ	shiǔ	syǔ	hsü3	syǔ
+ㄒㄩˋ	xù	shiù	syù	hsü4	syù
+ㄒㄩㄝ	xuē	shiuē	sywē	hsüeh	syue
+ㄒㄩㄝˊ	xué	shiué	sywé	hsüeh2	syué
+ㄒㄩㄝˇ	xuě	shiuě	sywě	hsüeh3	syuě
+ㄒㄩㄝˋ	xuè	shiuè	sywè	hsüeh4	syuè
+ㄒㄩㄢ	xuān	shiuān	sywān	hsüan	syuan
+ㄒㄩㄢˊ	xuán	shiuán	sywán	hsüan2	syuán
+ㄒㄩㄢˇ	xuǎn	shiuǎn	sywǎn	hsüan3	syuǎn
+ㄒㄩㄢˋ	xuàn	shiuàn	sywàn	hsüan4	syuàn
+ㄒㄩㄣ	xūn	shiūn	syūn	hsün	syun
+ㄒㄩㄣˊ	xún	shiún	syún	hsün2	syún
+ㄒㄩㄣˋ	xùn	shiùn	syùn	hsün4	syùn
+ㄒㄩㄥ	xiōng	shiūng	syūng	hsiung	syong
+ㄒㄩㄥˊ	xióng	shiúng	syúng	hsiung2	syóng
+ㄒㄩㄥˇ	xiǒng	shiǔng	syǔng	hsiung3	syǒng
+ㄒㄩㄥˋ	xiòng	shiùng	syùng	hsiung4	syòng
+ㄓ	zhī	jr̄	jr̄	chih	jhih
+ㄓˊ	zhí	jŕ	jŕ	chih2	jhíh
+ㄓˇ	zhǐ	jř	jř	chih3	jhǐh
+ㄓˋ	zhì	jr̀	jr̀	chih4	jhìh
+ㄓㄚ	zhā	jā	jā	cha	jha
+ㄓㄚˊ	zhá	já	já	cha2	jhá
+ㄓㄚˇ	zhǎ	jǎ	jǎ	cha3	jhǎ
+ㄓㄚˋ	zhà	jà	jà	cha4	jhà
+ㄓㄜ	zhē	jē	jē	chê	jhe
+ㄓㄜˊ	zhé	jé	jé	chê2	jhé
+ㄓㄜˇ	zhě	jě	jě	chê3	jhě
+ㄓㄜˋ	zhè	jè	jè	chê4	jhè
+˙ㄓㄜ	zhe	je	je	chê5	jhe˚
+ㄓㄞ	zhāi	jāi	jāi	chai	jhai
+ㄓㄞˊ	zhái	jái	jái	chai2	jhái
+ㄓㄞˇ	zhǎi	jǎi	jǎi	chai3	jhǎi
+ㄓㄞˋ	zhài	jài	jài	chai4	jhài
+ㄓㄟˋ	zhèi	jèi	jèi	chei4	jhèi
+ㄓㄠ	zhāo	jāu	jāu	chao	jhao
+ㄓㄠˊ	zháo	jáu	jáu	chao2	jháo
+ㄓㄠˇ	zhǎo	jǎu	jǎu	chao3	jhǎo
+ㄓㄠˋ	zhào	jàu	jàu	chao4	jhào
+ㄓㄡ	zhōu	jōu	jōu	chou	jhou
+ㄓㄡˊ	zhóu	jóu	jóu	chou2	jhóu
+ㄓㄡˇ	zhǒu	jǒu	jǒu	chou3	jhǒu
+ㄓㄡˋ	zhòu	jòu	jòu	chou4	jhòu
+ㄓㄢ	zhān	jān	jān	chan	jhan
+ㄓㄢˇ	zhǎn	jǎn	jǎn	chan3	jhǎn
+ㄓㄢˋ	zhàn	jàn	jàn	chan4	jhàn
+ㄓㄣ	zhēn	jēn	jēn	chên	jhen
+ㄓㄣˊ	zhén	jén	jén	chên2	jhén
+ㄓㄣˇ	zhěn	jěn	jěn	chên3	jhěn
+ㄓㄣˋ	zhèn	jèn	jèn	chên4	jhèn
+ㄓㄤ	zhāng	jāng	jāng	chang	jhang
+ㄓㄤˇ	zhǎng	jǎng	jǎng	chang3	jhǎng
+ㄓㄤˋ	zhàng	jàng	jàng	chang4	jhàng
+ㄓㄥ	zhēng	jēng	jēng	chêng	jheng
+ㄓㄥˇ	zhěng	jěng	jěng	chêng3	jhěng
+ㄓㄥˋ	zhèng	jèng	jèng	chêng4	jhèng
+ㄓㄨ	zhū	jū	jū	chu	jhu
+ㄓㄨˊ	zhú	jú	jú	chu2	jhú
+ㄓㄨˇ	zhǔ	jǔ	jǔ	chu3	jhǔ
+ㄓㄨˋ	zhù	jù	jù	chu4	jhù
+ㄓㄨㄚ	zhuā	juā	jwā	chua	jhua
+ㄓㄨㄚˇ	zhuǎ	juǎ	jwǎ	chua3	jhuǎ
+ㄓㄨㄛ	zhuō	juō	jwō	cho	jhuo
+ㄓㄨㄛˊ	zhuó	juó	jwó	cho2	jhuó
+ㄓㄨㄛˋ	zhuò	juò	jwò	cho4	jhuò
+ㄓㄨㄞ	zhuāi	juāi	jwāi	chuai	jhuai
+ㄓㄨㄞˇ	zhuǎi	juǎi	jwǎi	chuai3	jhuǎi
+ㄓㄨㄞˋ	zhuài	juài	jwài	chuai4	jhuài
+ㄓㄨㄟ	zhuī	juēi	jwēi	chui	jhuei
+ㄓㄨㄟˇ	zhuǐ	juěi	jwěi	chui3	jhuěi
+ㄓㄨㄟˋ	zhuì	juèi	jwèi	chui4	jhuèi
+ㄓㄨㄢ	zhuān	juān	jwān	chuan	jhuan
+ㄓㄨㄢˇ	zhuǎn	juǎn	jwǎn	chuan3	jhuǎn
+ㄓㄨㄢˋ	zhuàn	juàn	jwàn	chuan4	jhuàn
+ㄓㄨㄣ	zhūn	juēn	jwūn	chun	jhun
+ㄓㄨㄣˇ	zhǔn	juěn	jwǔn	chun3	jhǔn
+ㄓㄨㄣˋ	zhùn	juèn	jwùn	chun4	jhùn
+ㄓㄨㄤ	zhuāng	juāng	jwāng	chuang	jhuang
+ㄓㄨㄤˇ	zhuǎng	juǎng	jwǎng	chuang3	jhuǎng
+ㄓㄨㄤˋ	zhuàng	juàng	jwàng	chuang4	jhuàng
+ㄓㄨㄥ	zhōng	jūng	jūng	chung	jhōng
+ㄓㄨㄥˇ	zhǒng	jǔng	jǔng	chung3	jhǒng
+ㄓㄨㄥˋ	zhòng	jùng	jùng	chung4	jhòng
+ㄔ	chī	chr̄	chr̄	ch'ih	chih
+ㄔˊ	chí	chŕ	chŕ	ch'ih2	chíh
+ㄔˇ	chǐ	chř	chř	ch'ih3	chǐh
+ㄔˋ	chì	chr̀	chr̀	ch'ih4	chìh
+ㄔㄚ	chā	chā	chā	ch'a	cha
+ㄔㄚˊ	chá	chá	chá	ch'a2	chá
+ㄔㄚˇ	chǎ	chǎ	chǎ	ch'a3	chǎ
+ㄔㄚˋ	chà	chà	chà	ch'a4	chà
+ㄔㄜ	chē	chē	chē	ch'ê	che
+ㄔㄜˇ	chě	chě	chě	ch'ê3	chě
+ㄔㄜˋ	chè	chè	chè	ch'ê4	chè
+ㄔㄞ	chāi	chāi	chāi	ch'ai	chai
+ㄔㄞˊ	chái	chái	chái	ch'ai2	chái
+ㄔㄞˇ	chǎi	chǎi	chǎi	ch'ai3	chǎi
+ㄔㄞˋ	chài	chài	chài	ch'ai4	chài
+ㄔㄠ	chāo	chāu	chāu	ch'ao	chao
+ㄔㄠˊ	cháo	cháu	cháu	ch'ao2	cháo
+ㄔㄠˇ	chǎo	chǎu	chǎu	ch'ao3	chǎo
+ㄔㄠˋ	chào	chàu	chàu	ch'ao4	chào
+ㄔㄡ	chōu	chōu	chōu	ch'ou	chou
+ㄔㄡˊ	chóu	chóu	chóu	ch'ou2	chóu
+ㄔㄡˇ	chǒu	chǒu	chǒu	ch'ou3	chǒu
+ㄔㄡˋ	chòu	chòu	chòu	ch'ou4	chòu
+ㄔㄢ	chān	chān	chān	ch'an	chan
+ㄔㄢˊ	chán	chán	chán	ch'an2	chán
+ㄔㄢˇ	chǎn	chǎn	chǎn	ch'an3	chǎn
+ㄔㄢˋ	chàn	chàn	chàn	ch'an4	chàn
+ㄔㄣ	chēn	chēn	chēn	ch'ên	chen
+ㄔㄣˊ	chén	chén	chén	ch'ên2	chén
+ㄔㄣˇ	chěn	chěn	chěn	ch'ên3	chěn
+ㄔㄣˋ	chèn	chèn	chèn	ch'ên4	chèn
+˙ㄔㄣ	chen	chen	chen	ch'ên5	chen˚
+ㄔㄤ	chāng	chāng	chāng	ch'ang	chang
+ㄔㄤˊ	cháng	cháng	cháng	ch'ang2	cháng
+ㄔㄤˇ	chǎng	chǎng	chǎng	ch'ang3	chǎng
+ㄔㄤˋ	chàng	chàng	chàng	ch'ang4	chàng
+ㄔㄥ	chēng	chēng	chēng	ch'êng	cheng
+ㄔㄥˊ	chéng	chéng	chéng	ch'êng2	chéng
+ㄔㄥˇ	chěng	chěng	chěng	ch'êng3	chěng
+ㄔㄥˋ	chèng	chèng	chèng	ch'êng4	chèng
+ㄔㄨ	chū	chū	chū	ch'u	chu
+ㄔㄨˊ	chú	chú	chú	ch'u2	chú
+ㄔㄨˇ	chǔ	chǔ	chǔ	ch'u3	chǔ
+ㄔㄨˋ	chù	chù	chù	ch'u4	chù
+ㄔㄨㄚ	chuā	chuā	chwā	ch'ua	chua
+ㄔㄨㄚˇ	chuǎ	chuǎ	chwǎ	ch'ua3	chuǎ
+ㄔㄨㄚˋ	chuà	chuà	chwà	ch'ua4	chuà
+ㄔㄨㄛ	chuō	chuō	chwō	ch'o	chuo
+ㄔㄨㄛˋ	chuò	chuò	chwò	ch'o4	chuò
+ㄔㄨㄞ	chuāi	chuāi	chwāi	ch'uai	chuai
+ㄔㄨㄞˊ	chuái	chuái	chwái	ch'uai2	chuái
+ㄔㄨㄞˇ	chuǎi	chuǎi	chwǎi	ch'uai3	chuǎi
+ㄔㄨㄞˋ	chuài	chuài	chwài	ch'uai4	chuài
+ㄔㄨㄟ	chuī	chuēi	chwēi	ch'ui	chuei
+ㄔㄨㄟˊ	chuí	chuéi	chwēi	ch'ui2	chuéi
+ㄔㄨㄟˇ	chuǐ	chuěi	chwěi	ch'ui3	chuěi
+ㄔㄨㄟˋ	chuì	chuèi	chwèi	ch'ui4	chuèi
+ㄔㄨㄢ	chuān	chuān	chwān	ch'uan	chuan
+ㄔㄨㄢˊ	chuán	chuán	chwán	ch'uan2	chuán
+ㄔㄨㄢˇ	chuǎn	chuǎn	chwǎn	ch'uan3	chuǎn
+ㄔㄨㄢˋ	chuàn	chuàn	chwàn	ch'uan4	chuàn
+ㄔㄨㄣ	chūn	chuēn	chwūn	ch'un	chun
+ㄔㄨㄣˊ	chún	chuén	chwún	ch'un2	chún
+ㄔㄨㄣˇ	chǔn	chuěn	chwǔn	ch'un3	chǔn
+ㄔㄨㄤ	chuāng	chuāng	chwāng	ch'uang	chuang
+ㄔㄨㄤˊ	chuáng	chuáng	chwáng	ch'uang2	chuáng
+ㄔㄨㄤˇ	chuǎng	chuǎng	chwǎng	ch'uang3	chuǎng
+ㄔㄨㄤˋ	chuàng	chuàng	chwàng	ch'uang4	chuàng
+ㄔㄨㄥ	chōng	chūng	chūng	ch'ung	chong
+ㄔㄨㄥˊ	chóng	chúng	chúng	ch'ung2	chóng
+ㄔㄨㄥˇ	chǒng	chǔng	chǔng	ch'ung3	chǒng
+ㄔㄨㄥˋ	chòng	chùng	chùng	ch'ung4	chòng
+ㄕ	shī	shr̄	shr̄	shih	shih
+ㄕˊ	shí	shŕ	shŕ	shih2	shíh
+ㄕˇ	shǐ	shř	shř	shih3	shǐh
+ㄕˋ	shì	shr̀	shr̀	shih4	shìh
+˙ㄕ	shi	shr	shr	shih5	shih˚
+ㄕㄚ	shā	shā	shā	sha	sha
+ㄕㄚˊ	shá	shá	shá	sha2	shá
+ㄕㄚˇ	shǎ	shǎ	shǎ	sha3	shǎ
+ㄕㄚˋ	shà	shà	shà	sha4	shà
+˙ㄕㄚ	sha	sha	sha	sha5	sha˚
+ㄕㄜ	shē	shē	shē	shê	she
+ㄕㄜˊ	shé	shé	shé	shê2	shé
+ㄕㄜˇ	shě	shě	shě	shê3	shě
+ㄕㄜˋ	shè	shè	shè	shê4	shè
+ㄕㄞ	shāi	shāi	shāi	shai	shai
+ㄕㄞˇ	shǎi	shǎi	shǎi	shai3	shǎi
+ㄕㄞˋ	shài	shài	shài	shai4	shài
+ㄕㄟˊ	shéi	shéi	shéi	shei2	shéi
+ㄕㄠ	shāo	shāu	shāu	shao	shao
+ㄕㄠˊ	sháo	sháu	sháu	shao2	sháo
+ㄕㄠˇ	shǎo	shǎu	shǎu	shao3	shǎo
+ㄕㄠˋ	shào	shàu	shàu	shao4	shào
+ㄕㄡ	shōu	shōu	shōu	shou	shou
+ㄕㄡˊ	shóu	shóu	shóu	shou2	shóu
+ㄕㄡˇ	shǒu	shǒu	shǒu	shou3	shǒu
+ㄕㄡˋ	shòu	shòu	shòu	shou4	shòu
+ㄕㄢ	shān	shān	shān	shan	shan
+ㄕㄢˊ	shán	shán	shán	shan2	shán
+ㄕㄢˇ	shǎn	shǎn	shǎn	shan3	shǎn
+ㄕㄢˋ	shàn	shàn	shàn	shan4	shàn
+ㄕㄣ	shēn	shēn	shēn	shên	shen
+ㄕㄣˊ	shén	shén	shén	shên2	shén
+ㄕㄣˇ	shěn	shěn	shěn	shên3	shěn
+ㄕㄣˋ	shèn	shèn	shèn	shên4	shèn
+ㄕㄤ	shāng	shāng	shāng	shang	shang
+ㄕㄤˇ	shǎng	shǎng	shǎng	shang3	shǎng
+ㄕㄤˋ	shàng	shàng	shàng	shang4	shàng
+˙ㄕㄤ	shang	shang	shang	shang5	shang
+ㄕㄥ	shēng	shēng	shēng	shêng	sheng
+ㄕㄥˊ	shéng	shéng	shéng	shêng2	shéng
+ㄕㄥˇ	shěng	shěng	shěng	shêng3	shěng
+ㄕㄥˋ	shèng	shèng	shèng	shêng4	shèng
+ㄕㄨ	shū	shū	shū	shu	shu
+ㄕㄨˊ	shú	shú	shú	shu2	shú
+ㄕㄨˇ	shǔ	shǔ	shǔ	shu3	shǔ
+ㄕㄨˋ	shù	shù	shù	shu4	shù
+ㄕㄨㄚ	shuā	shuā	shwā	shua	shua
+ㄕㄨㄚˇ	shuǎ	shuǎ	shwǎ	shua3	shuǎ
+ㄕㄨㄚˋ	shuà	shuà	shwà	shua4	shuà
+ㄕㄨㄛ	shuō	shuō	shwō	shuo	shuo
+ㄕㄨㄛˋ	shuò	shuò	shwò	shuo4	shuò
+ㄕㄨㄞ	shuāi	shuāi	shwāi	shuai	shuai
+ㄕㄨㄞˇ	shuǎi	shuǎi	shwǎi	shuai3	shuǎi
+ㄕㄨㄞˋ	shuài	shuài	shwài	shuai4	shuài
+ㄕㄨㄟ	shuī	shuēi	shwēi	shui	shuei
+ㄕㄨㄟˊ	shuí	shuéi	shwéi	shui2	shuéi
+ㄕㄨㄟˇ	shuǐ	shuěi	shwěi	shui3	shuěi
+ㄕㄨㄟˋ	shuì	shuèi	shwèi	shui4	shuèi
+ㄕㄨㄢ	shuān	shuān	shwān	shuan	shuan
+ㄕㄨㄢˋ	shuàn	shuàn	shwàn	shuan4	shuàn
+ㄕㄨㄣˇ	shǔn	shuěn	shwǔn	shun3	shǔn
+ㄕㄨㄣˋ	shùn	shuèn	shwùn	shun4	shùn
+ㄕㄨㄤ	shuāng	shuāng	shwāng	shuang	shuang
+ㄕㄨㄤˊ	shuáng	shuáng	shwáng	shuang2	shuáng
+ㄕㄨㄤˇ	shuǎng	shuǎng	shwǎng	shuang3	shuǎng
+ㄕㄨㄤˋ	shuàng	shuàng	shwàng	shuang4	shuàng
+ㄖˋ	rì	r̀	r̀	jih4	rìh
+ㄖㄜˇ	rě	rě	rě	jê3	rě
+ㄖㄜˋ	rè	rè	rè	jê4	rè
+ㄖㄠˊ	ráo	ráu	ráu	jao2	ráo
+ㄖㄠˇ	rǎo	rǎu	rǎu	jao3	rǎo
+ㄖㄠˋ	rào	ràu	ràu	jao4	rào
+ㄖㄡˊ	róu	róu	róu	jou2	róu
+ㄖㄡˇ	rǒu	rǒu	rǒu	jou3	rǒu
+ㄖㄡˋ	ròu	ròu	ròu	jou4	ròu
+ㄖㄢˊ	rán	rán	rán	jan2	rán
+ㄖㄢˇ	rǎn	rǎn	rǎn	jan3	rǎn
+ㄖㄢˋ	ràn	ràn	ràn	jan4	ràn
+ㄖㄣˊ	rén	rén	rén	jên2	rén
+ㄖㄣˇ	rěn	rěn	rěn	jên3	rěn
+ㄖㄣˋ	rèn	rèn	rèn	jên4	rèn
+ㄖㄤ	rāng	rāng	rāng	jang	rang
+ㄖㄤˊ	ráng	ráng	ráng	jang2	ráng
+ㄖㄤˇ	rǎng	rǎng	rǎng	jang3	rǎng
+ㄖㄤˋ	ràng	ràng	ràng	jang4	ràng
+ㄖㄥ	rēng	rēng	rēng	jêng	reng
+ㄖㄥˊ	réng	réng	réng	jêng2	réng
+ㄖㄥˇ	rěng	rěng	rěng	jêng3	rěng
+ㄖㄥˋ	rèng	rèng	rèng	jêng4	rèng
+ㄖㄨˊ	rú	rú	rú	ju2	rú
+ㄖㄨˇ	rǔ	rǔ	rǔ	ju3	rǔ
+ㄖㄨˋ	rù	rù	rù	ju4	rù
+ㄖㄨㄛˊ	ruó	ruó	rwó	jo2	ruó
+ㄖㄨㄛˋ	ruò	ruò	rwò	jo4	ruò
+ㄖㄨㄟˊ	ruí	ruéi	rwéi	jui2	ruéi
+ㄖㄨㄟˇ	ruǐ	ruěi	rwěi	jui3	ruěi
+ㄖㄨㄟˋ	ruì	ruèi	rwèi	jui4	ruèi
+ㄖㄨㄢˊ	ruán	ruán	rwán	juan2	ruán
+ㄖㄨㄢˇ	ruǎn	ruǎn	rwǎn	juan3	ruǎn
+ㄖㄨㄢˋ	ruàn	ruàn	rwàn	juan4	ruàn
+ㄖㄨㄣˊ	rún	ruén	rwún	jun2	rún
+ㄖㄨㄣˇ	rǔn	ruěn	rwǔn	jun3	rǔn
+ㄖㄨㄣˋ	rùn	ruèn	rwùn	jun4	rùn
+ㄖㄨㄥˊ	róng	rúng	rúng	jung2	róng
+ㄖㄨㄥˇ	rǒng	rǔng	rǔng	jung3	rǒng
+ㄖㄨㄥˋ	ròng	rùng	rùng	jung4	ròng
+ㄗ	zī	tz̄	dz̄	tzu	zih
+ㄗˊ	zí	tź	dź	tzu2	zíh
+ㄗˇ	zǐ	tž	dž	tzu3	zǐh
+ㄗˋ	zì	tz̀	dz̀	tzu4	zìh
+˙ㄗ	zi	tz	dz	tzu5	zih˚
+ㄗㄚ	zā	tzā	dzā	tsa	za
+ㄗㄚˊ	zá	tzá	dzá	tsa2	zá
+ㄗㄚˇ	zǎ	tzǎ	dzǎ	tsa3	zǎ
+ㄗㄜˊ	zé	tzé	dzé	tsê2	zé
+ㄗㄜˇ	zě	tzě	dzě	tsê3	zě
+ㄗㄜˋ	zè	tzè	dzè	tsê4	zè
+ㄗㄞ	zāi	tzāi	dzāi	tsai	zai
+ㄗㄞˇ	zǎi	tzǎi	dzǎi	tsai3	zǎi
+ㄗㄞˋ	zài	tzài	dzài	tsai4	zài
+ㄗㄟˊ	zéi	tzéi	dzéi	tsei2	zéi
+ㄗㄠ	zāo	tzāu	dzāu	tsao	zao
+ㄗㄠˊ	záo	tzáu	dzáu	tsao2	záo
+ㄗㄠˇ	zǎo	tzǎu	dzǎu	tsao3	zǎo
+ㄗㄠˋ	zào	tzàu	dzàu	tsao4	zào
+ㄗㄡ	zōu	tzōu	dzōu	tsou	zou
+ㄗㄡˇ	zǒu	tzǒu	dzǒu	tsou3	zǒu
+ㄗㄡˋ	zòu	tzòu	dzòu	tsou4	zòu
+ㄗㄢ	zān	tzān	dzān	tsan	zan
+ㄗㄢˊ	zán	tzán	dzán	tsan2	zán
+ㄗㄢˇ	zǎn	tzǎn	dzǎn	tsan3	zǎn
+ㄗㄢˋ	zàn	tzàn	dzàn	tsan4	zàn
+ㄗㄣ	zēn	tzēn	dzēn	tsên	zen
+ㄗㄣˇ	zěn	tzěn	dzěn	tsên3	zěn
+ㄗㄣˋ	zèn	tzèn	dzèn	tsên4	zèn
+ㄗㄤ	zāng	tzāng	dzāng	tsang	zang
+ㄗㄤˇ	zǎng	tzǎng	dzǎng	tsang3	zǎng
+ㄗㄤˋ	zàng	tzàng	dzàng	tsang4	zàng
+ㄗㄥ	zēng	tzēng	dzēng	tsêng	zeng
+ㄗㄥˇ	zěng	tzěng	dzěng	tsêng3	zěng
+ㄗㄥˋ	zèng	tzèng	dzèng	tsêng4	zèng
+ㄗㄨ	zū	tzū	dzū	tsu	zu
+ㄗㄨˊ	zú	tzú	dzú	tsu2	zú
+ㄗㄨˇ	zǔ	tzǔ	dzǔ	tsu3	zǔ
+ㄗㄨˋ	zù	tzù	dzù	tsu4	zù
+ㄗㄨㄛ	zuō	tzuō	dzwō	tso	zuo
+ㄗㄨㄛˊ	zuó	tzuó	dzwó	tso2	zuó
+ㄗㄨㄛˇ	zuǒ	tzuǒ	dzwǒ	tso3	zuǒ
+ㄗㄨㄛˋ	zuò	tzuò	dzwò	tso4	zuò
+˙ㄗㄨㄛ	zuo	tzuo	dzwo	tso5	zuo˚
+ㄗㄨㄟ	zuī	tzuēi	dzwēi	tsui	zuei
+ㄗㄨㄟˇ	zuǐ	tzuěi	dzwěi	tsui3	zuěi
+ㄗㄨㄟˋ	zuì	tzuèi	dzwèi	tsui4	zuèi
+ㄗㄨㄢ	zuān	tzuān	dzwān	tsuan	zuan
+ㄗㄨㄢˇ	zuǎn	tzuǎn	dzwǎn	tsuan3	zuǎn
+ㄗㄨㄢˋ	zuàn	tzuàn	dzwàn	tsuan4	zuàn
+ㄗㄨㄣ	zūn	tzuēn	dzwūn	tsun	zun
+ㄗㄨㄣˇ	zǔn	tzuěn	dzwǔn	tsun3	zǔn
+ㄗㄨㄣˋ	zùn	tzuèn	dzwùn	tsun4	zùn
+ㄗㄨㄥ	zōng	tzūng	dzūng	tsung	zong
+ㄗㄨㄥˇ	zǒng	tzǔng	dzǔng	tsung3	zǒng
+ㄗㄨㄥˋ	zòng	tzùng	dzùng	tsung4	zòng
+ㄘ	cī	tsz̄	tsz̄	tz'u	cih
+ㄘˊ	cí	tsź	tsź	tz'u2	cíh
+ㄘˇ	cǐ	tsž	tsž	tz'u3	cǐh
+ㄘˋ	cì	tsz̀	tsz̀	tz'u4	cìh
+ㄘㄚ	cā	tsā	tsā	ts'a	ca
+ㄘㄚˇ	cǎ	tsǎ	tsǎ	ts'a3	cǎ
+ㄘㄚˋ	cà	tsà	tsà	ts'a4	cà
+ㄘㄜˋ	cè	tsè	tsè	ts'ê4	cè
+ㄘㄞ	cāi	tsāi	tsāi	ts'ai	cai
+ㄘㄞˊ	cái	tsái	tsái	ts'ai2	cái
+ㄘㄞˇ	cǎi	tsǎi	tsǎi	ts'ai3	cǎi
+ㄘㄞˋ	cài	tsài	tsài	ts'ai4	cài
+ㄘㄠ	cāo	tsāu	tsāu	ts'ao	cao
+ㄘㄠˊ	cáo	tsáu	tsáu	ts'ao2	cáo
+ㄘㄠˇ	cǎo	tsǎu	tsǎu	ts'ao3	cǎo
+ㄘㄠˋ	cào	tsàu	tsàu	ts'ao4	cào
+ㄘㄡ	cōu	tsōu	tsōu	ts'ou	cou
+ㄘㄡˊ	cóu	tsóu	tsóu	ts'ou2	cóu
+ㄘㄡˇ	cǒu	tsǒu	tsǒu	ts'ou3	cǒu
+ㄘㄡˋ	còu	tsòu	tsòu	ts'ou4	còu
+ㄘㄢ	cān	tsān	tsān	ts'an	can
+ㄘㄢˊ	cán	tsán	tsán	ts'an2	cán
+ㄘㄢˇ	cǎn	tsǎn	tsǎn	ts'an3	cǎn
+ㄘㄢˋ	càn	tsàn	tsàn	ts'an4	càn
+ㄘㄣ	cēn	tsēn	tsēn	ts'ên	cen
+ㄘㄣˊ	cén	tsén	tsén	ts'ên2	cén
+ㄘㄤ	cāng	tsāng	tsāng	ts'ang	cang
+ㄘㄤˊ	cáng	tsáng	tsáng	ts'ang2	cáng
+ㄘㄤˇ	cǎng	tsǎng	tsǎng	ts'ang3	cǎng
+ㄘㄤˋ	càng	tsàng	tsàng	ts'ang4	càng
+ㄘㄥ	cēng	tsēng	tsēng	ts'êng	ceng
+ㄘㄥˊ	céng	tséng	tséng	ts'êng2	céng
+ㄘㄥˇ	cěng	tsěng	tsěng	ts'êng3	cěng
+ㄘㄥˋ	cèng	tsèng	tsèng	ts'êng4	cèng
+ㄘㄨ	cū	tsū	tsū	ts'u	cu
+ㄘㄨˊ	cú	tsú	tsú	ts'u2	cú
+ㄘㄨˇ	cǔ	tsǔ	tsǔ	ts'u3	cǔ
+ㄘㄨˋ	cù	tsù	tsù	ts'u4	cù
+ㄘㄨㄛ	cuō	tsuō	tswō	ts'o	cuo
+ㄘㄨㄛˊ	cuó	tsuó	tswó	ts'o2	cuó
+ㄘㄨㄛˇ	cuǒ	tsuǒ	tswǒ	ts'o3	cuǒ
+ㄘㄨㄛˋ	cuò	tsuò	tswò	ts'o4	cuò
+ㄘㄨㄟ	cuī	tsuēi	tswēi	ts'ui	cuei
+ㄘㄨㄟˇ	cuǐ	tsuěi	tswěi	ts'ui3	cuěi
+ㄘㄨㄟˋ	cuì	tsuèi	tswèi	ts'ui4	cuèi
+ㄘㄨㄢ	cuān	tsuān	tswān	ts'uan	cuan
+ㄘㄨㄢˊ	cuán	tsuán	tswán	ts'uan2	cuán
+ㄘㄨㄢˇ	cuǎn	tsuǎn	tswǎn	ts'uan3	cuǎn
+ㄘㄨㄢˋ	cuàn	tsuàn	tswàn	ts'uan4	cuàn
+ㄘㄨㄣ	cūn	tsuēn	tswūn	ts'un	cun
+ㄘㄨㄣˊ	cún	tsuén	tswún	ts'un2	cún
+ㄘㄨㄣˇ	cǔn	tsuěn	tswǔn	ts'un3	cǔn
+ㄘㄨㄣˋ	cùn	tsuèn	tswùn	ts'un4	cùn
+ㄘㄨㄥ	cōng	tsūng	tsūng	ts'ung	cong
+ㄘㄨㄥˊ	cóng	tsúng	tsúng	ts'ung2	cóng
+ㄘㄨㄥˇ	cǒng	tsǔng	tsǔng	ts'ung3	cǒng
+ㄘㄨㄥˋ	còng	tsùng	tsùng	ts'ung4	còng
+ㄙ	sī	sz̄	sz̄	ssu	sih
+ㄙˇ	sǐ	sž	sž	ssu3	sǐh
+ㄙˋ	sì	sz̀	sz̀	ssu4	sìh
+ㄙㄚ	sā	sā	sā	sa	sa
+ㄙㄚˇ	sǎ	sǎ	sǎ	sa3	sǎ
+ㄙㄚˋ	sà	sà	sà	sa4	sà
+˙ㄙㄚ	sa	sa	sa	sa5	sa˚
+ㄙㄜ	sē	sē	sē	sê	se
+ㄙㄜˋ	sè	sè	sè	sê4	sè
+ㄙㄞ	sāi	sāi	sāi	sai	sai
+ㄙㄞˊ	sái	sái	sái	sai2	sái
+ㄙㄞˇ	sǎi	sǎi	sǎi	sai3	sǎi
+ㄙㄞˋ	sài	sài	sài	sai4	sài
+ㄙㄟ	sēi	sēi	sēi	sei	sei
+ㄙㄠ	sāo	sāu	sāu	sao	sao
+ㄙㄠˇ	sǎo	sǎu	sǎu	sao3	sǎo
+ㄙㄠˋ	sào	sàu	sàu	sao4	sào
+ㄙㄡ	sōu	sōu	sōu	sou	sou
+ㄙㄡˇ	sǒu	sǒu	sǒu	sou3	sǒu
+ㄙㄡˋ	sòu	sòu	sòu	sou4	sòu
+ㄙㄢ	sān	sān	sān	san	san
+ㄙㄢˇ	sǎn	sǎn	sǎn	san3	sǎn
+ㄙㄢˋ	sàn	sàn	sàn	san4	sàn
+ㄙㄣ	sēn	sēn	sēn	sên	sen
+ㄙㄣˇ	sěn	sěn	sěn	sên3	sěn
+ㄙㄤ	sāng	sāng	sāng	sang	sang
+ㄙㄤˇ	sǎng	sǎng	sǎng	sang3	sǎng
+ㄙㄤˋ	sàng	sàng	sàng	sang4	sàng
+ㄙㄥ	sēng	sēng	sēng	sêng	seng
+ㄙㄥˋ	sèng	sèng	sèng	sêng4	sèng
+ㄙㄨ	sū	sū	sū	su	su
+ㄙㄨˊ	sú	sú	sú	su2	sú
+ㄙㄨˇ	sǔ	sǔ	sǔ	su3	sǔ
+ㄙㄨˋ	sù	sù	sù	su4	sù
+ㄙㄨㄛ	suō	suō	swō	so	suo
+ㄙㄨㄛˊ	suó	suó	swó	so2	suó
+ㄙㄨㄛˇ	suǒ	suǒ	swǒ	so3	suǒ
+ㄙㄨㄛˋ	suò	suò	swò	so4	suò
+ㄙㄨㄟ	suī	suēi	swēi	sui	suei
+ㄙㄨㄟˊ	suí	suéi	swéi	sui2	suéi
+ㄙㄨㄟˇ	suǐ	suěi	swěi	sui3	suěi
+ㄙㄨㄟˋ	suì	suèi	swèi	sui4	suèi
+ㄙㄨㄢ	suān	suān	swān	suan	suan
+ㄙㄨㄢˇ	suǎn	suǎn	swǎn	suan3	suǎn
+ㄙㄨㄢˋ	suàn	suàn	swàn	suan4	suàn
+ㄙㄨㄣ	sūn	suēn	swūn	sun	sun
+ㄙㄨㄣˇ	sǔn	suěn	swǔn	sun3	sǔn
+ㄙㄨㄣˋ	sùn	suèn	swǔn	sun4	sùn
+ㄙㄨㄥ	sōng	sūng	sūng	sung	song
+ㄙㄨㄥˊ	sóng	súng	súng	sung2	sóng
+ㄙㄨㄥˇ	sǒng	sǔng	sǔng	sung3	sǒng
+ㄙㄨㄥˋ	sòng	sùng	sùng	sung4	sòng
+ㄚ	ā	ā	ā	a	a
+ㄚˊ	á	á	á	a2	á
+ㄚˋ	à	à	à	a4	à
+˙ㄚ	a	a	a	a5	a˚
+ㄛ	ō	ō	ō	o	o
+ㄛˊ	ó	ó	ó	o2	ó
+ㄛˇ	ǒ	ǒ	ǒ	o3	ǒ
+ㄜ	ē	ē	ē	ê	e
+ㄜˊ	é	é	é	ê2	é
+ㄜˇ	ě	ě	ě	ê3	ě
+ㄜˋ	è	è	è	ê4	è
+ㄝˊ	ế	ế	ế	ê2	ế
+ㄝˇ	êˇ	êˇ	êˇ	ê3	êˇ
+ㄝˋ	ề	ề	ề	ê4	ề
+˙ㄝ	ê	ê	ê	ê5	ê˚
+ㄞ	āi	āi	āi	ai	ai
+ㄞˊ	ái	ái	ái	ai2	ái
+ㄞˇ	ǎi	ǎi	ǎi	ai3	ǎi
+ㄞˋ	ài	ài	ài	ai4	ài
+ㄟˋ	èi	èi	èi	ei4	èi
+ㄠ	āo	āu	āu	ao	ao
+ㄠˊ	áo	áu	áu	ao2	áo
+ㄠˇ	ǎo	ǎu	ǎu	ao3	ǎo
+ㄠˋ	ào	àu	àu	ao4	ào
+ㄡ	ōu	ōu	ōu	ou	ou
+ㄡˊ	óu	óu	óu	ou2	óu
+ㄡˇ	ǒu	ǒu	ǒu	ou3	ǒu
+ㄡˋ	òu	òu	òu	ou4	òu
+˙ㄡ	ou	ou	ou	ou5	ou˚
+ㄢ	ān	ān	ān	an	an
+ㄢˊ	án	án	án	an2	án
+ㄢˇ	ǎn	ǎn	ǎn	an3	ǎn
+ㄢˋ	àn	àn	àn	an4	àn
+ㄣ	ēn	ēn	ēn	ên	en
+ㄣˊ	én	én	én	ên2	én
+ㄣˇ	ěn	ěn	ěn	ên3	ěn
+ㄣˋ	èn	èn	èn	ên4	èn
+˙ㄣ	en	en	en	ên5	en˚
+ㄤ	āng	āng	āng	ang	ang
+ㄤˊ	áng	áng	áng	ang2	áng
+ㄤˇ	ǎng	ǎng	ǎng	ang3	ǎng
+ㄤˋ	àng	àng	àng	ang4	àng
+ㄥ	ēng	ēng	ēng	êng	eng
+ㄥˋ	èng	èng	èng	êng4	èng
+ㄦ	ēr	ēr	ēr	êrh	er
+ㄦˊ	ér	ér	ér	êrh2	ér
+ㄦˇ	ěr	ěr	ěr	êrh3	ěr
+ㄦˋ	èr	èr	èr	êrh4	èr
+˙ㄦ	er	er	er	êrh5	er˚
+ㄧ	yī	yī	yī	i	yi
+ㄧˊ	yí	yí	yí	i2	yí
+ㄧˇ	yǐ	yǐ	yǐ	i3	yǐ
+ㄧˋ	yì	yì	yì	i4	yì
+ㄧㄚ	yā	yā	yā	ya	ya
+ㄧㄚˊ	yá	yá	yá	ya2	yá
+ㄧㄚˇ	yǎ	yǎ	yǎ	ya3	yǎ
+ㄧㄚˋ	yà	yà	yà	ya4	yà
+˙ㄧㄚ	ya	ya	ya	ya5	ya
+ㄧㄛ	yō	yō	yō	yo	yo
+˙ㄧㄛ	yo	yo	yo	yo5	yo˚
+ㄧㄝ	yē	yē	yē	yeh	ye
+ㄧㄝˊ	yé	yé	yé	yeh2	yé
+ㄧㄝˇ	yě	yě	yě	yeh3	yě
+ㄧㄝˋ	yè	yè	yè	yeh4	yè
+˙ㄧㄝ	ye	ye	ye	yeh5	ye
+ㄧㄞˊ	yái	yái	yái	yai2	yái
+ㄧㄠ	yāo	yāu	yāu	yao	yao
+ㄧㄠˊ	yáo	yáu	yáu	yao2	yáo
+ㄧㄠˇ	yǎo	yǎu	yǎu	yao3	yǎo
+ㄧㄠˋ	yào	yàu	yàu	yao4	yào
+ㄧㄡ	yōu	yōu	yōu	yu	you
+ㄧㄡˊ	yóu	yóu	yóu	yu2	yóu
+ㄧㄡˇ	yǒu	yǒu	yǒu	yu3	yǒu
+ㄧㄡˋ	yòu	yòu	yòu	yu4	yòu
+ㄧㄢ	yān	yān	yān	yen	yan
+ㄧㄢˊ	yán	yán	yán	yen2	yán
+ㄧㄢˇ	yǎn	yǎn	yǎn	yen3	yǎn
+ㄧㄢˋ	yàn	yàn	yàn	yen4	yàn
+ㄧㄣ	yīn	yīn	yīn	yin	yin
+ㄧㄣˊ	yín	yín	yín	yin2	yín
+ㄧㄣˇ	yǐn	yǐn	yǐn	yin3	yǐn
+ㄧㄣˋ	yìn	yìn	yìn	yin4	yìn
+ㄧㄤ	yāng	yāng	yāng	yang	yang
+ㄧㄤˊ	yáng	yáng	yáng	yang2	yáng
+ㄧㄤˇ	yǎng	yǎng	yǎng	yang3	yǎng
+ㄧㄤˋ	yàng	yàng	yàng	yang4	yàng
+ㄧㄥ	yīng	yīng	yīng	ying	ying
+ㄧㄥˊ	yíng	yíng	yíng	ying2	yíng
+ㄧㄥˇ	yǐng	yǐng	yǐng	ying3	yǐng
+ㄧㄥˋ	yìng	yìng	yìng	ying4	yìng
+ㄨ	wū	wū	wū	wu	wu
+ㄨˊ	wú	wú	wú	wu2	wú
+ㄨˇ	wǔ	wǔ	wǔ	wu3	wǔ
+ㄨˋ	wù	wù	wù	wu4	wù
+ㄨㄚ	wā	wā	wā	wa	wa
+ㄨㄚˊ	wá	wá	wá	wa2	wá
+ㄨㄚˇ	wǎ	wǎ	wǎ	wa3	wǎ
+ㄨㄚˋ	wà	wà	wà	wa4	wà
+˙ㄨㄚ	wa	wa	wa	wa5	wa˚
+ㄨㄛ	wō	wō	wō	wo	wo
+ㄨㄛˇ	wǒ	wǒ	wǒ	wo3	wǒ
+ㄨㄛˋ	wò	wò	wò	wo4	wò
+ㄨㄞ	wāi	wāi	wāi	wai	wai
+ㄨㄞˇ	wǎi	wǎi	wǎi	wai3	wǎi
+ㄨㄞˋ	wài	wài	wài	wai4	wài
+ㄨㄟ	wēi	wēi	wēi	wei	wei
+ㄨㄟˊ	wéi	wéi	wéi	wei2	wéi
+ㄨㄟˇ	wěi	wěi	wěi	wei3	wěi
+ㄨㄟˋ	wèi	wèi	wèi	wei4	wèi
+ㄨㄢ	wān	wān	wān	wan	wan
+ㄨㄢˊ	wán	wán	wán	wan2	wán
+ㄨㄢˇ	wǎn	wǎn	wǎn	wan3	wǎn
+ㄨㄢˋ	wàn	wàn	wàn	wan4	wàn
+ㄨㄣ	wēn	wēn	wēn	wên	wun
+ㄨㄣˊ	wén	wén	wén	wên2	wún
+ㄨㄣˇ	wěn	wěn	wěn	wên3	wǔn
+ㄨㄣˋ	wèn	wèn	wèn	wên4	wùn
+ㄨㄤ	wāng	wāng	wāng	wang	wang
+ㄨㄤˊ	wáng	wáng	wáng	wang2	wáng
+ㄨㄤˇ	wǎng	wǎng	wǎng	wang3	wǎng
+ㄨㄤˋ	wàng	wàng	wàng	wang4	wàng
+ㄨㄥ	wēng	wēng	wēng	wêng	wong
+ㄨㄥˇ	wěng	wěng	wěng	wêng3	wǒng
+ㄨㄥˋ	wèng	wèng	wèng	wêng4	wòng
+ㄩ	yū	yū	yū	yü	yu
+ㄩˊ	yú	yú	yú	yü2	yú
+ㄩˇ	yǔ	yǔ	yǔ	yü3	yǔ
+ㄩˋ	yù	yù	yù	yü4	yù
+ㄩㄝ	yuē	yuē	ywē	yüeh	yue
+ㄩㄝˇ	yuě	yuě	ywě	yüeh3	yuě
+ㄩㄝˋ	yuè	yuè	ywè	yüeh4	yuè
+ㄩㄢ	yuān	yuān	ywān	yüan	yuan
+ㄩㄢˊ	yuán	yuán	ywán	yüan2	yuán
+ㄩㄢˇ	yuǎn	yuǎn	ywǎn	yüan3	yuǎn
+ㄩㄢˋ	yuàn	yuàn	ywàn	yüan4	yuàn
+ㄩㄣ	yūn	yūn	yūn	yün	yun
+ㄩㄣˊ	yún	yún	yún	yün2	yún
+ㄩㄣˇ	yǔn	yǔn	yǔn	yün3	yǔn
+ㄩㄣˋ	yùn	yùn	yùn	yün4	yùn
+ㄩㄥ	yōng	yūng	yūng	yung	yong
+ㄩㄥˊ	yóng	yúng	yúng	yung2	yóng
+ㄩㄥˇ	yǒng	yǔng	yǔng	yung3	yǒng
+ㄩㄥˋ	yòng	yùng	yùng	yung4	yòng
