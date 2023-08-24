@@ -98,4 +98,4 @@ CJK Compatibility Ideographs Supplement (542 out of 542 characters)
 
 中华书局宋体15平面 (Regular) : 
 Basic Latin (95 out of 128 characters)
-Supplementary Private Use Area-A (42,525 out of 65,534 characters)
+Supplementary Private Use Area-A (42,693 out of 65,534 characters)
