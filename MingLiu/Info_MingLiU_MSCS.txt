@@ -1,5 +1,5 @@
-PMingLiU (Regular) : 
-Basic Latin (128 out of 128 characters)
+MingLiU_MSCS (Regular) : 
+Basic Latin (96 out of 128 characters)
 Latin-1 Supplement (128 out of 128 characters)
 Latin Extended-A (16 out of 128 characters)
 Latin Extended-B (11 out of 208 characters)
@@ -39,18 +39,17 @@ CJK Compatibility Forms (27 out of 32 characters)
 Small Form Variants (25 out of 26 characters)
 Halfwidth and Fullwidth Forms (164 out of 225 characters)
 
-PMingLiU-ExtB (Regular) : 
-Basic Latin (98 out of 128 characters)
+MingLiU_MSCS-ExtB (Regular) : 
+Basic Latin (96 out of 128 characters)
 Latin-1 Supplement (96 out of 128 characters)
 Latin Extended-A (5 out of 128 characters)
 Latin Extended-B (1 out of 208 characters)
 Spacing Modifier Letters (3 out of 80 characters)
 General Punctuation (8 out of 111 characters)
 Letterlike Symbols (1 out of 80 characters)
-CJK Unified Ideographs Extension B (42,711 out of 42,720 characters)
-CJK Unified Ideographs Extension C (4,149 out of 4,154 characters)
+CJK Unified Ideographs Extension B (42,713 out of 42,720 characters)
+CJK Unified Ideographs Extension C (4,150 out of 4,154 characters)
 CJK Unified Ideographs Extension D (222 out of 222 characters)
-CJK Unified Ideographs Extension E (1 out of 5,762 characters)
-CJK Unified Ideographs Extension F (1 out of 7,473 characters)
-CJK Compatibility Ideographs Supplement (11 out of 542 characters)
-
+CJK Unified Ideographs Extension E (52 out of 5,762 characters)
+CJK Unified Ideographs Extension F (23 out of 7,473 characters)
+CJK Compatibility Ideographs Supplement (15 out of 542 characters)

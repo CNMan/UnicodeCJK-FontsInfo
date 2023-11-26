@@ -1,7 +1,7 @@
-細明體/細明體_HKSCS/新細明體 Version 7.04(Windows 11 Insider Preview Build 25324)
+細明體/細明體_HKSCS/細明體_MSCS/新細明體 Version 7.10(Windows 11 Insider Preview Build 25997)
 
 字体文件Sha1
 ```
-2fa601e7d58cc53dc76bbe5fe2cae55e93ad0b7b *mingliu.ttc
-f707f49e1b14a7aa9404a5246613449fbd05b29a *mingliub.ttc
+50be55d4695cdbfcbc56fd857f58d5a9f9399b88 *mingliu.ttc
+5b56c92989aaca759cd806ade44af5055faa77f8 *mingliub.ttc
 ```
