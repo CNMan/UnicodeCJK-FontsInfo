@@ -1,3 +1,4 @@
 BabelStone Han PUA (Regular) : 
 Basic Latin (97 out of 128 characters)
-Private Use Area (4,573 out of 6,400 characters)
+Latin-1 Supplement (1 out of 128 characters)
+Private Use Area (5,660 out of 6,400 characters)
